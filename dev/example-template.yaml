@@ -1,0 +1,41 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  dev-opportunity-explorer
+
+Globals:
+  Function:
+    Runtime: go1.x
+    Architectures:
+      - x86_64
+    MemorySize: 256
+    Tracing: Active
+    Timeout: 180
+    Handler: main
+    Environment:
+      Variables:
+        DB_HOST: 
+        DB_USER: 
+        DB_PASSWORD: 
+        DB_NAME: 
+        #DB_HOST: 0.0.0.0
+        #DB_USER: 
+        #DB_PASSWORD: 
+        #DB_NAME: opex_local
+
+Resources:
+  NichesFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Role: arn:aws:iam::840725391265:role/OppExpResultsRole
+      CodeUri: NichesFunction/
+  ResultsFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Role: arn:aws:iam::840725391265:role/OppExpResultsRole
+      CodeUri: ResultsFunction/
+  KeywordsFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Role: arn:aws:iam::840725391265:role/OppExpResultsRole
+      CodeUri: KeywordsFunction/
