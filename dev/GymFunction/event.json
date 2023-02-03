@@ -1,8 +1,8 @@
 {
-    "body": "",
+    "body": "{\"gyms\": [{\"brand\":\"EOS\",\"location\":\"American Fork\", \"brandId\": 3}]}",
     "resource": "/{proxy+}",
     "path": "/path/to/resource",
-    "httpMethod": "GET",
+    "httpMethod": "POST",
     "isBase64Encoded": true,
     "queryStringParameters": {
         "foo": "bar"
