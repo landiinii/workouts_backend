@@ -3414,7 +3414,7 @@ Bb deadlift
 315x6x3
 365x1
 
-Axle standing OHP
+Axle bar OHP
 25x10x3
 75x10
 95x10
@@ -3574,7 +3574,7 @@ Atlas stones
 300x1
 175x8
 
-Axle OHP
+Axle bar OHP
 25x10
 75x10
 115x5x4
@@ -3616,7 +3616,7 @@ Car tire deadlift
 505x3
 395x6
 
-Axle strict OHP
+Axle bar OHP
 25x10
 75x10x2
 125x5x3
@@ -3967,7 +3967,7 @@ Axle bar OHP
 
 Valhalla AF Leg Day 10-12
 
-Axle bar back squat
+Axle bar back squats
 35x10
 125x10
 215x5
@@ -3981,7 +3981,7 @@ Front squat
 
 Valhalla AF Push Day 10-13
 
-Axle back squat
+Axle bar back squats
 35x10
 125x10
 215x8
@@ -4116,7 +4116,7 @@ Squats
 Hercules hold
 30 seconds 
 
-Axle press
+Axle bar OHP
 135x3
 155x2
 165x1x2
@@ -4265,7 +4265,7 @@ Stone over bar
 215x5
 230x1
 
-Axle bar press
+Axle bar OHP
 35x10
 85x5
 105x5
@@ -4799,7 +4799,7 @@ Ab rollouts
 
 Valhalla AF Push Day 12-16
 
-Axle clean and press 
+Axle clean and press
 135x3
 165x2
 185x2
@@ -4836,7 +4836,7 @@ Lying leg curl
 Hip adductors 
 260x12x3
 
-Back extension 
+Back extensions
 170x12x3
 
 Crunches

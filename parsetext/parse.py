@@ -106,7 +106,7 @@ for day in days:
     day_map[day[0]] = day[1]
 
 
-excers_set = set()
+excers_set = {}
 
 
 counter = 0
@@ -149,7 +149,15 @@ for wks in workouts:
                     )
                     workout_id = cursor.fetchone()
                     print(gym, city, day, workout_id)
-                # add excersizes here
+                excers = "\n".join(wks[1:]).strip().split("\n\n")
+                for exc in excers:
+                    exc = exc.strip("\n")
+                    exc = exc.split("\n")
+                    excers_set[exc[0]] = {
+                        "Workout": "",
+                        "Equipment": "",
+                        "Position": "",
+                    }
         else:
             print(gym, city, wks[0])
             continue
@@ -157,17 +165,13 @@ for wks in workouts:
         print(gym, wks[0])
         continue
 
-    # excers = "\n".join(wks[1:]).strip().split("\n\n")
-    # for exc in excers:
-    #     exc = exc.strip("\n")
-    #     exc = exc.split("\n")
-    #     excers_set.add(exc[0])
-
     counter += 1
 
-# sorted = list(excers_set)
-# sorted.sort()
-# print("\n".join(sorted))
+sorted = list(excers_set)
+sorted.sort()
+
+with open("excersizes.json", "w") as myfile:
+    myfile.write(str(excers_set))
 
 
 conn.commit()
