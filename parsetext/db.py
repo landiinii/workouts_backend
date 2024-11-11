@@ -37,3 +37,13 @@ con.sql("""
             date DATE
         );
 """)
+
+con.sql("CREATE SEQUENCE IF NOT EXISTS seq_workout_id START 1;");
+con.sql("""
+        CREATE TABLE IF NOT EXISTS workout (
+            id INTEGER PRIMARY KEY DEFAULT NEXTVAL('seq_workout_id'),
+            workout_type_id SMALLINT REFERENCES workout_type(id),
+            gym_id SMALLINT REFERENCES gym(id),
+            date DATE
+        );
+""")
