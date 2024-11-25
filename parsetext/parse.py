@@ -88,51 +88,42 @@ for wks in workouts:
                     exc = exc.strip("\n").split("\n")
                     exc_name = exc[0].strip().lower()
                     exc_name_parts = exc_name.split(" - ")
-                    if len(exc_name_parts) == 1:
-                        # excers_set[exc_name] = {
-                        #     "Workout": exc_name_parts[0],
-                        #     "Equipment": exc_name_parts[1].split(' / '),
-                        #     "Position": exc_name_parts[2].split(' / '),
-                        # }
-                        # if exc_name == '':
-                        #     print(f"Empty excersize: {date}")
-                        # for sets in exc[1:]:
-                        #     sets = sets.split(" x ")
-                        excers_set[exc_name] = {
-                            "Workout": "",
-                            "Equipment": "",
-                            "Position": "",
-                        }
+                    excers_set[exc_name] = {
+                        "Workout": exc_name_parts[0],
+                        "Equipment": exc_name_parts[1].split(' / '),
+                        "Position": exc_name_parts[2].split(' / '),
+                    }
+                    # if exc_name == '':
+                    #     print(f"Empty excersize: {date}")
+                    # for sets in exc[1:]:
+                    #     sets = sets.split(" x ")
             else:
                 print(f"Day not found: {date}")
     counter += 1
 
-# workouts = []
-# equipment = []
-# positions = []
-# for exc in excers_set:
-#     workouts.append(excers_set[exc]["Workout"])
-#     equipment += excers_set[exc]["Equipment"]
-#     positions += excers_set[exc]["Position"]
-# workouts = list(set(workouts))
-# equipment = list(set(equipment))
-# positions = list(set(positions))
-# workouts.sort()
-# equipment.sort()
-# positions.sort()
-# pprint(workouts)
-# pprint(equipment)
-# pprint(positions)
+workouts = []
+equipment = []
+positions = []
+for exc in excers_set:
+    workouts.append(excers_set[exc]["Workout"])
+    equipment += excers_set[exc]["Equipment"]
+    positions += excers_set[exc]["Position"]
+workouts = list(set(workouts))
+equipment = list(set(equipment))
+positions = list(set(positions))
+workouts.sort()
+equipment.sort()
+positions.sort()
 
-sorted = list(excers_set.keys())
-sorted.sort()
-pprint(sorted)
-print(len(sorted))
 
 with open("excersizes.json", "w") as myfile:
     myfile.write(json.dumps(excers_set))
-with open("excerlist.json", "w") as myfile:
-    myfile.write(json.dumps(sorted))
+with open("workouts.json", "w") as myfile:
+    myfile.write(json.dumps(workouts))
+with open("equipment.json", "w") as myfile:
+    myfile.write(json.dumps(equipment))
+with open("positions.json", "w") as myfile:
+    myfile.write(json.dumps(positions))
 
 
 # conn.commit()

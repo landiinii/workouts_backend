@@ -1,18 +1,18 @@
 Vasa AF Push Day 01-02-23
-Pec deck
+Fly - Machine - Chest
 115x21
 150x20
 150x15
 150x15
 
-Seated OHP: 
+OHP - Barbell - Seated
 75x12
 115x8
 115x8
 115x8
 95x12
 
-French Press
+French Press - Dumbbell - Upright
 65x15
 65x15
 65x13
@@ -32,13 +32,13 @@ Raise - Dumbbell - Lateral
 50x12
 50x10
 
-Dumbbell chest flys
+Fly - Dumbbell - Chest
 70x10
 70x10
 80x8
 80x8
 
-Dips
+Dip - Body - Hanging
 198x10
 198x10
 198x10
@@ -53,16 +53,16 @@ Deadlift - Barbell - Standing
 275x4
 275x10x3
 
-Seated row
+Row - Cable - Seated
 100x10x2
 150x10
 200x10x2
 
-Ez bar curls
+Bicep Curl - EZ Bar - Standing
 50x10x3
 50x12
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 135x10
 185x3
 165x6
@@ -72,14 +72,14 @@ Pull Downs - Cable - Lat / Close Grip
 140x10x2
 160x10x2
 
-Cable rope curls
+Bicep Curl - Rope / Cable - Standing
 50x10x4
 
 
 
 
 EOS Orem Arms Day 01-04-23
-Machine shoulder press
+OHP - Machine - Seated
 75x20
 125x12
 105x15
@@ -115,15 +115,15 @@ Hip Thrust - Smith Machine - Seated
 275x4
 255x10x3
 
-Seated Quad extensions
+Leg Extension - Machine - Seated
 205x10
 305x10x3
 
-Lying Hamstring curls
+Leg Curl - Machine - Lying
 120x12
 170x10x2
 
-Kettle bell swings
+Swing - Kettlebell - Standing
 40x15
 70x15
 90x10x3
@@ -132,23 +132,23 @@ Kettle bell swings
 
 
 EOS Orem Push and Pull Day 01-06-23
-Smart chest press machine
+Bench Press - Smart Machine - Seated / Flat
 169x15
 165x12
 180x10
 200x10
 
-Rows - Smart Machine - Seated
+Row - Smart Machine - Seated
 225x15
 255x10
 200x15
 
-Pec deck chest flys
+Fly - Machine - Chest
 160x15
 175x15
 175x14
 
-Pec deck rear delt flys
+Fly - Machine - Rear Delt
 130x12
 175x10
 175x6
@@ -165,17 +165,17 @@ Pull Downs - Cable / D Handle - Lat
 
 
 Vasa AF Push Day 01-07-23
-Standing OHP
+OHP - Barbell - Standing
 45x20
 100x10
 100x8x2
 100x5
 50x15
 
-Dumbbell flat chest flys
+Fly - Dumbbell - Chest / Flat
 80x10x4
 
-French press
+French Press - Dumbbell - Upright
 65x15x3
 
 Raise - Cable - Lateral
@@ -192,7 +192,7 @@ Bench Press - Barbell - Flat
 185x6
 185x5
 
-Dips
+Dip - Body - Hanging
 10x210
 10x198
 
@@ -207,25 +207,25 @@ Squat - Barbell - Back
 325x4x4
 185x10
 
-Seated hamstring curls
+Leg Curl - Machine - Seated
 110x10
 150x10
 170x10x3
 
-Hip abductor machine
+Hip Abductor - Machine - Seated
 175x15
 205x12
 235x10
 
-Hip Adductor machine
+Hip Adductor - Machine - Seated
 260x12x2
 260x15
 
-Leg extensions
+Leg Extension - Machine - Seated
 200x15
 305x10x3
 
-Standing machine calf raises
+Calf Raise - Machine - Standing
 300x15
 400x10x3
 
@@ -241,14 +241,14 @@ Deadlift - Barbell - Lowered
 Deadlift - Barbell - Sumo
 295x10x2
 
-Dumbbell bicep curls
+Bicep Curl - Dumbbell - Standing
 50x10x4
 
-Raise - Dumbbell - Rear Delt / Chest Supported
+Fly - Dumbbell - Rear Delt / Chest Supported
 50x10x2
 40x10x2
 
-Rows - Cable - Seated
+Row - Cable - Seated
 160x10x2
 180x10x2
 
@@ -266,7 +266,7 @@ Tricep Extensions - Cable - Standing
 55x15
 77x10x3
 
-Landmine press
+OHP - Barbell / Landmine - Viking
 55x10
 90x10
 125x10x3
@@ -286,7 +286,7 @@ Arnold Press - Dumbbell - Seated
 
 
 Valhalla AF Push Day 01-13-23
-Incline cable flys
+Fly - Cable - Low to High
 66x10
 88x10
 110x10
@@ -323,7 +323,7 @@ RDL - Barbell - Standing
 275x8
 245x12x3
 
-Ghr
+GHR - Machine - Lying
 198x15x3
 
 Hip Thrust - Barbell - Seated
@@ -360,7 +360,7 @@ Raise - Dumbbell - Lateral
 25x15x2
 20x15
 
-Close grip push-ups
+Push Ups - Body - Close Grip
 210x15x3
 
 Face Pulls - Cable - Standing
@@ -388,21 +388,21 @@ Deadlift - Barbell - Standing
 365x5
 385x1
 
-Rows - Barbell - Pendlay
+Row - Barbell - Pendlay
 135x12x3
 
-Ez Barbell curls
+Bicep Curl - EZ Bar - Standing
 65x12
 75x12x2
 
 Pull Apart - Band - Standing
 40x15x3
 
-Hammer curls
+Bicep Curl - Dumbbell - Hammer
 70x15
 60x15x2
 
-GHR
+GHR - Machine - Lying
 Bodyweightx15x3
 
 
@@ -420,7 +420,7 @@ Bench Press - Barbell - Floor
 135x12
 155x12x2
 
-Low to high cable crossovers
+Fly - Cable - Rear Delt / Low to High
 66x12
 88x12x2
 
@@ -429,7 +429,7 @@ Tricep Extensions - Rope - Standing
 77x15x2
 77x5
 
-Overhead cable extensions
+Tricep Extensions - Cable - Overhead
 100x15x3
 
 
@@ -449,10 +449,10 @@ Load - Atlas Stone - Platform
 175x4
 215x1
 
-Plank
+Plank - Body - Elbow
 2 minutes x body weight
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x10x2
 395x10x6
 
@@ -474,7 +474,7 @@ RDL - Barbell - Standing
 135x12
 195x12x3
 
-Ghr
+GHR - Machine - Lying
 Bodyweight by 15x4
 
 Hip Thrust - Barbell - Seated
@@ -489,7 +489,7 @@ Hip Thrust - Barbell - Seated
 
 EOS Orem Push Day 01-24-23
 
-Smart shoulder press
+OHP - Smart Machine - Seated
 105x20
 135x10
 145x10
@@ -500,7 +500,7 @@ Tricep Press - Smart Machine - Seated
 155x15
 205x10
 
-Incline press
+Bench Press - Dumbbell - Incline
 45x10
 95x10
 145x10
@@ -527,7 +527,7 @@ Raise - Dumbbell - Lateral
 Tricep Extensions - Cable - Standing
 42.5x15
 
-Close grip push-ups
+Push Ups - Body - Close Grip
 Bodyweightx15x3
 
 Face Pulls - Cable - Standing
@@ -546,7 +546,7 @@ Deadlift - Barbell - Standing
 225x5
 315x5x3
 
-Rows - Barbell - Pendlay
+Row - Barbell - Pendlay
 155x10x3
 
 Pull Downs - Cable - Lat / Close Grip
@@ -580,13 +580,13 @@ Squat - Barbell - Back
 
 Vacation Sonnys_USVI Push Day 02-01-23
 
-Face pulls 
+Face Pulls - Cable - Standing
 60x15x3
 
-Close grip push-ups
+Push Ups - Body - Close Grip
 Bodyx20x2
 
-Incline press
+Bench Press - Dumbbell - Incline
 115x10
 150x10
 165x8
@@ -611,7 +611,7 @@ Pull Downs - Cable - Lat
 160x12
 170x12x3
 
-Rear delt flys
+Fly - Machine - Rear Delt
 40x12
 60x12
 40x12
@@ -622,7 +622,7 @@ Deadlift - Barbell - Standing
 225x10
 315x10
 
-Rows - Barbell - Bent
+Row - Barbell - Bent
 135x10x4
 
 
@@ -631,7 +631,7 @@ Rows - Barbell - Bent
 
 Vacation Sonnys_USVI Push Day 02-03-23
 
-Push press
+OHP - Barbell - Push
 45x10
 95x10
 115x5
@@ -647,15 +647,15 @@ Bench Press - Barbell - Flat
 Tricep Extensions - Rope - Standing
 50x12x3
 
-Rear delt fly
+Fly - Machine - Rear Delt
 50x10
 
-Low to high cable flys
+Fly - Cable - Low to High
 60x12
 80x12
 100x12
 
-Plank
+Plank - Body - Elbow
 Body x 90sec x 2
 
 
@@ -695,7 +695,7 @@ Deadlift - Barbell - Standing
 275x10
 345x8x3
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 135x12
 155x12x2
 
@@ -706,13 +706,13 @@ Pull Downs - Cable - Lat
 Pull Apart - Band - Standing
 30x15x3
 
-Ez bar standing curls
+Bicep Curl - EZ Bar - Standing
 70x12x3
 
-Hammer curls
+Bicep Curl - Dumbbell - Hammer
 70x10x3
 
-GHR
+GHR - Machine - Lying
 Body x12x3
 
 
@@ -722,7 +722,7 @@ Body x12x3
 
 Valhalla AF Push Day 02-07-23
 
-Close grip bench 
+Bench Press - Barbell - Flat / Close Grip
 55x15
 145x10
 175x10
@@ -745,7 +745,7 @@ Raise - Dumbbell - Lateral
 60x12x3
 40x12
 
-Close grip push up
+Push Ups - Body - Close Grip
 Body x20x3
 
 Face Pulls - Cable - Standing
@@ -756,7 +756,7 @@ Face Pulls - Cable - Standing
 
 Valhalla AF Leg Day 02-09-23
 
-Seated hamstring curls
+Leg Curl - Machine - Seated
 45x15
 90x15
 135x10x2
@@ -777,7 +777,7 @@ Squat - Barbell - Front
 RDL - Barbell - Standing
 135x10x3
 
-Ghr
+GHR - Machine - Lying
 Body x12x3
 
 
@@ -788,7 +788,7 @@ Body x12x3
 
 Valhalla AF Push Day 02-10-23
 
-Log push press
+Log Press - Log - Standing
 66x10
 116x6
 136x4
@@ -801,7 +801,7 @@ Bench Press - Barbell - Flat
 155x10
 185x10x2
 
-Low to high cable flys
+Fly - Cable - Low to High
 88x12x3
 
 Tricep Extensions - Rope - Standing
@@ -812,7 +812,7 @@ Tricep Extensions - Rope - Standing
 
 Valhalla AF Strongman Day 02-11-23
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 45x15
 135x12x4
 
@@ -821,7 +821,7 @@ Load - Atlas Stone - Platform
 145x2
 175x4
 
-Farmers carry
+Carry - Farmers - Walking
 270x100x2
 390x100x4
 
@@ -842,7 +842,7 @@ Deadlift - Barbell - Standing
 315x8
 385x3
 
-Rows - Barbell - Pendlay
+Row - Barbell - Pendlay
 135x10
 155x10x2
 175x10
@@ -855,15 +855,15 @@ Pull Downs - Cable - Lat
 Pull Apart - Band - Standing
 40x15x4
 
-Ez bar incline curls
+Bicep Curl - EZ Bar - Seated
 65x10x4
 
-Fat grip hammer curls
+Bicep Curl - Dumbbell - Hammer
 60x10
 60x11
 60x12x2
 
-Ghr
+GHR - Machine - Lying
 Body x12x4
 
 
@@ -912,7 +912,7 @@ Squat - Barbell - Front
 RDL - Barbell - Standing
 185x10x4
 
-GHR
+GHR - Machine - Lying
 Body x12x4
 
 Hip Thrust - Barbell - Seated
@@ -942,7 +942,7 @@ Bench Press - Barbell - Flat
 175x3
 155x1
 
-Cable flys low to high
+Fly - Cable - Low to High
 44x12x4
 
 Tricep Extensions - Cable - Standing
@@ -957,10 +957,10 @@ Shoulder - Sandbag - Standing
 150x4x2
 200x1
 
-Farmers carry
+Carry - Farmers - Walking
 270x100x4
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 450x10x4
 
 Load - Atlas Stone - Platform
@@ -996,7 +996,7 @@ Hip Thrust - Barbell - Seated
 
 Vasa AF Push Day 02-21-23
 
-Dumbbell shoulder press
+OHP - Dumbbell - Seated
 90x12
 130x8x3
 90x8
@@ -1021,7 +1021,7 @@ Deadlift - Barbell - Standing
 310x6
 395x1x2
 
-Rows - Barbell - Pendlay
+Row - Barbell - Pendlay
 155x10x4
 
 Pull Downs - Cable - Lat
@@ -1032,7 +1032,7 @@ Pull Downs - Cable - Lat
 
 Hotel_Gym Pune Push Day 02-26-23
 
-Clean and jerk 
+Clean and Press - Barbell - Standing
 45x3
 95x4
 125x4
@@ -1042,7 +1042,7 @@ Clean and jerk
 Bench Press - Barbell - Flat 
 155x10x5
 
-Hi to low cable crossovers
+Fly - Cable - Rear Delt / High to Low
 50x10
 50x15
 
@@ -1062,12 +1062,12 @@ Squat - Smith Machine - Back
 260x8
 110x3
 
-Leg extensions
+Leg Extension - Machine - Seated
 175x10
 310x10
 335x10x3
 
-Leg curls
+Leg Curl - Machine - Seated
 110x10
 220x10x3
 
@@ -1092,17 +1092,17 @@ Bench Press - Barbell - Flat / Close Grip
 
 Competition Bishop_Barbell Comp Day 03-04-23
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 45x10
 85x3
 90x2
 95x3
 
-Rows - Rope - Seated
+Row - Rope - Seated
 50x10
 635x6
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 500x10X1
 
 Log Press - Log - Standing
@@ -1113,7 +1113,7 @@ Log Press - Log - Standing
 Pull ups - Body - Hanging
 15 x body
 
-Dead hang 
+Deadhang - Body - Hanging
 2:00 x body
 
 Shoulder - Sandbag - Standing
@@ -1127,7 +1127,7 @@ Shoulder - Sandbag - Standing
 
 Valhalla AF Leg Day 03-06-23
 
-Hamstring curls
+Leg Curl - Machine - Seated
 90x12x2
 115x12x2
 
@@ -1142,11 +1142,11 @@ Squat - Barbell - Front
 155x8
 155x6
 
-Good mornings
+Good Morning - Barbell - Standing
 45x10x2
 95x10x3
 
-Ghr
+GHR - Machine - Lying
 Body x 12x3
 
 
@@ -1154,7 +1154,7 @@ Body x 12x3
 
 Vasa AF Push Day 03-07-23
 
-Floor press
+Bench Press - Barbell - Floor
 45x8
 135x8
 155x8
@@ -1175,7 +1175,7 @@ Raise - Dumbbell - Lateral
 Face Pulls - Cable - Standing
 35x12x3
 
-Close grip push-ups 
+Push Ups - Body - Close Grip
 Body x12x3
 
 
@@ -1204,25 +1204,25 @@ Pull Downs - Cable - Lat
 Pull Apart - Band - Standing
 40x10x3
 
-Hammer curls
+Bicep Curl - Dumbbell - Hammer
 70x10x2
 80x10
 
-Reverse ez bar curls
+Bicep Curl - EZ Bar - Reverse
 65x10x3
 
-Kettle bell swings
+Swing - Kettlebell - Standing
 50x15x3
 
 
 
 EOS Orem Push Day 03-10-23
 
-Smart machine shoulder press
+OHP - Smart Machine - Seated
 160x10
 170x10
 
-Push Press - Barbell - Standing
+OHP - Barbell - Push
 45x10
 95x8
 135x5x2
@@ -1250,12 +1250,12 @@ Squat - Barbell - Back
 Squat - Barbell - Front
 135x8x4
 
-Good mornings
+Good Morning - Barbell - Standing
 45x8
 115x10
 115x8x3
 
-Ghr
+GHR - Machine - Lying
 Body x10x4
 
 Hip Thrust - Barbell - Seated
@@ -1310,13 +1310,13 @@ Block Pull - Barbell - Standing
 225x8
 275x8x3
 
-Bulgarians
+Squat - Dumbbell - Bulgarian
 110x8x4
 
-Ghr
+GHR - Machine - Lying
 Body x10x3
 
-Reverse hypers
+Reverse Hyper - Machine - Lying
 50x15
 100x15x3
 
@@ -1324,7 +1324,7 @@ Reverse hypers
 
 Vasa Saratoga Push Day 03-16-23
 
-Dumbbell shoulder press
+OHP - Dumbbell - Seated
 90x10
 120x10
 140x5x3
@@ -1342,12 +1342,12 @@ Bench Press - Dumbbell - Incline
 140x8x2
 120x10x2
 
-Incline French press 
+French Press - Dumbbell - Incline
 45x12
 55x12
 70x12x2
 
-Rear delt flys
+Fly - Machine - Rear Delt
 30x12
 40x12x2
 
@@ -1356,7 +1356,7 @@ Rear delt flys
 
 Valhalla AF Strongman Day 03-18-23
 
-Leg press
+Leg Press - Machine - Seated
 310x10
 400x10
 490x10
@@ -1366,7 +1366,7 @@ Load - Atlas Stone - Platform
 215x2
 250x5
 
-Dinny lift
+Pick - Dinny - Standing
 205x2
 315x4
 405x1
@@ -1374,7 +1374,7 @@ Dinny lift
 585x1
 600x1
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x10x2
 395x10x6
 
@@ -1395,17 +1395,17 @@ Squat - Barbell - Back
 Squat - Barbell - Front
 145x10x4
 
-Good mornings
+Good Morning - Barbell - Standing
 125x10x4
 
-Leg press
+Leg Press - Machine - Seated
 130x10
 400x10
 580x10
 670x7
 490x10
 
-Ghr
+GHR - Machine - Lying
 Body x10x5
 
 Hip Thrust - Barbell - Seated
@@ -1468,32 +1468,32 @@ Block Pull - Barbell - Snatch Grip
 
 Valhalla AF Push Day 03-24-23
 
-Strict shoulder press
+OHP - Barbell - Seated / Strict
 45x15
 95x10x2
 115x5
 135x5x2
 
-Floor press
+Bench Press - Barbell - Floor
 135x10
 165x10
 195x7x2
 195x5
 195x4
 
-Incline dumbbell press
+Bench Press - Dumbbell - Incline
 70x8x2
 75x8
 60x8
 
-Incline French press
+French Press - Dumbbell - Incline
 65x10x3
 
-Dumbbell rear delt flys
+Fly - Dumbbell - Rear Delt
 40x12x3
 50x12
 
-Plank 
+Plank - Body - Elbow 
 1:00x2
 2:00x1
 
@@ -1509,12 +1509,12 @@ Load - Atlas Stone - Platform
 250x3
 215x2
 
-Dinny
+Pick - Dinny - Standing
 250x3
 475x1
 560x1
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x10x2
 400x10x2
 500x10x5
@@ -1524,7 +1524,7 @@ Yoke Run - Yoke - Run
 
 Valhalla AF Leg Day 03-27-23
 
-Seated hamstring curls
+Leg Curl - Machine - Seated
 45x10
 90x15
 
@@ -1591,33 +1591,33 @@ Deadlift - Barbell - Standing
 Rack Pull - Barbell - Snatch Grip
 275x8x3
 
-Dinny
+Pick - Dinny - Standing
 245x3
 445x1
 545x1
 635x1
 
-Bulgarians
+Squat - Dumbbell - Bulgarian
 320x8x4
 
-Reverse hypers
+Reverse Hyper - Machine - Lying
 50x15
 75x15x2
 
-GHR
+GHR - Machine - Lying
 Body x10x3
 
 
 
 Valhalla AF Push Day 03-31-23
 
-Strict shoulder press
+OHP - Barbell - Seated / Strict
 45x15
 95x15
 145x5
 125x5x2
 
-Floor press
+Bench Press - Barbell - Floor
 135x10
 185x5x3
 
@@ -1642,7 +1642,7 @@ RDL - Barbell - Standing
 185x12x2
 235x12
 
-Seated hamstring curls
+Leg Curl - Machine - Seated
 170x12
 205x12
 250x12
@@ -1653,7 +1653,7 @@ Hip Thrust - Machine - Seated
 495x12
 315x12
 
-Calf raises 
+Calf Raise - Machine - Seated
 205x12x3
 
 
@@ -1686,13 +1686,13 @@ Throw - Sandbag - Over Bar
 
 Valhalla AF Pull Day 04-06-23
 
-Kettle bell swings
+Swing - Kettlebell - Standing
 50x12
 
-Glute bridge
+Hip Thrust - Sandbag - Seated
 100x10
 
-Shrug
+Shrug - Dumbbell - Standing
 100x12
 
 Deadlift - Barbell - Standing
@@ -1712,10 +1712,10 @@ Squat - Dumbbell - Bulgarian
 200x16x3
 110x16
 
-Ghr
+GHR - Machine - Lying
 Body x20x2
 
-Reverse hypers
+Reverse Hyper - Machine - Lying
 20x10x3
 
 
@@ -1723,7 +1723,7 @@ Reverse hypers
 
 EOS Orem Leg Day 04-07-23
 
-Strict barbell press
+OHP - Barbell - Seated / Strict
 45x10
 95x10
 115x10
@@ -1735,18 +1735,18 @@ Bench Press - Barbell - Flat
 175x8
 205x5x4
 
-Incline dumbbell press
+Bench Press - Dumbbell - Incline
 120x8
 140x5x4
 90x8
 
-Incline French press
+French Press - Dumbbell - Incline
 70x10
 70x9
 70x8
 70x8
 
-Rear delt flys
+Fly - Machine - Rear Delt
 115x10x3
 
 
@@ -1754,7 +1754,7 @@ Rear delt flys
 
 Valhalla AF Strongman Day 04-08-23
 
-Leg press
+Leg Press - Machine - Seated
 315x10x2
 
 Load - Atlas Stone - Over Bar
@@ -1762,13 +1762,13 @@ Load - Atlas Stone - Over Bar
 215x5
 250x5
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x10x2
 395x10x2
 475x10x2
 550x10x3
 
-Dinny
+Pick - Dinny - Standing
 250x3
 375x3
 460x3
@@ -1823,13 +1823,13 @@ Rack Pull - Barbell - Snatch Grip
 225x8
 315x8x3
 
-Bulgarians - Barbell - Standing
+Squat - Barbell - Bulgarian
 135x16
 185x16
 155x16
 135x16
 
-Lying machine leg curls
+Leg Curl - Machine - Lying
 100x10
 160x10x3
 
@@ -1843,7 +1843,7 @@ Hip Thrust - Barbell - Seated
 
 Vasa Provo Push Day 04-13-23
 
-Strict barbell
+OHP - Barbell - Seated / Strict
 95x10
 105x10
 135x5
@@ -1859,7 +1859,7 @@ Bench Press - Barbell - Flat
 195x10
 95x10
 
-Incline dumbbell press
+Bench Press - Dumbbell - Incline
 50x8
 70x6x2
 
@@ -1868,17 +1868,17 @@ Incline dumbbell press
 
 Vasa AF Push Day 04-14-23
 
-Pec dec flys 
+Fly - Machine - Chest
 175x10x2
 220x10
 235x8
 
-Rear delt flys
+Fly - Machine - Rear Delt
 100x10
 145x10x2
 175x10
 
-Kettle bell swings
+Swing - Kettlebell - Standing
 90x10x2
 
 
@@ -1896,7 +1896,7 @@ Load - Atlas Stone - Platform
 175x3
 215x5x2
 
-Dinny
+Pick - Dinny - Standing
 300x3x3
 400x3x2
 500x3x2
@@ -1936,7 +1936,7 @@ Throw - Sandbag - Over Bar
 
 Valhalla AF Leg Day 04-19-23
 
-Seated leg curls
+Leg Curl - Machine - Seated
 45x12x3
 90x12x2
 135x12
@@ -1961,8 +1961,8 @@ Deadlift - Barbell - Standing
 385x4
 225x10
 
-Leg raises
-Body x12x3
+Leg raise - Dumbbell - Lying
+30x12x3
 
 
 
@@ -1984,12 +1984,12 @@ Bench Press - Barbell - Flat
 215x4x3
 215x5
 
-Machine chest flys
+Fly - Machine - Chest
 175x10
 145x10
 160x10
 
-Machine rear delt flys
+Fly - Machine - Rear Delt
 100x10
 115x10
 130x10
@@ -2031,7 +2031,7 @@ Deadlift - Barbell - Standing
 
 Valhalla AF Strongman Day 04-22-23
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x20x2
 305x10x2
 395x10x2
@@ -2059,7 +2059,7 @@ Log Press - Log - Standing
 196x1
 206x0.5x5
 
-Dinny
+Pick - Dinny - Standing
 345x3
 510x2
 
@@ -2100,7 +2100,7 @@ Pull Downs - Cable - Lat
 110x10
 165x10x3
 
-Hammer curls
+Bicep Curl - Dumbbell - Hammer
 60x10x3
 
 
@@ -2108,23 +2108,23 @@ Hammer curls
 
 EOS Orem Push Day 04-28-23
 
-Smart machine shoulder press
+OHP - Smart Machine - Seated
 170x12
 150x12
 130x12
 
-Machine chest press
+Bench Press - Machine - Seated / Flat
 135x10
 225x10x2
 275x8
 
-Machine chest flys
+Fly - Machine - Chest
 160x12
 200x10
 190x10
 175x10
 
-Rear delt flys
+Fly - Machine - Rear Delt
 100x12
 130x12x3
 
@@ -2132,10 +2132,10 @@ Bench Press - Dumbbell - Incline
 90x12
 110x12x3
 
-Incline French press
+French Press - Dumbbell - Incline
 60x12x3
 
-Rows - Cable - Seated
+Row - Cable - Seated
 25x10
 115x12
 185x12
@@ -2146,25 +2146,25 @@ Rows - Cable - Seated
 
 Hotel_Gym Las_Vegas_Flamingo Leg Day 04-29-23
 
-Seated Leg extensions
+Leg Extension - Machine - Seated
 105x12
 210x12
 260x12x3
 
-Seated Leg curls
+Leg Curl - Machine - Seated
 105x12
 210x12
 260x12x2
 
-Machine leg press
+Leg Press - Machine - Seated
 145x12
 250x4x3
 
-Machine hip adductor
+Hip Adductor - Machine - Seated
 150x12
 200x12x3
 
-Machine hip abductor
+Hip Abductor - Machine - Seated
 60x12
 120x12
 
@@ -2206,7 +2206,7 @@ Deadlift - Barbell - Standing
 365x8
 385x4
 
-Quad extensions
+Leg Extension - Machine - Seated
 110x12
 205x12
 260x15
@@ -2227,7 +2227,7 @@ Hip Thrust - Barbell - Seated
 
 Vasa Provo Push Day 05-04-23
 
-Seated Barbell strict press
+OHP - Barbell - Seated / Strict
 45x20
 95x10
 115x8
@@ -2245,25 +2245,25 @@ Bench Press - Barbell - Flat
 205x8
 145x7
 
-Standing French press 
+French Press - Dumbbell - Standing
 70x8
 70x5
 60x10x2
 
-Dumbbell chest flys
+Fly - Dumbbell - Chest
 60x10x4
 
-Rear delt flys
+Fly - Machine - Rear Delt
 50x12x3
 
-Plank 
+Plank - Body - Elbow
 1:00xbodyx3
 
 
 
 Valhalla AF Strongman Day 05-06-23
 
-Leg press
+Leg Press - Machine - Seated
 310x10
 490x10x2
 
@@ -2271,13 +2271,13 @@ Load - Atlas Stone - Platform
 175x5
 215x5x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 205x10x2
 295x10x2
 385x10x2
 505x10x4
 
-Dinny
+Pick - Dinny - Standing
 250x8
 380x5
 500x3
@@ -2296,23 +2296,23 @@ Squat - Barbell - Back
 135x10
 185x10
 
-Leg extensions smart machine
+Leg Extension - Smart Machine - Seated
 150x10x2
 450x5
 
-Leg curls smart machine
+Leg Curl - Smart Machine - Seated
 120x10x2
 300x5
 
-Shoulder press smart machine
+OHP - Smart Machine - Seated
 120x15
 280x5
 
-Rows - Smart Machine - Seated
+Row - Smart Machine - Seated
 200x15
 450x5
 
-Bicep curl smart machine
+Bicep Curl - Smart Machine - Seated
 40x10x2
 115x5
 
@@ -2337,7 +2337,7 @@ Log Press - Log - Standing
 
 Competition Fitcon Comp Day 05-13-23
 
-Dinny
+Pick - Dinny - Standing
 376x3
 480x2
 570x1
@@ -2345,7 +2345,7 @@ Dinny
 666x1
 706x1
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 305x10x2
 395x10x2
 500x10x1
@@ -2361,7 +2361,7 @@ Load - Atlas Stone - Platform
 215x1
 250x9
 
-Hammer hold
+Hold - Hammer - Hammer
 35x42
 
 
@@ -2380,7 +2380,7 @@ Bench Press - Barbell - Flat
 215x4
 145x8
 
-Dumbbell shoulder press
+OHP - Dumbbell - Seated
 60x15
 110x10x2
 110x8
@@ -2388,7 +2388,7 @@ Dumbbell shoulder press
 Tricep Extensions - Rope - Standing
 44x10x4
 
-Chest Flys - Cable - Straight
+Fly - Cable - Chest / Straight
 33x12x2
 44x10x6
 
@@ -2398,7 +2398,7 @@ Raise - Dumbbell - Lateral
 Raise - Dumbbell - Front
 50x10x4
 
-Standing French press
+French Press - Dumbbell - Standing
 55x10
 70x5x3
 
@@ -2407,7 +2407,7 @@ Standing French press
 
 Vasa AF Pull Day 05-23-23
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 45x15
 95x15
 145x15
@@ -2415,14 +2415,14 @@ Rows - Barbell - Standing / Bent
 165x10
 95x15
 
-Rows - Cable - Seated
+Row - Cable - Seated
 140x12x2
 160x12x2
 
-Ez bar bicep curls
+Bicep Curl - EZ Bar - Standing
 70x12x3
 
-Rows - EZ Bar - Upright
+Row - EZ Bar - Upright
 60x12x3
 
 Pull Downs - Machine - Lat
@@ -2449,7 +2449,7 @@ Bench Press - Barbell - Flat
 185x4
 135x4
 
-Dumbbell Rear delt flys
+Fly - Dumbbell - Rear Delt
 30x15
 60x12x2
 50x15
@@ -2487,7 +2487,7 @@ Bench Press - Barbell - Flat
 225x5
 225x3
 
-Close grip neutral grip press
+Bench Press - Barbell - Flat / Close Grip
 45x10
 135x10x2
 
@@ -2500,16 +2500,16 @@ Tricep Press - Smart Machine - Seated
 250x15
 380x1x4
 
-Rows - Smart Machine - Seated
+Row - Smart Machine - Seated
 230x15
 400x1x3
 
-Rows - Barbell / Landmine - Bent
+Row - Barbell / Landmine - Bent
 100x12x2
 120x12x2
 150x4
 
-Chest flys
+Fly - Machine - Chest
 70x12
 120x12
 170x12
@@ -2522,7 +2522,7 @@ Pull Downs - Cable - Lat / Close Grip
 
 Valhalla AF Push Day 06-01-23
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 45x10
 100x10x2
 
@@ -2535,7 +2535,7 @@ Bench Press - Barbell - Flat
 205x9
 155x10
 
-Dumbbell shoulder press
+OHP - Dumbbell - Seated
 110x10x2
 110x9
 110x8
@@ -2543,7 +2543,7 @@ Dumbbell shoulder press
 Tricep Extensions - Cable - Standing
 45x10x4
 
-Chest Flys - Cable - Straight
+Fly - Cable - Chest / Straight
 45x10x4
 
 Raise - Dumbbell - Front
@@ -2566,13 +2566,13 @@ Pull ups - Body - Hanging
 235x5
 200x8
 
-Rows - Barbell - Pendlay
+Row - Barbell - Pendlay
 45x12
 115x12
 165x10x2
 165x6
 
-Hammer curls
+Bicep Curl - Dumbbell - Hammer
 30x20x4
 
 Squat - Barbell - Back 
@@ -2584,11 +2584,11 @@ Squat - Barbell - Back
 
 Valhalla AF Push Day 06-05-23
 
-Strict press
+OHP - Barbell - Standing / Strict
 45x10x2
 95x10
 
-Dips
+Dip - Body - Hanging
 200x10x3
 
 Pull Downs - Cable - Lat
@@ -2647,7 +2647,7 @@ Bench Press - Barbell - Flat
 235x1
 195x6
 
-Dumbbell shoulder press
+OHP - Dumbbell - Seated
 110x10
 140x7
 140x4x2
@@ -2656,7 +2656,7 @@ Dumbbell shoulder press
 Tricep Extensions - Cable - Standing
 55x12x4
 
-Chest Flys - Cable - Low to High
+Fly - Cable - Chest / Low to High
 66x12x4
 
 Raise - Dumbbell - Lateral
@@ -2688,14 +2688,14 @@ Deadlift - Barbell - Standing
 315x6
 365x5x3
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 135x12
 155x12x3
 
 Pull Downs - Cable - Lat
 145x10x4
 
-Ez bar curls
+Bicep Curl - EZ Bar - Standing
 65x12x4
 
 
@@ -2771,7 +2771,7 @@ Deadlift - Barbell - Standing
 315x5x4
 385x5x3
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 135x10x4
 
 Pull Downs - Cable - Lat
@@ -2781,7 +2781,7 @@ Pull Downs - Cable - Lat
 145x10
 75x10
 
-Rows - Cable - Seated
+Row - Cable - Seated
 100x10
 145x10x3
 
@@ -2803,7 +2803,7 @@ Bench Press - Barbell - Flat
 205x5
 185x8
 
-Shoulder press
+OHP - Dumbbell - Seated
 100x6x8
 
 
@@ -2874,7 +2874,7 @@ Squat - Barbell - Back
 Squat - Barbell - Front
 145x8x4
 
-Good mornings
+Good Morning - Barbell - Standing
 125x8x4
 
 Hip Thrust - Barbell / Wagon Wheel - Seated
@@ -2937,7 +2937,7 @@ Deadlift - Barbell - Standing
 365x3
 405x1x3
 
-Rows - Barbell / Landmine - Bent
+Row - Barbell / Landmine - Bent
 85x10
 130x10
 175x10x3
@@ -2946,27 +2946,27 @@ Pull Downs - Cable - Lat
 140x10
 160x10x2
 
-Hammer curls
+Bicep Curl - Dumbbell - Hammer
 70x10x2
 
-Ez bar curls 
+Bicep Curl - EZ Bar - Standing
 60x10x2
 
-Concentration curls
+Bicep Curl - Dumbbell - Seated
 30x8
 
 
 
 Hotel_Gym Hawaii Push Day 07-04-23
 
-Machine shoulder press 
+OHP - Machine - Seated
 80x10
 110x10
 140x2x2
 125x7
 125x4
 
-Dumbbell shoulder press
+OHP - Dumbbell - Seated
 110x8x4
 
 Tricep Extensions - Machine - Seated
@@ -2978,7 +2978,7 @@ Tricep Extensions - Machine - Seated
 Raise - Dumbbell - Lateral
 60x12x4
 
-Rows - Barbell - Upright
+Row - Barbell - Upright
 70x15x3
 
 Tricep Extensions - Dumbbell - Overhead / Single Arm
@@ -2995,12 +2995,12 @@ Pull Downs - Cable - Lat
 175x10x2
 180x10
 
-Rows - Machine - Seated
+Row - Machine - Seated
 150x10
 180x10
 190x10
 
-Rows - Dumbbell - Bent
+Row - Dumbbell - Bent
 110x10x2
 180x10
 
@@ -3008,7 +3008,7 @@ Pull Downs - Cable - Lat / JPG
 105x10
 125x10x2
 
-Hammer curls
+Bicep Curl - Dumbbell - Hammer
 70x15
 70x10x2
 70x5
@@ -3017,11 +3017,11 @@ Bench Press - Dumbbell - Flat
 110x10x2
 140x10x2
 
-Chest Flys - Cable - Straight
+Fly - Cable - Chest / Straight
 45x10
 55x10x3
 
-Machine chest press
+Bench Press - Machine - Seated / Flat
 150x10
 135x10
 140x10
@@ -3036,7 +3036,7 @@ Deadlift - Barbell - Standing
 265x8x2
 375x4x4
 
-Leg press
+Leg Press - Machine - Seated
 45x10
 155x10
 265x10
@@ -3048,7 +3048,7 @@ Squat - Barbell - Back
 265x8
 330x1
 
-Leg extensions
+Leg Extension - Machine - Seated
 55x12
 110x12
 220x12
@@ -3078,7 +3078,7 @@ Skull Crusher - Ez Bar - Incline
 65x10x2
 75x10x2
 
-Close grip incline press
+Bench Press - Barbell - Incline / Close Grip
 65x10
 75x5x2
 
@@ -3096,7 +3096,7 @@ Squat - Barbell - Back
 355x4
 405x1
 
-Leg press
+Leg Press - Machine - Seated
 210x10
 390x10
 570x10
@@ -3113,7 +3113,7 @@ Deadlift - Barbell - Standing
 365x3
 445x1
 
-Farmers Carry
+Carry - Farmers - Walking
 135x10x2
 185x10
 205x10x2
@@ -3129,7 +3129,7 @@ OHP - Barbell / Landmine - Viking
 190x5
 190x6x2
 
-Dumbbell shoulder press
+OHP - Dumbbell - Seated / Strict
 110x10
 110x9x2
 
@@ -3155,17 +3155,17 @@ Bench Press - Barbell - Flat
 185x5
 135x5
 
-French press
+French Press - Dumbbell - Upright
 65x10
 75x8x8
 75x10
 
-Machine chest flys
+Fly - Machine - Chest
 150x10
 160x10
 170x10
 
-Machine reverse flys
+Fly - Machine - Rear Delt
 110x10
 
 
@@ -3183,13 +3183,13 @@ Deadlift - Barbell - Standing
 445x1
 465x1
 
-Farmers
+Carry - Farmers - Walking
 90x10x2
 190x10x2
 290x10x2
 390x10x2
 
-Pullups
+Pull ups - Body - Hanging
 200x10x4
 
 
@@ -3197,10 +3197,10 @@ Pullups
 
 Valhalla AF Leg Day 07-20-23
 
-Leg press
+Leg Press - Machine - Seated
 310x10x3
 
-Kettle bell swings
+Swing - Kettlebell - Standing
 50x10x2
 
 Shoulder - Sandbag - Standing
@@ -3228,7 +3228,7 @@ Shoulder - Sandbag - Standing
 130x10x2
 100x10x2
 
-Wheelbarrow Runs - Wheelbarrow - Run
+Wheelbarrow Runs - Wheelbarrow - Walking
 750x10
 600x10
 
@@ -3244,18 +3244,18 @@ Shoulder - Sandbag - Standing
 175x1
 220x1
 
-Farmers carry
+Carry - Farmers - Walking
 350x10
 
 OHP - Barbell / Landmine - Viking
 180x8
 
-Carry - Sandbag - Standing
+Carry - Sandbag - Walking
 170x20
 130x30
 100x8
 
-Wheelbarrow Runs - Wheelbarrow - Run
+Wheelbarrow Runs - Wheelbarrow - Walking
 400x8
 
 Deadlift - Barbell - Standing
@@ -3295,12 +3295,12 @@ Log Press - Log - Standing
 155x2
 185x3
 
-Odd object carry
+Carry - Odd Object - Walking
 135x10
 200x10
 260x10
 
-Farmers carry
+Carry - Farmers - Walking
 270x4x2
 410x10
 
@@ -3334,7 +3334,7 @@ Bench Press - Barbell - Flat
 175x6
 205x5x3
 
-Close grip bench 
+Bench Press - Barbell - Flat / Close Grip
 185x5
 165x5
 135x5
@@ -3343,7 +3343,7 @@ Close grip bench
 
 Vasa AF Pull Day 08-11-23
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 45x10
 95x10
 165x10
@@ -3366,7 +3366,7 @@ Back Extension - Machine - Standing
 135x2
 90x6
 
-Dear delt cable flys
+Fly - Cable - Rear Delt
 20x10
 30x10x2
 
@@ -3381,7 +3381,7 @@ Log Press - Log - Strict
 130x4
 130x3
 
-Rows - Cable - Wide Grip
+Row - Cable - Wide Grip
 120x10
 145x10
 165x10x2
@@ -3433,7 +3433,7 @@ Clean and Press - Axle Bar - Standing
 115x5
 105x5
 
-Incline dumbbell press
+Bench Press - Dumbbell - Incline
 110x10x3
 
 
@@ -3475,7 +3475,7 @@ Squat - Barbell - Back
 365x4
 320x2
 
-Leg extensions
+Leg Extension - Machine - Seated
 135x10
 180x10
 225x10x2
@@ -3484,7 +3484,7 @@ Leg extensions
 
 Valhalla AF Pull Day 08-23-23
 
-Deadlift - Car Tires - Raised
+Deadlift - Tire - Raised
 45x10
 145x10x3
 235x10x2
@@ -3510,7 +3510,7 @@ Squat - Barbell - Front
 115x10
 165x8
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x8x2
 305x8x2
 395x8x2
@@ -3538,7 +3538,7 @@ Bench Press - Barbell - Flat
 210x3
 135x6x2
 
-Rows - Cable - Seated
+Row - Cable - Seated
 120x10
 165x10x3
 
@@ -3555,7 +3555,7 @@ Squat - Barbell - Back
 305x6
 325x6
 
-Deadlift - Car Tires - Raised
+Deadlift - Tire - Raised
 165x10
 255x10
 345x8
@@ -3618,7 +3618,7 @@ Hip Thrust - Barbell - Seated
 
 Valhalla AF Strongman Day 09-07-23
 
-Deadlift - Car Tires - Raised
+Deadlift - Tire - Raised
 45x10
 195x10
 285x10
@@ -3642,14 +3642,14 @@ Bench Press - Barbell - Flat
 155x8x2
 200x2x4
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 45x12
 115x10
 185x8x3
 115x10
 45x12
 
-Incline dumbbell
+Bench Press - Dumbbell - Incline
 100x10x4
 
 Pull Downs - Cable - Lat
@@ -3672,10 +3672,10 @@ Log Press - Log - Strict
 135x4
 110x5
 
-Rows - Cable - Seated
+Row - Cable - Seated
 165x10x4
 
-Farmers
+Carry - Farmers - Walking
 135x10x2
 205x10
 225x10
@@ -3703,14 +3703,14 @@ Load - Atlas Stone - Platform
 
 Valhalla AF Strongman Day 09-15-23
 
-Pull-ups
+Pull ups - Body - Hanging
 200x5x2
 225x5x2
 
-Deadhang
+Deadhang - Body - Hanging
 90x2
 
-Husafell
+Carry - Husafell Stone - Walking
 100x8x2
 200x8x2
 250x8
@@ -3737,10 +3737,10 @@ OHP - Keg - Standing
 170x1
 175x1
 
-Sally push-ups
+Push Ups - Body - Sally
 1:00x2
 
-Dumbbell incline press
+Bench Press - Dumbbell - Incline
 110x10x2
 110x5x2
 
@@ -3760,7 +3760,7 @@ Pull - Sled - Standing
 250x10
 300x10
 
-Rows - Rope - Seated
+Row - Rope - Seated
 250x10
 300x10
 
@@ -3797,7 +3797,7 @@ Pull - Truck - Standing
 
 Valhalla AF Strongman Day 09-28-23
 
-Deadlift - Car Tires - Raised
+Deadlift - Tire - Raised
 195x10
 285x8
 375x8
@@ -3816,7 +3816,7 @@ Squat - Barbell - Back
 295x5x3
 330x3x3
 
-Floor press
+Bench Press - Barbell - Floor
 135x10x4
 
 Raise - Dumbbell - Lateral
@@ -3825,7 +3825,7 @@ Raise - Dumbbell - Lateral
 RDL - Barbell - Standing
 135x5x4
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 135x5x4
 
 
@@ -3913,7 +3913,7 @@ RDL - Barbell - Standing
 155x10
 135x10
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 175x10
 155x10
 135x10
@@ -3930,7 +3930,7 @@ Squat - Barbell - Back
 300x3
 340x2x10
 
-Dumbbell incline press
+Bench Press - Dumbbell - Incline
 140x5x3
 
 
@@ -4045,12 +4045,12 @@ Bench Press - Dumbbell - Incline
 140x7
 140x6
 
-Rope climb pulls
+Row - Rope - Upright
 120x1
 140x1
 160x1
 
-High to low cable flys
+Fly - Cable - High to Low
 65x10
 100x8x2
 
@@ -4072,7 +4072,7 @@ Squat - Kettlebell - Goblet
 Lunges - Dumbbell - Reverse
 Bodyx5x3
 
-Dumbbell Farmers carry
+Carry - Farmers - Walking
 140x8x3
 
 Squat - Barbell - Back
@@ -4086,7 +4086,7 @@ Squat - Barbell - Back
 Bench Press - Barbell - Flat / Close Grip
 135x10x5
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 130x10x5
 
 
@@ -4104,7 +4104,7 @@ Log Press - Log - Standing
 105x8
 165x3x2
 
-French press
+French Press - Dumbbell - Upright
 45x10
 65x10x2
 
@@ -4124,7 +4124,7 @@ Squat - Axle Bar - Back
 365x1
 405x3
 
-Hercules hold
+Hold - Cable - Hercules
 30 seconds 
 
 Clean and Press - Axle Bar - Standing
@@ -4156,7 +4156,7 @@ Deadlift - Barbell - Standing
 OHP - Barbell - Standing
 95x10x3
 
-Rows - Cable - Seated
+Row - Cable - Seated
 165x10
 
 Tricep Extensions - Cable - Standing
@@ -4175,10 +4175,10 @@ Log Press - Log - Standing
 150x2x2
 170x1x4
 
-Rows - Cable - Seated
+Row - Cable - Seated
 165x10x3
 
-Farmers carry
+Carry - Farmers - Walking
 270x8
 370x8
 450x8
@@ -4194,7 +4194,7 @@ Deadlift - Barbell - Standing
 225x8
 315x4x3
 
-Rows - Barbell - Pendlay
+Row - Barbell - Pendlay
 135x8x3
 
 Pull Downs - Cable - Lat
@@ -4208,10 +4208,10 @@ OHP - Barbell - Seated
 125x8x3
 95x10
 
-French press
+French Press - Dumbbell - Upright
 70x8x3
 
-Seated Hamstring curls
+Leg Curl - Machine - Seated
 60x12
 105x12
 150x12x3
@@ -4233,7 +4233,7 @@ Bench Press - Barbell - Incline
 Raise - Dumbbell - Front / Chest Supported
 40x10x3
 
-Raise - Dumbbell - Rear Delt / Chest Supported
+Fly - Dumbbell - Rear Delt / Chest Supported
 40x10x2
 30x12
 
@@ -4246,7 +4246,7 @@ Deadlift - Trap Bar - Standing
 225x8
 315x8x4
 
-Leg extensions 
+Leg Extension - Machine - Seated
 60x12
 105x12
 150x12x3
@@ -4255,7 +4255,7 @@ Bench Press - Barbell - Flat / Close Grip
 115x10
 165x8x3
 
-Hammer curls
+Bicep Curl - Dumbbell - Hammer
 70x10x4
 
 Hip Thrust - Barbell - Seated
@@ -4293,7 +4293,7 @@ Bench Press - Barbell - Incline
 155x5
 155x3x2
 
-Rows - Cable - Seated
+Row - Cable - Seated
 165x10x2
 135x10x2
 
@@ -4304,7 +4304,7 @@ Log Press - Log - Standing
 160x3
 180x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x10x2
 305x10x2
 395x10
@@ -4347,7 +4347,7 @@ Raise - Dumbbell - Lateral / Chest Supported
 
 Valhalla AF Pull Day 11-21-23
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 45x10
 95x10x2
 145x10x4
@@ -4361,7 +4361,7 @@ RDL - Barbell - Standing
 225x6
 285x6x4
 
-Seated barbell OHP
+OHP - Barbell - Seated
 45x10
 115x10
 135x5x3
@@ -4392,11 +4392,11 @@ Log Press - Log - Strict
 110x5x2
 130x5x3
 
-Rows - Cable - Single Arm
+Row - Cable - Single Arm
 77x10x4
 88x10x2
 
-Farmers carry
+Carry - Farmers - Walking
 270x10x2
 450x10x2
 
@@ -4428,7 +4428,7 @@ Bench Press - Barbell - Flat / Close Grip
 Raise - Barbell - Front
 45x10x3
 
-Raise - Barbell - Rear Delt
+Fly - Barbell - Rear Delt
 45x10x3
 
 Deadlift - Barbell - Sumo
@@ -4440,7 +4440,7 @@ Deadlift - Barbell - Sumo
 
 Valhalla AF Pull Day 11-28-23
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 45x10
 135x10x2
 185x6x3
@@ -4459,7 +4459,7 @@ Arnold Press - Dumbbell - Seated
 130x4
 120x5x2
 
-French press
+French Press - Dumbbell - Upright
 80x5x3
 
 
@@ -4472,7 +4472,7 @@ Deadlift - Trap Bar - Standing
 225x10
 335x8x4
 
-Leg extensions
+Leg Extension - Machine - Seated
 135x10
 225x10x3
 
@@ -4513,17 +4513,17 @@ Ab Rollouts - Wheel - Lying
 
 Valhalla AF Push Day 12-02-23
 
-OH Barbell Press
+OHP - Barbell - Standing
 115x5
 135x5x3
 
-Seated row
+Row - Cable - Seated
 100x20x3
 
 Pull Downs - Cable - Lat
 165x10x3
 
-Leg press
+Leg Press - Machine - Seated
 500x10x4
 
 
@@ -4550,13 +4550,13 @@ Bench Press - Dumbbell - Incline
 Pull Downs - Cable - Lat
 150x10x3
 
-Seated OHP Dumbbell
+OHP - Dumbbell - Seated
 100x10x3
 
-Plank
+Plank - Body - Elbow
 100x30x3
 
-Shrugs
+Shrug - Dumbbell - Standing
 100x15x3
 
 
@@ -4586,7 +4586,7 @@ Pull - Sled - Standing
 Ab Rollouts - Wheel - Lying
 100x8x3
 
-Hanging Toes to Bar
+Toes to Bar - Body - Hanging
 100x5x3
 
 
@@ -4610,16 +4610,16 @@ Bench Press - Barbell - Incline
 145x10
 150x8
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 135x20x2
 
-Dumbbell curls
+Bicep Curl - Dumbbell - Standing
 80x10
 80x7
 80x8
 80x5
 
-Dumbbell over head press
+OHP - Dumbbell - Seated
 80x20
 
 Pull ups - Body - Hanging
@@ -4640,7 +4640,7 @@ Squat - Barbell - Back
 Squat - Dumbbell - Bulgarian
 200x10x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 395x10x2
 495x10x2
 575x10
@@ -4657,7 +4657,7 @@ Ab Rollouts - Wheel - Lying
 
 Work_Gym Innovation_Point Pull Day 12-11-23
 
-Side bends
+Side Bend - Dumbbell - Standing
 70x10x4
 
 Deadlift - Barbell - Standing
@@ -4686,22 +4686,22 @@ Bench Press - Barbell - Incline
 135x5
 165x3x3
 
-Deadhangs
+Deadhang - Body - Hanging
 200x20x3
 
-Side bends
+Side Bend - Dumbbell - Standing
 150x10x4
 
-Dips
+Dip - Body - Hanging
 200x10x3
 
 Push Ups - Body - Close Grip
 100x10x3
 
-Bicep curls
+Bicep Curl - Dumbbell - Standing
 75x10x3
 
-Plank 
+Plank - Body - Elbow 
 100x30x3
 
 
@@ -4725,7 +4725,7 @@ Load - Atlas Stone - Platform
 Deadlift - Trap Bar - Jumping
 135x10x3
 
-Crunches
+Crunch - Body - Lying
 125x10x3
 
 
@@ -4754,19 +4754,19 @@ Bench Press - Dumbbell - Incline
 140x8x2
 110x8
 
-Dumbbell hammer curls
+Bicep Curl - Dumbbell - Hammer
 70x10x3
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 185x5x3
 
-Dumbbell shrug
+Shrug - Dumbbell - Standing
 140x15x2
 
 Pull ups - Body - Hanging
 200x8x2
 
-Flutter kicks
+Kicks - Body - Flutter
 1:00x2
 
 
@@ -4841,19 +4841,19 @@ Deadlift - Barbell - Standing
 365x2
 385x2
 
-Lying leg curl
+Leg Curl - Machine - Lying
 170x8x3
 
-Hip adductors 
+Hip Adductor - Machine - Seated
 260x12x3
 
 Back Extension - Machine - Standing
 170x12x3
 
-Crunches
+Crunch - Body - Lying
 135x12x3
 
-Leg raises
+Leg Raise - Dumbbell - Lying
 30x10x3
 
 
@@ -4894,17 +4894,17 @@ Rack Pull - Barbell - Standing
 435x2
 455x2
 
-Strict shoulder press
+OHP - Barbell - Seated / Strict
 45x15
 105x5
 115x5
 125x3
 135x3
 
-Shoulder 3 ways
+Raise - Dumbbell - 3 Way
 30x10x6
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 225x5x2
 
 
@@ -4969,7 +4969,7 @@ Raise - Dumbbell - Lateral
 Raise - Dumbbell - Front
 40x10x3
 
-Raise - Dumbbell - Rear Delt
+Fly - Dumbbell - Rear Delt
 40x10x3
 
 Tricep Extensions - Cable - Standing
@@ -5006,12 +5006,12 @@ Log Press - Log - Standing
 170x2
 190x2
 
-Log clean
+Log Clean - Log - Standing
 190x5
 210x5
 230x5
 
-Strict Axle OHP
+OHP - Axle Bar - Standing / Strict
 75x10
 115x5x3
 75x10
@@ -5048,7 +5048,7 @@ Load - Atlas Stone - Platform
 Ab Rollouts - Wheel - Lying
 100x8x3
 
-Lying hamstring curls
+Leg Curl - Machine - Lying
 70x10
 80x10x2
 
@@ -5076,7 +5076,7 @@ Raise - Dumbbell - Front
 Raise - Dumbbell - Lateral
 60x8x3
 
-Cable rear delt extensions
+Fly - Cable - Rear Delt
 65x8x2
 50x8x2
 
@@ -5141,13 +5141,13 @@ Deadlift - Trap Bar - Standing
 
 Valhalla AF Strongman Day 01-15-24
 
-Log Press - Log - Strict
+Log Press - Log - Standing / Strict
 100x6
 120x8x2
 140x1
 160x1
 
-Log Cleans
+Log Clean - Log - Standing
 200x3x2
 250x3
 
@@ -5206,10 +5206,10 @@ Bench Press - Barbell - Incline
 145x8
 135x8x3
 
-French press
+French Press - Dumbbell - Upright
 65x10x4
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 205x2
 385x2
 565x1
@@ -5227,7 +5227,7 @@ Log Press - Log - Standing
 180x1x7
 150x2
 
-Strict shoulder press
+OHP - Barbell - Seated / Strict
 115x8x3
 
 Bench Press - Barbell - Incline
@@ -5269,7 +5269,7 @@ Load - Atlas Stone - Platform
 
 Rec_Center Provo_Fieldhouse Pull Day 02-01-24
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 35x10
 125x10
 175x10
@@ -5284,7 +5284,7 @@ Pull Downs - Cable - Straight Arm
 84x8
 74x10x2
 
-Incline Dumbbell curls
+Bicep Curl - Dumbbell - Incline
 70x10
 70x8
 70x5
@@ -5309,11 +5309,11 @@ Deadlift - Trap Bar - Standing
 425x6
 515x4
 
-Lying Leg curls
+Leg Curl - Machine - Lying
 150x10
 170x10x2
 
-Leg extensions
+Leg Extension - Machine - Seated
 190x10
 260x10x2
 
@@ -5338,10 +5338,10 @@ Log Press - Log - Standing
 100x6
 120x6x2
 
-Log Clean
+Log Clean - Log - Standing
 235x3x2
 
-Frame carry
+Carry - Frame - Walking
 500x10x1
 
 Load - Atlas Stone - Platform
@@ -5368,7 +5368,7 @@ Bench Press - Barbell - Incline
 185x2
 165x5x3
 
-Chest flys
+Fly - Dumbbell - Chest
 50x10
 80x10
 90x10
@@ -5392,12 +5392,12 @@ Squat - Barbell - Back
 397x4
 397x3
 
-Leg extensions
+Leg Extension - Machine - Seated
 90x10
 135x10
 190x10x2
 
-Frame carry
+Carry - Frame - Walking
 100x2
 280x2
 460x2
@@ -5416,7 +5416,7 @@ Bench Press - Barbell - Flat
 205x6
 225x4x2
 
-Dumbbell French press
+French Press - Dumbbell - Upright
 55x10
 70x10x3
 
@@ -5426,7 +5426,7 @@ Raise - Dumbbell - Front
 Raise - Dumbbell - Lateral
 50x10x3
 
-Raise - Dumbbell - Rear Delt
+Fly - Dumbbell - Rear Delt
 50x10x3
 
 Tricep Extensions - Cable - Standing
@@ -5481,7 +5481,7 @@ Bench Press - Barbell - Flat / Close Grip
 Raise - Dumbbell - Lateral
 45x10x3
 
-Cable low to high flys
+Fly - Cable - Low to High
 45x10x3
 
 Tricep Extensions - Rope - Standing
@@ -5503,7 +5503,7 @@ Squat - Belt Machine - Front
 225x10
 315x8
 
-Flex bar shoulder press
+OHP - Barbell - Standing
 45x10x2
 95x10x2
 
@@ -5527,7 +5527,7 @@ Squat - SSB - Back
 150x10
 240x6x3
 
-Ssb good mornings
+Good Morning - SSB - Standing
 60x10
 110x10x
 
@@ -5553,7 +5553,7 @@ Bench Press - Barbell - Incline
 Raise - Cable - Lateral
 33x9x6
 
-Chest Flys - Cable - Straight
+Fly - Cable - Chest / Straight
 33x10x6
 
 Tricep Extensions - Rope - Standing
@@ -5582,7 +5582,7 @@ Squat - Barbell - Back
 Ab Rollouts - Wheel - Lying
 100x8x3
 
-Dumbbell side bends
+Side Bend - Dumbbell - Standing
 70x10x2
 
 
@@ -5603,7 +5603,7 @@ Squat - Barbell - Front
 45x8
 95x10
 
-Plank
+Plank - Body - Elbow
 1:30x2
 
 
@@ -5613,7 +5613,7 @@ Plank
 
 Vasa AF Push Day 02-28-24
 
-Seated Barbell OHP
+OHP - Barbell - Seated
 45x10
 95x10
 135x8
@@ -5622,13 +5622,13 @@ Seated Barbell OHP
 Raise - Dumbbell - Lateral
 60x10x3
 
-French press
+French Press - Dumbbell - Upright
 60x10x3
 
-Dumbbell flat chest flys
+Fly - Dumbbell - Chest / Flat
 60x10x3
 
-Machine shoulder press
+OHP - Machine - Seated
 90x10x3
 
 
@@ -5638,7 +5638,7 @@ Machine shoulder press
 
 Vasa AF Leg Day 02-29-24
 
-Machine quad extensions
+Leg Extension - Machine - Seated
 160x20
 220x15
 300x10x2
@@ -5664,7 +5664,7 @@ Bench Press - Barbell - Incline
 Raise - Dumbbell - Front
 60x10x3
 
-Raise - Dumbbell - Rear Delt
+Fly - Dumbbell - Rear Delt
 50x10x3
 
 Ab Rollouts - Wheel - Lying
@@ -5682,7 +5682,7 @@ Load - Atlas Stone - Platform
 250x2
 275x2x2
 
-Frame carry
+Carry - Frame - Walking
 100x2
 280x1
 440x1
@@ -5691,11 +5691,11 @@ Pull Downs - Cable - Lat
 175x10x2
 145x10
 
-Cable rope bicep curls
+Bicep Curl - Cable / Rope - Standing
 66x10
 88x10x2
 
-Rows - Cable - Seated
+Row - Cable - Seated
 145x10x2
 121x10
 
@@ -5706,7 +5706,7 @@ Rows - Cable - Seated
 
 Vasa Lindon Leg Day 03-04-24
 
-Lying Hamstring Curls
+Leg Curl - Machine - Lying
 130x10
 160x10
 130x10
@@ -5724,7 +5724,7 @@ Log Press - Log - Standing
 150x4
 150x3
 
-Incline Dumbbell Press
+Bench Press - Dumbbell - Incline
 130x8x3
 
 
@@ -5753,21 +5753,21 @@ Squat - Barbell - Back
 
 Vasa Provo Leg Day 03-07-24
 
-Leg extensions
+Leg Extension - Machine - Seated
 190x12
 260x12x3
 
-Farmers carry
+Carry - Farmers - Walking
 250x4
 
-Leg curls
+Leg Curl - Machine - Seated
 200x10x2
 150x10x2
 
 Pull ups - Body - Hanging
 200x4x5
 
-Rows - Cable - Seated
+Row - Cable - Seated
 110x10
 230x10
 320x10
@@ -5803,7 +5803,7 @@ OHP - Barbell - Standing
 135x2
 135x1
 
-Powell raise
+Raise - Dumbbell - Lateral
 40x8x2
 40x10
 
@@ -5828,11 +5828,11 @@ Deadlift - Barbell - Raised
 405x5x3
 405x3
 
-Rows - Barbell - Standing / Bent
+Row - Barbell - Standing / Bent
 135x10
 185x10x2
 
-Hammer curls
+Bicep Curl - Dumbbell - Hammer
 70x10x3
 
 
@@ -5867,14 +5867,14 @@ Log Press - Log - Standing
 190x1x12
 160x1
 
-Frame carry
+Carry - Frame - Walking
 100x2
 280x3
 420x1
 500x1
 550x1
 
-Axle push press
+Clean and Press - Axle Bar - Standing
 95x10
 155x2x3
 
@@ -5888,7 +5888,7 @@ Tricep Extensions - Cable - Overhead
 
 Valhalla AF Pull Day 03-18-24
 
-Deadlift - Axle / Wagon Wheel - Raised
+Deadlift - Axle Bar / Wagon Wheel - Raised
 135x10
 225x8
 315x8
@@ -5925,7 +5925,7 @@ Bench Press - Barbell - Incline
 Raise - Dumbbell - Lateral
 66x10x3
 
-Chest Flys - Cable - Straight
+Fly - Cable - Straight
 66x10x3
 
 Tricep Extensions - Cable - Standing
@@ -5970,7 +5970,7 @@ Load - Atlas Stone - Platform
 300x1
 330x1
 
-Frame carry
+Carry - Frame - Walking
 100x2
 190x1
 280x1
@@ -5979,7 +5979,7 @@ Frame carry
 500x1
 560x1
 
-French press
+French Press - Dumbbell - Upright
 65x10
 75x10x3
 
@@ -6009,7 +6009,7 @@ Deadlift - Barbell - Standing
 
 Valhalla AF Push Day 03-27-24
 
-Fingal fingers
+Fingal Finger - Barbell / Landmine - Standing
 100x5
 150x5
 170x5
@@ -6021,7 +6021,7 @@ Log Press - Log - Standing
 210x1
 190x3
 
-Bench Press - Axle - Incline
+Bench Press - Axle Bar - Incline
 35x10
 105x5
 155x5x5
@@ -6032,7 +6032,7 @@ Raise - Dumbbell - Front
 Pull ups - Body - Hanging
 200x8x3
 
-Russian Twists
+Russian Twists - Medicine Ball - Seated
 25x20x3
 
 
@@ -6074,7 +6074,7 @@ Load - Atlas Stone - Platform
 215x3
 250x3
 
-Frame carry
+Carry - Frame - Walking
 100x2
 190x2
 280x2
@@ -6127,7 +6127,7 @@ Arnold Press - Dumbbell - Seated
 110x10
 130x7
 
-Push Press - Barbell - Standing
+OHP - Barbell - Push
 135x2x3
 185x2
 
@@ -6139,7 +6139,7 @@ OHP - Barbell - Standing
 Raise - Dumbbell - Lateral
 60x10x2
 
-French press
+French Press - Dumbbell - Upright
 50x10x2
 
 
@@ -6185,7 +6185,7 @@ Log Press - Log - Standing
 200x1
 220x1
 
-Frame Carry
+Carry - Frame - Walking
 400x1
 490x1
 580x1
@@ -6293,7 +6293,7 @@ Windmills - Dumbbell - Standing
 60x8
 40x8x2
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x5x3
 75x5
 95x3
@@ -6330,7 +6330,7 @@ Extension - Atlas Stone - Standing
 230x5
 215x5x2
 
-Carry - Sandbag - Standing
+Carry - Sandbag - Walking
 200x10
 200x100
 200x150
@@ -6339,7 +6339,7 @@ RDL - Barbell - Standing
 135x8
 225x8x2
 
-Leg Curls - Machine - Seated / Single Leg
+Leg Curl - Machine - Seated / Single Leg
 45x12x2
 90x15x2
 
@@ -6354,7 +6354,7 @@ Valhalla AF Push Day 05-08-24
 Pull Apart - Band - Standing
 25x20x3
 
-Kettle bell presses
+OHP - Kettlebell - Single Arm
 20x10x2
 25x10x3
 35x10
@@ -6362,7 +6362,7 @@ Kettle bell presses
 Windmills - Dumbbell - Standing
 50x8x3
 
-Circus dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x3x2
 75x3
 75x4x2
@@ -6383,7 +6383,7 @@ Squat - Camber Bar - Back
 80x10
 130x6x3
 
-Rows - Barbell - Seal
+Row - Barbell - Seal
 135x6
 135x12x2
 135x6
@@ -6397,7 +6397,7 @@ Pull Downs - Cable - Lat
 
 Valhalla AF Leg Day 05-09-24
 
-Banded Clams
+Banded Clam - Band - Lying
 15x12x2
 25x12x4
 
@@ -6408,20 +6408,20 @@ Squat - Dumbbell - Goblet
 25x12
 50x12x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x10x2
 305x10x2
 395x10x1
 535x10x3
 
-Farmers Carry
+Carry - Farmers - Walking
 260x8
 370x10x3
 
 Shoulder - Sandbag - Standing
 150x10x4
 
-Prowler push
+Push - Sled - Standing
 150x10x2
 220x10x2
 
@@ -6449,7 +6449,7 @@ Skull Crusher - Dumbbell - Flat
 Windmills - Dumbbell - Standing
 40x8x3
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x2x2
 75x2x2
 95x2
@@ -6461,7 +6461,7 @@ Circus Dumbbell
 
 Valhalla AF Pull Day 05-13-24
 
-Monster walks 
+Monster Walk - Band - Standing
 30x10x4
 
 Hip Thrust - Barbell - Seated
@@ -6472,7 +6472,7 @@ Deadlift - Trap Bar - Standing
 245x10x2
 405x7x2
 
-Extention - Atlas Stone - Standing
+Extension - Atlas Stone - Standing
 215x5
 190x5
 190x3
@@ -6505,7 +6505,7 @@ Skull Crusher - Dumbbell - Flat
 Windmills - Dumbbell - Standing
 25x16x2
 
-Circus Dumbbell 
+OHP - Circus Dumbbell - Single Arm 
 55x5
 75x3
 95x3
@@ -6514,7 +6514,7 @@ Circus Dumbbell
 OHP - Natural Stone - Standing
 110x3x3
 
-Throw - Stone - Distance
+Throw - Natural Stone - Distance
 20x5
 30x5
 40x5
@@ -6525,7 +6525,7 @@ Throw - Stone - Distance
 
 Valhalla AF Leg Day 05-16-24
 
-Banded clams
+Banded Clam - Band - Lying
 30x12x8
 
 Hip Thrust - Sandbag - Seated / Single Leg
@@ -6536,17 +6536,17 @@ Squat - Dumbbell - Goblet
 55x15
 75x15x2
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x10x4
 305x10
 395x10
 485x10
 535x10x3 (7.9sec)
 
-Farmers carry
+Carry - Farmers - Walking
 410x10x2
 
-Carry - Sandbag - Standing
+Carry - Sandbag - Walking
 200x10x2
 
 Push - Sled - Standing
@@ -6559,7 +6559,7 @@ Push - Sled - Standing
 
 Valhalla AF Push Day 05-18-24
 
-Banded pull aparts
+Pull Apart - Band - Standing
 25x20x3
 
 OHP - Kettlebell - Single Arm
@@ -6569,7 +6569,7 @@ OHP - Kettlebell - Single Arm
 Windmills - Dumbbell - Standing
 30x8x4
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x5
 75x3x5
 95x3x3
@@ -6579,7 +6579,7 @@ OHP - Sandbag - Standing
 130x3x2
 150x3
 
-Camber bar push press
+OHP - Camber Bar - Push
 80x6
 130x3
 130x2
@@ -6587,10 +6587,10 @@ Camber bar push press
 110x6
 110x3
 
-Rows - Cable - Wide Grip
+Row - Cable - Wide Grip
 144x12x4
 
-Dumbbell pull overs
+Pull Over - Dumbbell - Lying
 55x12x3
 
 
@@ -6600,7 +6600,7 @@ Dumbbell pull overs
 
 Valhalla AF Push Day 05-22-24
 
-Banded pull aparts
+Pull Apart - Band - Standing
 25x20x3
 
 OHP - Kettlebell - Single Arm
@@ -6609,7 +6609,7 @@ OHP - Kettlebell - Single Arm
 Windmills - Dumbbell - Standing
 30x8x4
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x5
 95x3x3
 105x1
@@ -6621,7 +6621,7 @@ OHP - Natural Stone - Standing
 115x8
 125x1
 
-Push press
+OHP - Barbell - Push
 115x8
 115x5
 165x3
@@ -6637,7 +6637,7 @@ Skull Crusher - Ez Bar - Incline
 
 Valhalla AF Leg Day 05-23-24
 
-Banded clams
+Banded Clam - Band - Lying
 15x12x3
 
 Hip Thrust - Sandbag - Seated / Single Leg
@@ -6646,7 +6646,7 @@ Hip Thrust - Sandbag - Seated / Single Leg
 Squat - Dumbbell - Goblet
 85x15x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 205x10x2
 295x10x2
 385x10
@@ -6657,7 +6657,7 @@ Squat - SSB - Back
 160x10
 250x8x3
 
-Leg Extensions - Machine - Seated / Single Leg
+Leg Extension - Machine - Seated / Single Leg
 50x12x2
 100x12x4
 
@@ -6677,7 +6677,7 @@ Skull Crusher - Ez Bar - Incline
 Windmills - Dumbbell - Standing
 30x16x3
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x3x2
 75x3x2
 95x3
@@ -6693,7 +6693,7 @@ OHP - Natural Stone - Standing
 
 Valhalla AF Leg Day 05-30-24
 
-Banded clams
+Banded Clam - Band - Lying
 20x20x2
 
 Hip Thrust - Sandbag - Seated / Single Leg
@@ -6704,13 +6704,13 @@ Squat - Dumbbell - Goblet
 55x10
 85x10
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 205x10x2
 295x10x2
 385x10
 425x10x5 (6.13 sec)
 
-Farmers carry
+Carry - Farmers - Walking
 185x10x2
 
 
@@ -6719,10 +6719,10 @@ Farmers carry
 
 Valhalla AF Push Day 06-01-24
 
-Kettle bell press
+OHP - Kettlebell - Single Arm
 25x10x4
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x3
 75x3
 95x4x3
@@ -6731,7 +6731,7 @@ OHP - Sandbag - Standing
 150x3x3
 180x1
 
-Camber bar push press
+OHP - Camber Bar - Push
 80x6
 120x6x3
 
@@ -6741,7 +6741,7 @@ Camber bar push press
 
 Vacation Iron_Legacy_Barbell Pull Day 06-04-24
 
-Monster walks
+Monster Walk - Band - Standing
 20x10x2
 
 Hip Thrust - Machine - Seated
@@ -6761,7 +6761,7 @@ Load - Atlas Stone - Platform
 215x3
 250x1
 
-Carry - Sandbag - Standing
+Carry - Sandbag - Walking
 175x8
 
 
@@ -6783,7 +6783,7 @@ Skull Crusher - Ez Bar - Incline
 Windmills - Dumbbell - Standing
 30x8x4
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 75x3
 95x3x3
 
@@ -6853,13 +6853,13 @@ OHP - Kettlebell - Single Arm
 Pull Apart - Band - Standing
 25x20x3
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x3
 75x3
 95x2
 115x1
 
-Log strict press
+Log Press - Log - Standing / Strict
 100x5
 140x5x3
 
@@ -6874,7 +6874,7 @@ Squat - Dumbbell - Goblet
 35x10x2
 75x10x2
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x10x2
 305x10x2
 395x10x1
@@ -6895,7 +6895,7 @@ Squat - Barbell - Back
 
 Valhalla AF Pull Day 06-24-24
 
-Monster walks
+Monster Walk - Band - Standing
 30x10x4
 
 Hip Thrust - Barbell - Seated
@@ -6910,7 +6910,7 @@ Load - Atlas Stone - Platform
 175x5
 230x3x2
 
-Rows - Cable - Seated
+Row - Cable - Seated
 145x12x3
 
 
@@ -6919,7 +6919,7 @@ Rows - Cable - Seated
 
 Valhalla AF Push Day 06-26-24
 
-Banded pull aparts
+Pull Apart - Band - Standing
 25x20x3
 
 OHP - Kettlebell - Single Arm
@@ -6931,7 +6931,7 @@ Skull Crusher - Dumbbell - Flat
 Windmills - Dumbbell - Standing
 35x16x3
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x5
 75x3
 105x1x4
@@ -6939,7 +6939,7 @@ Circus Dumbbell
 Bench Press - Barbell - Incline
 135x10x2
 
-Push Press - Barbell - Standing
+OHP - Barbell - Push
 135x8
 135x5
 135x3
@@ -6954,10 +6954,10 @@ Bench Press - Barbell - Flat / Close Grip
 
 Competition Welsh_Days Comp Day 06-29-24
 
-Carry Medley
+Carry - Medley - Walking
 150X10x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 550x10
 
 Throw - Rings - Over Bar
@@ -6967,7 +6967,7 @@ Throw - Rings - Over Bar
 40x1
 45x1
 
-Hercules Hold
+Hold - Cable - Hercules
 280x10
 
 
@@ -6975,7 +6975,7 @@ Hercules Hold
 
 Valhalla AF Pull Day 07-15-24
 
-Monster Walks
+Monster Walk - Band - Standing
 25x10x4
 
 Hip Thrust - Sandbag - Seated / Single Leg
@@ -7002,7 +7002,7 @@ Load - Atlas Stone - Platform
 
 Valhalla AF Push Day 07-17-24
 
-Banded pull aparts
+Pull Apart - Band - Standing
 25x20x3
 
 OHP - Kettlebell - Single Arm
@@ -7014,7 +7014,7 @@ Skull Crusher - Dumbbell - Flat
 Windmills - Dumbbell - Standing
 40x8x4
 
-Circus Dumbbell
+OHP - Circus Dumbbell - Single Arm
 55x5
 75x3
 95x2
@@ -7031,7 +7031,7 @@ Log Press - Log - Standing
 
 Valhalla AF Leg Day 07-18-24
 
-Monster walks
+Monster Walk - Band - Standing
 25x4
 
 Squat - Dumbbell - Goblet
@@ -7040,14 +7040,14 @@ Squat - Dumbbell - Goblet
 Hip Thrust - Sandbag - Seated / Single Leg
 100x10x4
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 305x10x2
 395x10x2
 485x10x1
 555x10x1
 595x10x1
 
-Conan’s wheel 
+Carry - Conans Wheel - Walking
 255x10x2
 
 
@@ -7089,10 +7089,10 @@ Squat - Barbell - Back
 
 Valhalla AF Pull Day 07-29-24
 
-Clams
+Banded Clam - Band - Lying
 30x12x4
 
-Leg Curls - Machine - Seated / Single Leg
+Leg Curl - Machine - Seated / Single Leg
 45x15x6
 
 Hip Thrust - Barbell - Seated
@@ -7131,10 +7131,10 @@ Pull - Truck - Standing
 
 Valhalla AF Pull Day 08-05-24
 
-Banded clams
+Banded Clam - Band - Lying
 25x10x4
 
-Leg Curls - Machine - Seated / Single Leg
+Leg Curl - Machine - Seated / Single Leg
 45x15x6
 
 Deadlift - Barbell - Standing
@@ -7148,7 +7148,7 @@ Deadlift - Barbell - Standing
 
 Valhalla AF Push Day 08-07-24
 
-Field goals
+Field Goal - Dumbbell - Standing
 30x10
 40x10x3
 
@@ -7159,7 +7159,7 @@ Bench Press - Barbell - Flat
 45x10
 135x10x3
 
-Axle overhead holds 
+Clean and Press - Axle Bar - Standing
 115x20secx2
 185x20secx2
 
@@ -7170,7 +7170,7 @@ Axle overhead holds
 
 Valhalla AF Leg Day 08-08-24
 
-Fire hydrants
+Fire Hydrant - Band - Kneeling
 10x20x8
 
 Step Up - Sandbag - Standing
@@ -7179,7 +7179,7 @@ Step Up - Sandbag - Standing
 Squat - Dumbbell - Goblet
 60x15x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 205x8x2
 385x8x1
 485x8x3
@@ -7191,7 +7191,7 @@ Squat - Barbell - Pin
 235x8x1
 235x4x3
 
-Quad extensions
+Leg Extension - Machine - Seated
 45x5
 90x20
 135x15
@@ -7219,7 +7219,7 @@ Log Press - Log - Standing
 125x3x1
 145x3x1
 
-Axle Press
+Clean and Press - Axle Bar - Standing
 115x3x1
 145x3x1
 
@@ -7227,11 +7227,11 @@ OHP - Sandbag - Standing
 80x3x1
 130x3x1
 
-Pull-ups 
+Pull ups - Body - Hanging
 200x8x1
 200x5x2
 
-Rows - Cable - Seated
+Row - Cable - Seated
 100x20x3
 
 
@@ -7241,7 +7241,7 @@ Rows - Cable - Seated
 
 Valhalla AF Pull Day 08-12-24
 
-Banded Clams
+Banded Clam - Band - Lying
 30x24x2
 
 Hip Thrust - Barbell - Seated
@@ -7257,7 +7257,7 @@ Deadlift - Barbell - Standing
 315x3x1
 365x1x6
 
-Husafell carry
+Carry - Husafell Stone - Walking
 100x8x1
 155x4x1
 210x4x1
@@ -7271,10 +7271,10 @@ Pull - Sled - Standing
 RDL - Dumbbell - Standing
 140x10x3
 
-Leg curl
+Leg Curl - Machine - Seated
 90x15x3
 
-Good mornings
+Good Morning - Barbell - Standing
 45x8x1
 135x8x4
 
@@ -7283,7 +7283,7 @@ Good mornings
 
 Valhalla AF Push Day 08-14-24
 
-Field goals
+Field Goal - Dumbbell - Standing
 50x10x1
 40x10x2
 30x10x1
@@ -7308,7 +7308,7 @@ Z Press - Camber Bar - Seated
 80x6x2x1
 80x5x2x1
 
-Rows - Barbell - Upright
+Row - Barbell - Upright
 135x10x2
 95x12x1
 
@@ -7322,13 +7322,13 @@ Valhalla AF Leg Day 08-15-24
 Step Up - Sandbag - Standing
 80x20x3
 
-Fire hydrants
+Fire Hydrant - Band - Kneeling
 20x8x3
 
 Squat - Dumbbell - Goblet
 70x15x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x9x2
 305x9x2
 395x9x1
@@ -7345,7 +7345,7 @@ Squat - SSB - Pin
 
 Valhalla AF Push Day 08-17-24
 
-Standing Dumbbell OHP
+OHP - Dumbbell - Standing
 50x15x2
 60x10x2
 
@@ -7360,7 +7360,7 @@ Log Press - Log - Standing
 150x2x1
 170x1x3
 
-Axle press
+Clean and Press - Axle Bar - Standing
 125x4x1
 155x2x1
 185x1x3
@@ -7375,10 +7375,10 @@ Pull ups - Body - Hanging
 200x8x1
 200x4x1
 
-Rows - Barbell - Pendlay
+Row - Barbell - Pendlay
 155x8x4
 
-Rows - Cable - Seated
+Row - Cable - Seated
 100x20x3
 
 
@@ -7387,7 +7387,7 @@ Rows - Cable - Seated
 
 Valhalla AF Pull Day 08-19-24
 
-Banded Clams
+Banded Clam - Band - Lying
 30x12x4
 
 Hip Thrust - Barbell - Seated
@@ -7396,7 +7396,7 @@ Hip Thrust - Barbell - Seated
 225x10x1
 225x8x1
 
-Leg Curls - Machine - Seated / Single Leg
+Leg Curl - Machine - Seated / Single Leg
 50x15x6
 
 Deadlift - Barbell - Standing
@@ -7406,7 +7406,7 @@ Deadlift - Barbell - Standing
 315x5x1
 375x1x6
 
-Husafell carry
+Carry - Husafell Stone - Walking
 100x10x1
 155x10x1
 210x10x1
@@ -7417,7 +7417,7 @@ Husafell carry
 
 Valhalla AF Push Day 08-21-24
 
-Goal posts
+Field Goal - Dumbbell - Standing
 20x20x4
 
 Raise - Dumbbell - Front to T
@@ -7427,12 +7427,12 @@ Raise - Dumbbell - Front to T
 Push Ups - Body - Regular
 100x12x3
 
-axle press
+Clean and Press - Axle Bar - Standing
 115x3x2
 145x3x1
 175x1x4 (0:15/0:21/0:04/0:20)
 
-Camber bar ZPress
+Z Press - Barbell - Seated
 80x8x4
 
 Bench Press - Barbell - Flat
@@ -7458,7 +7458,7 @@ Squat - Barbell - Pin
 
 Valhalla AF Push Day 08-28-24
 
-Field goals
+Field Goal - Dumbbell - Standing
 20x20x4
 
 Raise - Dumbbell - Front to T
@@ -7467,7 +7467,7 @@ Raise - Dumbbell - Front to T
 Push Ups - Body - Regular
 100x12x3
 
-Axle press
+Clean and Press - Axle Bar - Standing
 125x4x1
 155x4x1
 175x3x1
@@ -7492,7 +7492,7 @@ Step Up - Sandbag - Standing
 Squat - Dumbbell - Goblet
 95x15x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 215x10x2
 305x10x2
 395x10x2
@@ -7509,7 +7509,7 @@ Squat - Barbell - Back
 
 Valhalla AF Pull Day 09-02-24
 
-Clams
+Banded Clam - Band - Lying
 10x20x4
 
 Hip Thrust - Barbell - Seated
@@ -7517,7 +7517,7 @@ Hip Thrust - Barbell - Seated
 225x15x1
 225x10x2
 
-Leg Curls - Machine - Seated / Single Leg
+Leg Curl - Machine - Seated / Single Leg
 50x15x6
 
 Deadlift - Barbell - Standing
@@ -7533,16 +7533,16 @@ Deadlift - Barbell - Standing
 
 Valhalla AF Push Day 09-04-24
 
-Field goals
+Field Goal - Dumbbell - Standing
 20x20x4
 
 Raise - Dumbbell - Front to T
 20x12x4
 
-Push ups
+Push Ups - Body - Regular
 100x12x3
 
-Axle press
+Clean and Press - Axle Bar - Standing
 125x4
 145x3
 165x2
@@ -7556,13 +7556,13 @@ Z Press - Camber Bar - Seated
 
 Valhalla AF Leg Day 09-05-24
 
-Fire hydrants
+Fire Hydrant - Band - Kneeling
 10x8x3
 
 Squat - Dumbbell - Goblet
 90x15x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 250x10x2
 310x10x2
 400x10x2
@@ -7580,7 +7580,7 @@ Squat - Yoke - Back
 
 Valhalla AF Push Day 09-07-24
 
-Dumbbell standing OHP
+OHP - Dumbbell - Standing
 60x15x2
 60x10x2
 
@@ -7592,7 +7592,7 @@ Log Press - Log - Standing
 150x2
 200x2
 
-Axle press
+Clean and Press - Axle Bar - Standing
 115x5
 165x2
 205x2
@@ -7611,7 +7611,7 @@ OHP - Barbell / Landmine - Viking
 
 Valhalla AF Pull Day 09-09-24
 
-Banded clams
+Banded Clam - Band - Lying
 15x24x4
 
 Hip Thrust - Barbell - Seated
@@ -7620,7 +7620,7 @@ Hip Thrust - Barbell - Seated
 225x10
 225x8
 
-Leg Curls - Machine - Seated / Single Leg
+Leg Curl - Machine - Seated / Single Leg
 50x15x6
 
 Deadlift - Barbell - Standing
@@ -7630,13 +7630,13 @@ Deadlift - Barbell - Standing
 385x3
 435x1x3
 
-Husafell picks
+Carry - Husafell Stone - Walking
 100x3
 155x3
 210x3
 250x3
 
-Extention - Atlas Stone - Standing
+Extension - Atlas Stone - Standing
 215x5
 
 
@@ -7646,7 +7646,7 @@ Extention - Atlas Stone - Standing
 
 Valhalla AF Push Day 09-11-24
 
-Field goals 
+Field Goal - Dumbbell - Standing
 30x20x4
 
 Raise - Dumbbell - Front to T
@@ -7655,7 +7655,7 @@ Raise - Dumbbell - Front to T
 Push Ups - Body - Regular
 100x12x3
 
-Axles press
+Clean and Press - Axle Bar - Standing
 115x4
 165x3
 225x1
@@ -7671,7 +7671,7 @@ Bench Press - Barbell - Flat
 
 Valhalla AF Leg Day 09-12-24
 
-Fire hydrants
+Fire Hydrant - Band - Kneeling
 20x20x6
 
 Step Up - Sandbag - Standing
@@ -7680,7 +7680,7 @@ Step Up - Sandbag - Standing
 Squat - Dumbbell - Goblet
 100x15x3
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 305x10x2
 395x10x2
 505x10
@@ -7697,7 +7697,7 @@ Squat - Barbell - Pin
 
 Valhalla AF Pull Day 09-16-24
 
-Banded clams
+Banded Clam - Band - Lying
 25x12x2
 15x12x6
 
@@ -7706,7 +7706,7 @@ Hip Thrust - Barbell - Seated
 275x15
 275x10
 
-Leg Curls - Machine - Seated / Single Leg
+Leg Curl - Machine - Seated / Single Leg
 50x15x6
 
 Deadlift - Barbell - Standing
@@ -7747,7 +7747,7 @@ Squat - Yoke - Back
 255x3x1
 305x26x1
 
-Throw - Stone - Unspunnen
+Throw - Natural Stone - Unspunnen
 53x2x2
 110x9x3
 
@@ -7759,7 +7759,7 @@ Throw - Stone - Unspunnen
 
 Valhalla AF Pull Day 09-23-24
 
-Banded Clams
+Banded Clam - Band - Lying
 20x12x8
 
 Hip Thrust - Barbell - Seated
@@ -7780,17 +7780,17 @@ Deadlift - Barbell - Standing
 
 Valhalla AF Push Day 09-25-24
 
-Standing Dumbbell overhead press
+OHP - Dumbbell - Standing
 70x15x2
 70x10x2
 
-Field goals 
+Field Goal - Dumbbell - Standing
 20x20x2
 
 Raise - Dumbbell - Front to T
 20x12x2
 
-Push ups
+Push Ups - Body - Regular
 100x12x2
 
 OHP - Kettlebell - Single Arm
@@ -7800,7 +7800,7 @@ OHP - Kettlebell - Single Arm
 88x1x1
 105x3x1
 
-Incline Dumbbell press
+Bench Press - Dumbbell - Incline
 50x10x1
 60x5x1
 
@@ -7810,7 +7810,7 @@ Incline Dumbbell press
 
 Valhalla AF Leg Day 09-26-24
 
-Fire hydrants 
+Fire Hydrant - Band - Kneeling 
 15x20x4
 
 Squat - Dumbbell - Goblet
@@ -7819,7 +7819,7 @@ Squat - Dumbbell - Goblet
 Step Up - Sandbag - Standing
 100x10x4
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 265x10x2
 395x10x2
 485x8x1
@@ -7835,7 +7835,7 @@ Work_Gym Redo_Office Pull Day 10-02-24
 Raise - Dumbbell - Front
 20x10x2
 
-Rows - Machine - Seated
+Row - Machine - Seated
 135x10x1
 
 Deadlift - Barbell - Standing
@@ -7851,13 +7851,13 @@ Deadlift - Barbell - Standing
 
 Competition Sinister_Games Comp Day 10-05-24
 
-Chain drag
+Drag - Chain - Walking
 400x10x1
 
-Cross carry
+Carry - Cross - Walking
 250x10x1
 
-Yoke Run - Yoke - Run
+Yoke Run - Yoke - Walking
 185x10x2
 525x10x1
 
@@ -7870,7 +7870,7 @@ Squat - Barbell - Back
 415x1x1
 470x1x1
 
-Overhead hold
+Clean and Press - Axle Bar - Standing
 55x5x1
 85x6x1
 
@@ -7895,11 +7895,11 @@ Competition Viking_Power Comp Day 10-12-24
 Tire flips - Tire - Standing
 500x4x1
 
-Odd object
+Carry - Odd Object - Walking
 160x10x1
 125x10x1
 
-Hammer hold
+Hold - Hammer - Hammer
 15x3x1
 35x3x1
 45x9x1
