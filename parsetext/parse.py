@@ -58,6 +58,10 @@ for wks in workouts:
     gym = gym_day.split(" ")[0]
     city = gym_day.split(" ")[1]
     day = " ".join(gym_day.split(" ")[2:]).strip()
+    
+    sets = 0
+    reps = 0
+    weight = 0
 
     if gym in gym_map:
         if city in gym_map[gym]:
@@ -81,30 +85,54 @@ for wks in workouts:
                     workout_id = con.fetchone()
                 excers = "\n".join(wks[1:]).strip().split("\n\n")
                 for exc in excers:
-                    exc = exc.strip("\n")
-                    exc = exc.split("\n")
+                    exc = exc.strip("\n").split("\n")
                     exc_name = exc[0].strip().lower()
-                    excers_set[exc_name] = {
-                        "Workout": "",
-                        "Equipment": "",
-                        "Position": "",
-                    }
-        else:
-            print(gym, city, wks[0])
-            continue
-    else:
-        print(gym, wks[0])
-        continue
-
+                    exc_name_parts = exc_name.split(" - ")
+                    if len(exc_name_parts) == 1:
+                        # excers_set[exc_name] = {
+                        #     "Workout": exc_name_parts[0],
+                        #     "Equipment": exc_name_parts[1].split(' / '),
+                        #     "Position": exc_name_parts[2].split(' / '),
+                        # }
+                        # if exc_name == '':
+                        #     print(f"Empty excersize: {date}")
+                        # for sets in exc[1:]:
+                        #     sets = sets.split(" x ")
+                        excers_set[exc_name] = {
+                            "Workout": "",
+                            "Equipment": "",
+                            "Position": "",
+                        }
+            else:
+                print(f"Day not found: {date}")
     counter += 1
 
-sorted = list(excers_set)
-sorted.sort()
+# workouts = []
+# equipment = []
+# positions = []
+# for exc in excers_set:
+#     workouts.append(excers_set[exc]["Workout"])
+#     equipment += excers_set[exc]["Equipment"]
+#     positions += excers_set[exc]["Position"]
+# workouts = list(set(workouts))
+# equipment = list(set(equipment))
+# positions = list(set(positions))
+# workouts.sort()
+# equipment.sort()
+# positions.sort()
+# pprint(workouts)
+# pprint(equipment)
+# pprint(positions)
 
+sorted = list(excers_set.keys())
+sorted.sort()
 pprint(sorted)
 print(len(sorted))
+
 with open("excersizes.json", "w") as myfile:
     myfile.write(json.dumps(excers_set))
+with open("excerlist.json", "w") as myfile:
+    myfile.write(json.dumps(sorted))
 
 
 # conn.commit()
