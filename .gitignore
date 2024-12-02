@@ -52,3 +52,10 @@ secrets.tf
 template.yaml
 
 .aws-sam
+
+
+# Ignore Pycache
+__pycache__/
+
+#ignore vscode
+.vscode/

@@ -1,73 +1,7027 @@
-[
-    "ab rollouts",
-    "arnold press",
-    "back extension",
-    "banded clam",
-    "bench press",
-    "bicep curl",
-    "block pull",
-    "calf raise",
-    "carry",
-    "chest",
-    "clean and press",
-    "crunch",
-    "deadhang",
-    "deadlift",
-    "dip",
-    "drag",
-    "extension",
-    "face pulls",
-    "field goal",
-    "fingal finger",
-    "fire hydrant",
-    "fly",
-    "french press",
-    "ghr",
-    "good morning",
-    "hip abductor",
-    "hip adductor",
-    "hip thrust",
-    "hold",
-    "kicks",
-    "leg curl",
-    "leg extension",
-    "leg press",
-    "leg raise",
-    "load",
-    "log clean",
-    "log press",
-    "lunges",
-    "monster walk",
-    "ohp",
-    "pick",
-    "plank",
-    "pull",
-    "pull apart",
-    "pull downs",
-    "pull over",
-    "pull ups",
-    "push",
-    "push ups",
-    "rack pull",
-    "raise",
-    "rdl",
-    "reverse hyper",
-    "row",
-    "russian twists",
-    "shoulder",
-    "shrug",
-    "side bend",
-    "skull crusher",
-    "squat",
-    "step up",
-    "swing",
-    "throw",
-    "tire flips",
-    "toes to bar",
-    "tricep extensions",
-    "tricep press",
-    "wheelbarrow runs",
-    "windmills",
-    "yoke run",
-    "z press"
-]
+{
+    "1": {
+        "Fly - Machine - Chest": [
+            "115x21",
+            "150x20",
+            "150x15",
+            "150x15"
+        ],
+        "OHP - Barbell - Seated": [
+            "75x12",
+            "115x8",
+            "115x8",
+            "115x8",
+            "95x12"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "65x15",
+            "65x15",
+            "65x13"
+        ],
+        "Bench Press - Dumbbell - Flat": [
+            "130x8",
+            "130x9",
+            "130x7"
+        ],
+        "Raise - Dumbbell - Front": [
+            "50x10",
+            "50x12",
+            "50x10"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10",
+            "50x12",
+            "50x10"
+        ],
+        "Fly - Dumbbell - Chest": [
+            "70x10",
+            "70x10",
+            "80x8",
+            "80x8"
+        ],
+        "Dip - Body - Hanging": [
+            "198x10",
+            "198x10",
+            "198x10"
+        ]
+    },
+    "2": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "205x10",
+            "275x4",
+            "275x10x3"
+        ],
+        "Row - Cable - Seated": [
+            "100x10x2",
+            "150x10",
+            "200x10x2"
+        ],
+        "Bicep Curl - EZ Bar - Standing": [
+            "50x10x3",
+            "50x12"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "135x10",
+            "185x3",
+            "165x6",
+            "135x10"
+        ],
+        "Pull Downs - Cable - Lat / Close Grip": [
+            "140x10x2",
+            "160x10x2"
+        ],
+        "Bicep Curl - Rope / Cable - Standing": [
+            "50x10x4"
+        ]
+    },
+    "3": {
+        "OHP - Machine - Seated": [
+            "75x20",
+            "125x12",
+            "105x15"
+        ],
+        "Arnold Press - Dumbbell - Seated": [
+            "80x10x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "45x10"
+        ],
+        "Tricep Extensions - Dumbbell - Single Arm": [
+            "45x10"
+        ]
+    },
+    "4": {
+        "Squat - Hack Machine - Back": [
+            "60x10",
+            "135x10",
+            "225x10",
+            "295x10",
+            "345x8",
+            "375x5x2"
+        ],
+        "RDL - Smith Machine - Standing": [
+            "115x8",
+            "205x8",
+            "255x8",
+            "275x8x2"
+        ],
+        "Hip Thrust - Smith Machine - Seated": [
+            "275x4",
+            "255x10x3"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "205x10",
+            "305x10x3"
+        ],
+        "Leg Curl - Machine - Lying": [
+            "120x12",
+            "170x10x2"
+        ],
+        "Swing - Kettlebell - Standing": [
+            "40x15",
+            "70x15",
+            "90x10x3"
+        ]
+    },
+    "5": {
+        "Bench Press - Smart Machine - Seated / Flat": [
+            "169x15",
+            "165x12",
+            "180x10",
+            "200x10"
+        ],
+        "Row - Smart Machine - Seated": [
+            "225x15",
+            "255x10",
+            "200x15"
+        ],
+        "Fly - Machine - Chest": [
+            "160x15",
+            "175x15",
+            "175x14"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "130x12",
+            "175x10",
+            "175x6"
+        ],
+        "Bench Press - Dumbbell - Flat": [
+            "120x10x3",
+            "120x12"
+        ],
+        "Pull Downs - Cable / D Handle - Lat": [
+            "125x10",
+            "175x10x3"
+        ]
+    },
+    "6": {
+        "OHP - Barbell - Standing": [
+            "45x20",
+            "100x10",
+            "100x8x2",
+            "100x5",
+            "50x15"
+        ],
+        "Fly - Dumbbell - Chest / Flat": [
+            "80x10x4"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "65x15x3"
+        ],
+        "Raise - Cable - Lateral": [
+            "30x10x3"
+        ],
+        "Raise - Cable - Front": [
+            "35x10",
+            "45x10x2"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x15",
+            "135x10",
+            "185x8",
+            "185x6",
+            "185x5"
+        ],
+        "Dip - Body - Hanging": [
+            "10x210",
+            "10x198"
+        ]
+    },
+    "7": {
+        "Squat - Barbell - Back": [
+            "95x10",
+            "185x10",
+            "235x10",
+            "325x4x4",
+            "185x10"
+        ],
+        "Leg Curl - Machine - Seated": [
+            "110x10",
+            "150x10",
+            "170x10x3"
+        ],
+        "Hip Abductor - Machine - Seated": [
+            "175x15",
+            "205x12",
+            "235x10"
+        ],
+        "Hip Adductor - Machine - Seated": [
+            "260x12x2",
+            "260x15"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "200x15",
+            "305x10x3"
+        ],
+        "Calf Raise - Machine - Standing": [
+            "300x15",
+            "400x10x3"
+        ]
+    },
+    "8": {
+        "Deadlift - Barbell - Lowered": [
+            "135x10",
+            "225x10",
+            "295x10x2"
+        ],
+        "Deadlift - Barbell - Sumo": [
+            "295x10x2"
+        ],
+        "Bicep Curl - Dumbbell - Standing": [
+            "50x10x4"
+        ],
+        "Fly - Dumbbell - Rear Delt / Chest Supported": [
+            "50x10x2",
+            "40x10x2"
+        ],
+        "Row - Cable - Seated": [
+            "160x10x2",
+            "180x10x2"
+        ]
+    },
+    "9": {
+        "Log Press - Log - Standing": [
+            "85x10x2",
+            "115x5x3"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "44x10",
+            "55x15",
+            "77x10x3"
+        ],
+        "OHP - Barbell / Landmine - Viking": [
+            "55x10",
+            "90x10",
+            "125x10x3"
+        ],
+        "Tricep Extensions - Dumbbell - Single Arm": [
+            "50x10x4"
+        ],
+        "Arnold Press - Dumbbell - Seated": [
+            "100x10",
+            "100x8",
+            "100x8"
+        ]
+    },
+    "10": {
+        "Fly - Cable - Low to High": [
+            "66x10",
+            "88x10",
+            "110x10"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "55x10",
+            "145x10",
+            "235x3",
+            "195x10",
+            "195x7",
+            "145x12"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "130x8x2",
+            "130x7"
+        ]
+    },
+    "11": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x10",
+            "235x10",
+            "285x5x5"
+        ],
+        "Squat - Barbell - Front": [
+            "195x12x3"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x10",
+            "225x10",
+            "275x8",
+            "245x12x3"
+        ],
+        "GHR - Machine - Lying": [
+            "198x15x3"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "135x15",
+            "225x15x3"
+        ]
+    },
+    "12": {
+        "Bench Press - Barbell - Incline ": [
+            "45x10",
+            "95x10",
+            "135x10",
+            "155x10",
+            "155x8",
+            "155x6",
+            "165x4",
+            "135x12"
+        ],
+        "Z Press - Barbell - Seated": [
+            "45x12",
+            "65x12",
+            "75x12",
+            "75x12"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "15x15",
+            "65x12",
+            "85x12x2"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "25x15x2",
+            "20x15"
+        ],
+        "Push Ups - Body - Close Grip": [
+            "210x15x3"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "66x15x3"
+        ]
+    },
+    "13": {
+        "Pull Downs - Cable - Lat": [
+            "165x12x2",
+            "143x8",
+            "121x4"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x5",
+            "225x5",
+            "275x5",
+            "315x5",
+            "365x5",
+            "385x1"
+        ],
+        "Row - Barbell - Pendlay": [
+            "135x12x3"
+        ],
+        "Bicep Curl - EZ Bar - Standing": [
+            "65x12",
+            "75x12x2"
+        ],
+        "Pull Apart - Band - Standing": [
+            "40x15x3"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "70x15",
+            "60x15x2"
+        ],
+        "GHR - Machine - Lying": [
+            "200x15x3"
+        ]
+    },
+    "14": {
+        "Log Press - Log - Standing": [
+            "65x10",
+            "130x3x8",
+            "83x10"
+        ],
+        "Bench Press - Barbell - Floor": [
+            "45x12",
+            "135x12",
+            "155x12x2"
+        ],
+        "Fly - Cable - Rear Delt / Low to High": [
+            "66x12",
+            "88x12x2"
+        ],
+        "Tricep Extensions - Rope - Standing": [
+            "66x15",
+            "77x15x2",
+            "77x5"
+        ],
+        "Tricep Extensions - Cable - Overhead": [
+            "100x15x3"
+        ]
+    },
+    "15": {
+        "Squat - Dumbbell - Goblet": [
+            "25x10",
+            "35x10"
+        ],
+        "RDL - Barbell - Standing": [
+            "35x10"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "115x1",
+            "175x4",
+            "215x1"
+        ],
+        "Plank - Body - Elbow": [
+            "100x40x1"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x10x2",
+            "395x10x6"
+        ]
+    },
+    "16": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x10",
+            "235x10",
+            "325x5x3"
+        ],
+        "Squat - Barbell - Front": [
+            "165x12x4"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x12",
+            "195x12x3"
+        ],
+        "GHR - Machine - Lying": [
+            "200x15x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "135x15",
+            "225x15",
+            "275x15x2"
+        ]
+    },
+    "17": {
+        "OHP - Smart Machine - Seated": [
+            "105x20",
+            "135x10",
+            "145x10",
+            "160x10"
+        ],
+        "Tricep Press - Smart Machine - Seated": [
+            "125x20",
+            "155x15",
+            "205x10"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "45x10",
+            "95x10",
+            "145x10",
+            "155x8",
+            "160x6",
+            "165x4",
+            "175x3",
+            "145x11"
+        ],
+        "Z Press - Barbell - Seated": [
+            "65x12x2",
+            "60x9",
+            "55x3",
+            "55x12"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "75x12x2",
+            "70x12x2"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x15x2",
+            "50x15x2"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "45x15"
+        ],
+        "Push Ups - Body - Close Grip": [
+            "100x15x3"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "60x15",
+            "50x15x3"
+        ]
+    },
+    "18": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x5",
+            "315x5x3"
+        ],
+        "Row - Barbell - Pendlay": [
+            "155x10x3"
+        ],
+        "Pull Downs - Cable - Lat / Close Grip": [
+            "135x15",
+            "145x15"
+        ],
+        "Pull Apart - Band - Standing": [
+            "45x15"
+        ]
+    },
+    "19": {
+        "RDL - Barbell - Standing": [
+            "180x12x3"
+        ],
+        "Squat - Barbell - Back": [
+            "95x5",
+            "185x5",
+            "225x5",
+            "275x5",
+            "315x5",
+            "335x5",
+            "135x2"
+        ]
+    },
+    "20": {
+        "Face Pulls - Cable - Standing": [
+            "60x15x3"
+        ],
+        "Push Ups - Body - Close Grip": [
+            "100x20x2"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "115x10",
+            "150x10",
+            "165x8",
+            "170x6",
+            "175x4",
+            "185x2",
+            "195x1",
+            "155x7"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "65x15x3"
+        ]
+    },
+    "21": {
+        "Pull Downs - Cable - Lat": [
+            "140x12",
+            "160x12",
+            "170x12x3"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "40x12",
+            "60x12",
+            "40x12",
+            "50x12x2"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x10",
+            "315x10"
+        ],
+        "Row - Barbell - Bent": [
+            "135x10x4"
+        ]
+    },
+    "22": {
+        "OHP - Barbell - Push": [
+            "45x10",
+            "95x10",
+            "115x5",
+            "135x3",
+            "105x5x2"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x12",
+            "135x12",
+            "155x12x2",
+            "135x12"
+        ],
+        "Tricep Extensions - Rope - Standing": [
+            "50x12x3"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "50x10"
+        ],
+        "Fly - Cable - Low to High": [
+            "60x12",
+            "80x12",
+            "100x12"
+        ],
+        "Plank - Body - Elbow": [
+            "100x30x2"
+        ]
+    },
+    "23": {
+        "Log Press - Log - Standing": [
+            "66x10",
+            "116x5",
+            "136x5",
+            "151x3x2",
+            "83x10"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "175x1x4",
+            "175x3",
+            "145x1",
+            "145x2"
+        ]
+    },
+    "24": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "275x10",
+            "345x8x3"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "135x12",
+            "155x12x2"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "140x12",
+            "160x12x2"
+        ],
+        "Pull Apart - Band - Standing": [
+            "30x15x3"
+        ],
+        "Bicep Curl - EZ Bar - Standing": [
+            "70x12x3"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "70x10x3"
+        ],
+        "GHR - Machine - Lying": [
+            "100x12x3"
+        ]
+    },
+    "25": {
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "55x15",
+            "145x10",
+            "175x10",
+            "195x8",
+            "200x6",
+            "205x4",
+            "165x11"
+        ],
+        "Z Press - Barbell - Seated": [
+            "45x12",
+            "65x12",
+            "80x12x2"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "65x12",
+            "85x12",
+            "75x12"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x12x3",
+            "40x12"
+        ],
+        "Push Ups - Body - Close Grip": [
+            "100x20x3"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "88x15x3"
+        ]
+    },
+    "26": {
+        "Leg Curl - Machine - Seated": [
+            "45x15",
+            "90x15",
+            "135x10x2"
+        ],
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x8",
+            "232x8",
+            "320x6",
+            "350x4x3",
+            "320x6x2",
+            "230x2",
+            "145x2"
+        ],
+        "Squat - Barbell - Front": [
+            "135x10x3"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x10x3"
+        ],
+        "GHR - Machine - Lying": [
+            "100x12x3"
+        ]
+    },
+    "27": {
+        "Log Press - Log - Standing": [
+            "66x10",
+            "116x6",
+            "136x4",
+            "144x2x2",
+            "116x5"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "135x10",
+            "155x10",
+            "185x10x2"
+        ],
+        "Fly - Cable - Low to High": [
+            "88x12x3"
+        ],
+        "Tricep Extensions - Rope - Standing": [
+            "44x12x3"
+        ]
+    },
+    "28": {
+        "Row - Barbell - Standing / Bent": [
+            "45x15",
+            "135x12x4"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "115x2",
+            "145x2",
+            "175x4"
+        ],
+        "Carry - Farmers - Walking": [
+            "270x20x2",
+            "390x20x4"
+        ],
+        "Shoulder - Sandbag - Standing": [
+            "100x5",
+            "150x5",
+            "200x1"
+        ]
+    },
+    "29": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x6",
+            "315x8",
+            "385x3"
+        ],
+        "Row - Barbell - Pendlay": [
+            "135x10",
+            "155x10x2",
+            "175x10"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "143x10",
+            "154x10",
+            "165x10x2"
+        ],
+        "Pull Apart - Band - Standing": [
+            "40x15x4"
+        ],
+        "Bicep Curl - EZ Bar - Seated": [
+            "65x10x4"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "60x10",
+            "60x11",
+            "60x12x2"
+        ],
+        "GHR - Machine - Lying": [
+            "100x12x4"
+        ]
+    },
+    "30": {
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "45x10",
+            "95x10",
+            "145x10",
+            "165x10",
+            "185x8",
+            "195x5",
+            "205x2"
+        ],
+        "Z Press - Barbell - Seated": [
+            "45x12",
+            "75x12x3",
+            "65x12"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "50x12x4"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x15x4"
+        ]
+    },
+    "31": {
+        "Squat - Barbell - Back": [
+            "135x10",
+            "225x10",
+            "315x4",
+            "365x5",
+            "375x2",
+            "315x6"
+        ],
+        "Squat - Barbell - Front": [
+            "185x10x4"
+        ],
+        "RDL - Barbell - Standing": [
+            "185x10x4"
+        ],
+        "GHR - Machine - Lying": [
+            "100x12x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x10",
+            "315x10",
+            "405x10x3"
+        ]
+    },
+    "32": {
+        "Log Press - Log - Standing": [
+            "66x10",
+            "86x8",
+            "116x6",
+            "156x2x10"
+        ],
+        "Z Press - Barbell - Seated": [
+            "45x10",
+            "85x10x3"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "135x10",
+            "175x8",
+            "175x3",
+            "155x1"
+        ],
+        "Fly - Cable - Low to High": [
+            "44x12x4"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "44x12x4"
+        ]
+    },
+    "33": {
+        "Shoulder - Sandbag - Standing": [
+            "100x4x2",
+            "150x4x2",
+            "200x1"
+        ],
+        "Carry - Farmers - Walking": [
+            "270x20x4"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "450x10x4"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "95x1",
+            "145x1",
+            "175x1",
+            "215x1"
+        ]
+    },
+    "34": {
+        "Squat - Barbell - Back": [
+            "145x10",
+            "235x8",
+            "320x4",
+            "355x2",
+            "235x4"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x10",
+            "185x10",
+            "225x10x3"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "135x12",
+            "225x12",
+            "315x12x3"
+        ]
+    },
+    "35": {
+        "OHP - Dumbbell - Seated": [
+            "90x12",
+            "130x8x3",
+            "90x8"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "135x10",
+            "155x8",
+            "165x6",
+            "175x3",
+            "135x8"
+        ]
+    },
+    "36": {
+        "Deadlift - Barbell - Standing": [
+            "115x10",
+            "155x10",
+            "240x8",
+            "310x6",
+            "395x1x2"
+        ],
+        "Row - Barbell - Pendlay": [
+            "155x10x4"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "165x10",
+            "210x10x3"
+        ]
+    },
+    "37": {
+        "Clean and Press - Barbell - Standing": [
+            "45x3",
+            "95x4",
+            "125x4",
+            "175x4x2",
+            "174x2"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "155x10x5"
+        ],
+        "Fly - Cable - Rear Delt / High to Low": [
+            "50x10",
+            "50x15"
+        ],
+        "Tricep Extensions - Rope - Standing": [
+            "41x12",
+            "47x12x3"
+        ]
+    },
+    "38": {
+        "Squat - Smith Machine - Back": [
+            "110x10",
+            "175x10",
+            "245x10",
+            "260x10",
+            "260x8",
+            "110x3"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "175x10",
+            "310x10",
+            "335x10x3"
+        ],
+        "Leg Curl - Machine - Seated": [
+            "110x10",
+            "220x10x3"
+        ],
+        "RDL - Dumbbell - Standing": [
+            "110x12x3"
+        ]
+    },
+    "39": {
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "115x10",
+            "155x10",
+            "175x10",
+            "185x8",
+            "200x5",
+            "210x2",
+            "165x10"
+        ]
+    },
+    "40": {
+        "OHP - Circus Dumbbell - Single Arm": [
+            "45x10",
+            "85x3",
+            "90x2",
+            "95x3"
+        ],
+        "Row - Rope - Seated": [
+            "50x10",
+            "635x6"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "500x10x1"
+        ],
+        "Log Press - Log - Standing": [
+            "70x10",
+            "140x3",
+            "180x2"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x15x1"
+        ],
+        "Deadhang - Body - Hanging": [
+            "200x40x1"
+        ],
+        "Shoulder - Sandbag - Standing": [
+            "100x10",
+            "150x5",
+            "200x3"
+        ]
+    },
+    "41": {
+        "Leg Curl - Machine - Seated": [
+            "90x12x2",
+            "115x12x2"
+        ],
+        "Squat - Barbell - Back": [
+            "45x12",
+            "135x12",
+            "225x12",
+            "335x3x3"
+        ],
+        "Squat - Barbell - Front": [
+            "155x10",
+            "155x8",
+            "155x6"
+        ],
+        "Good Morning - Barbell - Standing": [
+            "45x10x2",
+            "95x10x3"
+        ],
+        "GHR - Machine - Lying": [
+            "100x12x3"
+        ]
+    },
+    "42": {
+        "Bench Press - Barbell - Floor": [
+            "45x8",
+            "135x8",
+            "155x8",
+            "175x8",
+            "195x6",
+            "205x3",
+            "165x8"
+        ],
+        "OHP - Barbell - Standing": [
+            "45x10",
+            "95x10",
+            "115x6x3",
+            "95x8"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "40x10x3"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "35x12x3"
+        ],
+        "Push Ups - Body - Close Grip": [
+            "100x12x3"
+        ]
+    },
+    "43": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "185x10",
+            "235x10",
+            "295x10",
+            "345x4",
+            "405x1x4",
+            "405x2",
+            "225x10"
+        ],
+        "Rack Pull - Barbell - Snatch Grip": [
+            "45x8",
+            "135x8",
+            "225x8",
+            "275x3x8"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "165x10x3"
+        ],
+        "Pull Apart - Band - Standing": [
+            "40x10x3"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "70x10x2",
+            "80x10"
+        ],
+        "Bicep Curl - EZ Bar - Reverse": [
+            "65x10x3"
+        ],
+        "Swing - Kettlebell - Standing": [
+            "50x15x3"
+        ]
+    },
+    "44": {
+        "OHP - Smart Machine - Seated": [
+            "160x10",
+            "170x10"
+        ],
+        "OHP - Barbell - Push": [
+            "45x10",
+            "95x8",
+            "135x5x2",
+            "105x8"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "120x10",
+            "150x6",
+            "130x10x2"
+        ]
+    },
+    "45": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "295x8",
+            "345x3",
+            "375x3x2",
+            "375x1"
+        ],
+        "Squat - Barbell - Front": [
+            "135x8x4"
+        ],
+        "Good Morning - Barbell - Standing": [
+            "45x8",
+            "115x10",
+            "115x8x3"
+        ],
+        "GHR - Machine - Lying": [
+            "100x10x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x10",
+            "315x10x2",
+            "405x10"
+        ]
+    },
+    "46": {
+        "Log Press - Log - Standing": [
+            "85x10",
+            "135x3",
+            "155x3x3"
+        ],
+        "Z Press - Barbell - Seated": [
+            "75x10",
+            "90x10",
+            "100x10"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x12x3"
+        ],
+        "Tricep Extensions - Rope - Standing ": [
+            "44x12x4"
+        ],
+        "Tricep Extensions - Cable - Overhead / Single Arm": [
+            "60x12x4"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "100x15x5"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "20x10",
+            "30x10"
+        ]
+    },
+    "47": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x10",
+            "315x5",
+            "375x2x3"
+        ],
+        "Block Pull - Barbell - Standing": [
+            "135x8",
+            "225x8",
+            "275x8x3"
+        ],
+        "Squat - Dumbbell - Bulgarian": [
+            "110x8x4"
+        ],
+        "GHR - Machine - Lying": [
+            "100x10x3"
+        ],
+        "Reverse Hyper - Machine - Lying": [
+            "50x15",
+            "100x15x3"
+        ]
+    },
+    "48": {
+        "OHP - Dumbbell - Seated": [
+            "90x10",
+            "120x10",
+            "140x5x3"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "45x10",
+            "135x10",
+            "155x10",
+            "175x8",
+            "185x8x2",
+            "175x8",
+            "165x8"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "140x8x2",
+            "120x10x2"
+        ],
+        "French Press - Dumbbell - Incline": [
+            "45x12",
+            "55x12",
+            "70x12x2"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "30x12",
+            "40x12x2"
+        ]
+    },
+    "49": {
+        "Leg Press - Machine - Seated": [
+            "310x10",
+            "400x10",
+            "490x10"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "175x2",
+            "215x2",
+            "250x5"
+        ],
+        "Pick - Dinny - Standing": [
+            "205x2",
+            "315x4",
+            "405x1",
+            "495x1",
+            "585x1",
+            "600x1"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x10x2",
+            "395x10x6"
+        ]
+    },
+    "50": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x10",
+            "235x8",
+            "275x5",
+            "320x3",
+            "365x3",
+            "390x3"
+        ],
+        "Squat - Barbell - Front": [
+            "145x10x4"
+        ],
+        "Good Morning - Barbell - Standing": [
+            "125x10x4"
+        ],
+        "Leg Press - Machine - Seated": [
+            "130x10",
+            "400x10",
+            "580x10",
+            "670x7",
+            "490x10"
+        ],
+        "GHR - Machine - Lying": [
+            "100x10x5"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x12",
+            "315x12",
+            "405x12",
+            "495x10",
+            "585x8"
+        ]
+    },
+    "51": {
+        "Log Press - Log - Standing": [
+            "85x4",
+            "135x3x2",
+            "155x3x2"
+        ],
+        "Z Press - Barbell - Seated": [
+            "85x10",
+            "95x10",
+            "105x10"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "70x12x2",
+            "60x13"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "44x12",
+            "55x12x4"
+        ],
+        "Tricep Extensions - Dumbbell - Single Arm": [
+            "40x12x3",
+            "50x12"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "110x15x5"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "30x12x2"
+        ]
+    },
+    "52": {
+        "Deadlift - Barbell - Standing": [
+            "135x8",
+            "225x8",
+            "315x5",
+            "385x3x2"
+        ],
+        "Block Pull - Barbell - Snatch Grip": [
+            "225x8x3"
+        ]
+    },
+    "53": {
+        "OHP - Barbell - Seated / Strict": [
+            "45x15",
+            "95x10x2",
+            "115x5",
+            "135x5x2"
+        ],
+        "Bench Press - Barbell - Floor": [
+            "135x10",
+            "165x10",
+            "195x7x2",
+            "195x5",
+            "195x4"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "70x8x2",
+            "75x8",
+            "60x8"
+        ],
+        "French Press - Dumbbell - Incline": [
+            "65x10x3"
+        ],
+        "Fly - Dumbbell - Rear Delt": [
+            "40x12x3",
+            "50x12"
+        ],
+        "Plank - Body - Elbow ": [
+            "100x20x2",
+            "100x40x1"
+        ]
+    },
+    "54": {
+        "Load - Atlas Stone - Platform": [
+            "145x2",
+            "175x2",
+            "215x2",
+            "250x3",
+            "215x2"
+        ],
+        "Pick - Dinny - Standing": [
+            "250x3",
+            "475x1",
+            "560x1"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x10x2",
+            "400x10x2",
+            "500x10x5"
+        ]
+    },
+    "55": {
+        "Leg Curl - Machine - Seated": [
+            "45x10",
+            "90x15"
+        ],
+        "Squat - Barbell - Back": [
+            "55x5",
+            "145x10",
+            "235x6",
+            "285x3",
+            "335x1",
+            "375x1",
+            "415x1",
+            "325x5"
+        ],
+        "Good Morning - Barbell - Standing": [
+            "145x10x2",
+            "145x5"
+        ]
+    },
+    "56": {
+        "Log Press - Log - Standing": [
+            "85x3x2",
+            "135x3",
+            "155x3",
+            "165x1x3",
+            "145x3",
+            "85x5"
+        ],
+        "Z Press - Barbell - Seated": [
+            "95x10x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x12",
+            "50x12x2"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "55x12x3"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "100x15x5"
+        ],
+        "Tricep Extensions - Dumbbell - Single Arm": [
+            "50x12x3"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "30x12x2"
+        ]
+    },
+    "57": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x10",
+            "295x10",
+            "340x3",
+            "365x3",
+            "385x3",
+            "365x3"
+        ],
+        "Rack Pull - Barbell - Snatch Grip": [
+            "275x8x3"
+        ],
+        "Pick - Dinny - Standing": [
+            "245x3",
+            "445x1",
+            "545x1",
+            "635x1"
+        ],
+        "Squat - Dumbbell - Bulgarian": [
+            "320x8x4"
+        ],
+        "Reverse Hyper - Machine - Lying": [
+            "50x15",
+            "75x15x2"
+        ],
+        "GHR - Machine - Lying": [
+            "100x10x3"
+        ]
+    },
+    "58": {
+        "OHP - Barbell - Seated / Strict": [
+            "45x15",
+            "95x15",
+            "145x5",
+            "125x5x2"
+        ],
+        "Bench Press - Barbell - Floor": [
+            "135x10",
+            "185x5x3"
+        ]
+    },
+    "59": {
+        "Squat - Barbell - Back": [
+            "45x5",
+            "135x10",
+            "225x8",
+            "285x6",
+            "355x3",
+            "405x2",
+            "395x2",
+            "395x3",
+            "315x8"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x12",
+            "185x12x2",
+            "235x12"
+        ],
+        "Leg Curl - Machine - Seated": [
+            "170x12",
+            "205x12",
+            "250x12"
+        ],
+        "Hip Thrust - Machine - Seated": [
+            "225x12",
+            "405x12",
+            "495x12",
+            "315x12"
+        ],
+        "Calf Raise - Machine - Seated": [
+            "205x12x3"
+        ]
+    },
+    "60": {
+        "Log Press - Log - Standing": [
+            "83x5",
+            "133x3x2",
+            "143x2",
+            "148x1",
+            "163x2",
+            "158x2"
+        ],
+        "Z Press - Barbell - Seated": [
+            "95x6",
+            "115x6x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x12x3"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "55x12x4"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "30x10x2"
+        ]
+    },
+    "61": {
+        "Swing - Kettlebell - Standing": [
+            "50x12"
+        ],
+        "Hip Thrust - Sandbag - Seated": [
+            "100x10"
+        ],
+        "Shrug - Dumbbell - Standing": [
+            "100x12"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x5",
+            "225x5x2",
+            "295x5",
+            "365x2",
+            "385x1",
+            "405x2",
+            "395x2"
+        ],
+        "Block Pull - Barbell - Standing": [
+            "295x8x2"
+        ],
+        "Squat - Dumbbell - Bulgarian": [
+            "200x16x3",
+            "110x16"
+        ],
+        "GHR - Machine - Lying": [
+            "100x20x2"
+        ],
+        "Reverse Hyper - Machine - Lying": [
+            "20x10x3"
+        ]
+    },
+    "62": {
+        "OHP - Barbell - Seated / Strict": [
+            "45x10",
+            "95x10",
+            "115x10",
+            "145x3",
+            "155x3"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "135x8",
+            "175x8",
+            "205x5x4"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "120x8",
+            "140x5x4",
+            "90x8"
+        ],
+        "French Press - Dumbbell - Incline": [
+            "70x10",
+            "70x9",
+            "70x8",
+            "70x8"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "115x10x3"
+        ]
+    },
+    "63": {
+        "Leg Press - Machine - Seated": [
+            "315x10x2"
+        ],
+        "Load - Atlas Stone - Over Bar": [
+            "175x5",
+            "215x5",
+            "250x5"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x10x2",
+            "395x10x2",
+            "475x10x2",
+            "550x10x3"
+        ],
+        "Pick - Dinny - Standing": [
+            "250x3",
+            "375x3",
+            "460x3",
+            "570x1",
+            "635x2",
+            "650x1"
+        ]
+    },
+    "64": {
+        "Log Press - Log - Standing": [
+            "83x10",
+            "103x3",
+            "123x3",
+            "143x3",
+            "163x2",
+            "173x2",
+            "183x2"
+        ],
+        "Z Press - Barbell - Seated": [
+            "95x8",
+            "115x6x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x12x3"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "55x12x4"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "30x10",
+            "20x5",
+            "30x5",
+            "45x5"
+        ]
+    },
+    "65": {
+        "Deadlift - Trap Bar - Standing": [
+            "55x10",
+            "165x10",
+            "275x10",
+            "365x6",
+            "275x8"
+        ],
+        "Rack Pull - Barbell - Snatch Grip": [
+            "225x8",
+            "315x8x3"
+        ],
+        "Squat - Barbell - Bulgarian": [
+            "135x16",
+            "185x16",
+            "155x16",
+            "135x16"
+        ],
+        "Leg Curl - Machine - Lying": [
+            "100x10",
+            "160x10x3"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "295x10",
+            "475x10",
+            "565x1"
+        ]
+    },
+    "66": {
+        "OHP - Barbell - Seated / Strict": [
+            "95x10",
+            "105x10",
+            "135x5",
+            "145x3",
+            "135x5",
+            "95x10"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "45x10",
+            "95x8",
+            "145x8",
+            "195x5x3",
+            "195x10",
+            "95x10"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "50x8",
+            "70x6x2"
+        ]
+    },
+    "67": {
+        "Fly - Machine - Chest": [
+            "175x10x2",
+            "220x10",
+            "235x8"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "100x10",
+            "145x10x2",
+            "175x10"
+        ],
+        "Swing - Kettlebell - Standing": [
+            "90x10x2"
+        ]
+    },
+    "68": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x6",
+            "365x3x3"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "175x3",
+            "215x5x2"
+        ],
+        "Pick - Dinny - Standing": [
+            "300x3x3",
+            "400x3x2",
+            "500x3x2",
+            "600x3"
+        ]
+    },
+    "69": {
+        "Log Press - Log - Standing": [
+            "83x5",
+            "133x3",
+            "153x3",
+            "173x3x2",
+            "103x3"
+        ],
+        "Z Press - Barbell - Seated": [
+            "105x8x3"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "77x12x4"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10x4"
+        ],
+        "Tricep Extensions - Dumbbell - Single Arm": [
+            "45x20x3"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "77x15x5"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "30x10x2"
+        ]
+    },
+    "70": {
+        "Leg Curl - Machine - Seated": [
+            "45x12x3",
+            "90x12x2",
+            "135x12"
+        ],
+        "Squat - Barbell - Back": [
+            "55x10",
+            "165x8",
+            "255x5",
+            "295x3",
+            "340x1",
+            "385x1",
+            "407x1",
+            "255x5",
+            "165x5"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x8",
+            "315x6",
+            "365x4",
+            "415x2",
+            "385x4",
+            "225x10"
+        ],
+        "Leg raise - Dumbbell - Lying": [
+            "30x12x3"
+        ]
+    },
+    "71": {
+        "OHP - Barbell - Standing": [
+            "45x20",
+            "95x10",
+            "115x10",
+            "135x7",
+            "136x6",
+            "135x4"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x8",
+            "115x8",
+            "165x8",
+            "215x4x3",
+            "215x5"
+        ],
+        "Fly - Machine - Chest": [
+            "175x10",
+            "145x10",
+            "160x10"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "100x10",
+            "115x10",
+            "130x10"
+        ]
+    },
+    "72": {
+        "Squat - Barbell - Back": [
+            "135x8",
+            "185x5",
+            "225x5",
+            "265x3",
+            "295x10"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "45x8",
+            "95x8",
+            "135x8",
+            "175x5",
+            "205x3",
+            "225x1",
+            "245x1"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "185x10",
+            "225x10",
+            "265x5",
+            "315x3",
+            "365x1",
+            "405x1",
+            "425x1"
+        ]
+    },
+    "73": {
+        "Yoke Run - Yoke - Walking": [
+            "215x20x2",
+            "305x10x2",
+            "395x10x2",
+            "485x10x2",
+            "575x10x2"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "20x2",
+            "30x2",
+            "45x2"
+        ]
+    },
+    "74": {
+        "Log Press - Log - Standing": [
+            "66x5",
+            "116x3",
+            "146x3",
+            "166x3",
+            "186x2",
+            "196x1"
+        ],
+        "Log Clean - Log - Standing": [
+            "206x1x5"
+        ],
+        "Pick - Dinny - Standing": [
+            "345x3",
+            "510x2"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "20x10",
+            "30x15",
+            "45x5"
+        ],
+        "Raise - Dumbbell - Front": [
+            "50x8",
+            "50x11"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x8",
+            "50x11"
+        ]
+    },
+    "75": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x5",
+            "405x1",
+            "455x1",
+            "475x1"
+        ],
+        "Rack Pull - Barbell - Snatch Grip": [
+            "135x10",
+            "225x10",
+            "315x10",
+            "405x6"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "110x10",
+            "165x10x3"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "60x10x3"
+        ]
+    },
+    "76": {
+        "OHP - Smart Machine - Seated": [
+            "170x12",
+            "150x12",
+            "130x12"
+        ],
+        "Bench Press - Machine - Seated / Flat": [
+            "135x10",
+            "225x10x2",
+            "275x8"
+        ],
+        "Fly - Machine - Chest": [
+            "160x12",
+            "200x10",
+            "190x10",
+            "175x10"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "100x12",
+            "130x12x3"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "90x12",
+            "110x12x3"
+        ],
+        "French Press - Dumbbell - Incline": [
+            "60x12x3"
+        ],
+        "Row - Cable - Seated": [
+            "25x10",
+            "115x12",
+            "185x12",
+            "275x12",
+            "325x12"
+        ]
+    },
+    "77": {
+        "Leg Extension - Machine - Seated": [
+            "105x12",
+            "210x12",
+            "260x12x3"
+        ],
+        "Leg Curl - Machine - Seated": [
+            "105x12",
+            "210x12",
+            "260x12x2"
+        ],
+        "Leg Press - Machine - Seated": [
+            "145x12",
+            "250x4x3"
+        ],
+        "Hip Adductor - Machine - Seated": [
+            "150x12",
+            "200x12x3"
+        ],
+        "Hip Abductor - Machine - Seated": [
+            "60x12",
+            "120x12"
+        ]
+    },
+    "78": {
+        "Log Press - Log - Standing": [
+            "90x10",
+            "140x3",
+            "170x3",
+            "190x2"
+        ],
+        "Z Press - Barbell - Seated": [
+            "95x10",
+            "115x8x2",
+            "105x10"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "55x12x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x12x3"
+        ],
+        "Tricep Extensions - Dumbbell - Single Arm": [
+            "25x24x3"
+        ]
+    },
+    "79": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x10",
+            "365x8",
+            "385x4"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "110x12",
+            "205x12",
+            "260x15"
+        ],
+        "Pull - Sled - Standing": [
+            "185x14x2",
+            "275x14x2",
+            "365x14x2",
+            "500x14",
+            "670x14"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "115x15",
+            "205x15",
+            "385x15"
+        ]
+    },
+    "80": {
+        "OHP - Barbell - Seated / Strict": [
+            "45x20",
+            "95x10",
+            "115x8",
+            "145x4",
+            "145x2",
+            "115x10",
+            "115x6"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "45x10",
+            "95x10",
+            "145x10",
+            "205x7",
+            "205x4",
+            "205x8",
+            "145x7"
+        ],
+        "French Press - Dumbbell - Standing": [
+            "70x8",
+            "70x5",
+            "60x10x2"
+        ],
+        "Fly - Dumbbell - Chest": [
+            "60x10x4"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "50x12x3"
+        ],
+        "Plank - Body - Elbow": [
+            "100x20x3"
+        ]
+    },
+    "81": {
+        "Leg Press - Machine - Seated": [
+            "310x10",
+            "490x10x2"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "175x5",
+            "215x5x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "205x10x2",
+            "295x10x2",
+            "385x10x2",
+            "505x10x4"
+        ],
+        "Pick - Dinny - Standing": [
+            "250x8",
+            "380x5",
+            "500x3"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "20x8",
+            "30x8",
+            "45x3"
+        ]
+    },
+    "82": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "185x10"
+        ],
+        "Leg Extension - Smart Machine - Seated": [
+            "150x10x2",
+            "450x5"
+        ],
+        "Leg Curl - Smart Machine - Seated": [
+            "120x10x2",
+            "300x5"
+        ],
+        "OHP - Smart Machine - Seated": [
+            "120x15",
+            "280x5"
+        ],
+        "Row - Smart Machine - Seated": [
+            "200x15",
+            "450x5"
+        ],
+        "Bicep Curl - Smart Machine - Seated": [
+            "40x10x2",
+            "115x5"
+        ],
+        "Tricep Press - Smart Machine - Seated": [
+            "250x15",
+            "370x5"
+        ]
+    },
+    "83": {
+        "Log Press - Log - Standing": [
+            "100x8",
+            "140x3",
+            "150x2",
+            "170x1",
+            "190x1"
+        ]
+    },
+    "84": {
+        "Pick - Dinny - Standing": [
+            "376x3",
+            "480x2",
+            "570x1",
+            "606x1",
+            "666x1",
+            "706x1"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "305x10x2",
+            "395x10x2",
+            "500x10x1"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "20x8",
+            "30x4",
+            "40x1",
+            "45x3"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "145x5",
+            "215x1",
+            "250x9"
+        ],
+        "Hold - Hammer - Hammer": [
+            "35x42"
+        ]
+    },
+    "85": {
+        "Bench Press - Barbell - Flat ": [
+            "55x20",
+            "145x10",
+            "195x10",
+            "215x6x2",
+            "215x5",
+            "215x4",
+            "145x8"
+        ],
+        "OHP - Dumbbell - Seated": [
+            "60x15",
+            "110x10x2",
+            "110x8"
+        ],
+        "Tricep Extensions - Rope - Standing": [
+            "44x10x4"
+        ],
+        "Fly - Cable - Chest / Straight": [
+            "33x12x2",
+            "44x10x6"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10x4"
+        ],
+        "Raise - Dumbbell - Front": [
+            "50x10x4"
+        ],
+        "French Press - Dumbbell - Standing": [
+            "55x10",
+            "70x5x3"
+        ]
+    },
+    "86": {
+        "Row - Barbell - Standing / Bent": [
+            "45x15",
+            "95x15",
+            "145x15",
+            "195x5x3",
+            "165x10",
+            "95x15"
+        ],
+        "Row - Cable - Seated": [
+            "140x12x2",
+            "160x12x2"
+        ],
+        "Bicep Curl - EZ Bar - Standing": [
+            "70x12x3"
+        ],
+        "Row - EZ Bar - Upright": [
+            "60x12x3"
+        ],
+        "Pull Downs - Machine - Lat": [
+            "170x12",
+            "190x12x2"
+        ]
+    },
+    "87": {
+        "OHP - Barbell - Standing": [
+            "45x15",
+            "95x10",
+            "115x3",
+            "145x2x2",
+            "125x5x2"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "45x10",
+            "135x10",
+            "185x8",
+            "185x7",
+            "235x2",
+            "185x4",
+            "135x4"
+        ],
+        "Fly - Dumbbell - Rear Delt": [
+            "30x15",
+            "60x12x2",
+            "50x15"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "100x12",
+            "150x6x2"
+        ]
+    },
+    "88": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10x2"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "90x12",
+            "145x12",
+            "160x10x3"
+        ],
+        "Pull Downs - Cable - Straight Arm": [
+            "65x10x3"
+        ]
+    },
+    "89": {
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "135x10",
+            "185x10",
+            "225x6",
+            "225x5",
+            "225x3"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "45x10",
+            "135x10x2"
+        ]
+    },
+    "90": {
+        "Tricep Press - Smart Machine - Seated": [
+            "250x15",
+            "380x1x4"
+        ],
+        "Row - Smart Machine - Seated": [
+            "230x15",
+            "400x1x3"
+        ],
+        "Row - Barbell / Landmine - Bent": [
+            "100x12x2",
+            "120x12x2",
+            "150x4"
+        ],
+        "Fly - Machine - Chest": [
+            "70x12",
+            "120x12",
+            "170x12",
+            "220x6x2"
+        ],
+        "Pull Downs - Cable - Lat / Close Grip": [
+            "160x12x3"
+        ]
+    },
+    "91": {
+        "Row - Barbell - Standing / Bent": [
+            "45x10",
+            "100x10x2"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "115x10",
+            "155x10",
+            "205x11",
+            "205x10",
+            "205x9",
+            "155x10"
+        ],
+        "OHP - Dumbbell - Seated": [
+            "110x10x2",
+            "110x9",
+            "110x8"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "45x10x4"
+        ],
+        "Fly - Cable - Chest / Straight": [
+            "45x10x4"
+        ],
+        "Raise - Dumbbell - Front": [
+            "60x10x2"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x10x2"
+        ],
+        "Row - Dumbbell - Upright": [
+            "60x10x2"
+        ]
+    },
+    "92": {
+        "Pull ups - Body - Hanging": [
+            "200x10",
+            "225x10",
+            "235x5",
+            "200x8"
+        ],
+        "Row - Barbell - Pendlay": [
+            "45x12",
+            "115x12",
+            "165x10x2",
+            "165x6"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "30x20x4"
+        ],
+        "Squat - Barbell - Back ": [
+            "45x10",
+            "135x10x4"
+        ]
+    },
+    "93": {
+        "OHP - Barbell - Standing / Strict": [
+            "45x10x2",
+            "95x10"
+        ],
+        "Dip - Body - Hanging": [
+            "200x10x3"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "100x10",
+            "145x10",
+            "165x10"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "115x10",
+            "165x8",
+            "205x6",
+            "245x2",
+            "245x3"
+        ]
+    },
+    "94": {
+        "Deadlift - Barbell - Standing": [
+            "95x8",
+            "185x4",
+            "295x2",
+            "385x1x4"
+        ]
+    },
+    "95": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x10",
+            "235x10x2",
+            "325x6x2",
+            "375x1",
+            "375x3"
+        ],
+        "RDL - Dumbbell - Standing": [
+            "140x12x3"
+        ],
+        "Monster Walk - Band - Standing": [
+            "30x5x5"
+        ]
+    },
+    "96": {
+        "Bench Press - Barbell - Flat": [
+            "55x10",
+            "125x10",
+            "175x10",
+            "235x5",
+            "235x3",
+            "235x1",
+            "195x6"
+        ],
+        "OHP - Dumbbell - Seated": [
+            "110x10",
+            "140x7",
+            "140x4x2",
+            "110x8"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "55x12x4"
+        ],
+        "Fly - Cable - Chest / Low to High": [
+            "66x12x4"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10",
+            "50x12"
+        ],
+        "Raise - Dumbbell - Front": [
+            "50x10",
+            "50x12"
+        ],
+        "Tricep Extensions - Dumbbell - Single Arm": [
+            "25x10x2",
+            "20x10x2",
+            "15x10x2"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "30x10",
+            "20x10"
+        ]
+    },
+    "97": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x6",
+            "365x5x3"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "135x12",
+            "155x12x3"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "145x10x4"
+        ],
+        "Bicep Curl - EZ Bar - Standing": [
+            "65x12x4"
+        ]
+    },
+    "98": {
+        "OHP - Barbell / Landmine - Viking": [
+            "45x10",
+            "90x10x2",
+            "135x10x2",
+            "180x5",
+            "200x1",
+            "180x3",
+            "180x5x2",
+            "160x5x2"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x20",
+            "115x10",
+            "165x8",
+            "215x7x2",
+            "215x5",
+            "165x8",
+            "115x10"
+        ],
+        "Tricep Extensions - Rope - Standing": [
+            "35x12x4"
+        ],
+        "OHP - Barbell - Standing": [
+            "95x8",
+            "95x10x3",
+            "100x6x2"
+        ]
+    },
+    "99": {
+        "Squat - Barbell - Back": [
+            "45x12",
+            "135x12",
+            "275x5x2",
+            "275x8x3",
+            "275x10"
+        ],
+        "RDL - Dumbbell - Standing": [
+            "170x10x3"
+        ],
+        "Pull - Truck - Standing": [
+            "280x10",
+            "325x10",
+            "370x10"
+        ],
+        "Push - Sled - Standing": [
+            "280x10",
+            "325x10",
+            "370x10"
+        ]
+    },
+    "100": {
+        "Deadlift - Barbell - Standing": [
+            "45x12",
+            "135x10",
+            "225x8",
+            "315x6",
+            "315x5x4",
+            "385x5x3"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "135x10x4"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "75x10",
+            "145x10",
+            "165x10x3",
+            "145x10",
+            "75x10"
+        ],
+        "Row - Cable - Seated": [
+            "100x10",
+            "145x10x3"
+        ],
+        "Pull Downs - Cable - Straight Arm": [
+            "145x12x3"
+        ]
+    },
+    "101": {
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "135x16",
+            "185x16",
+            "205x10",
+            "225x6",
+            "225x4",
+            "205x5",
+            "185x8"
+        ],
+        "OHP - Dumbbell - Seated": [
+            "100x6x8"
+        ]
+    },
+    "102": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "225x8",
+            "315x4",
+            "315x11",
+            "365x3x2",
+            "365x4",
+            "365x2",
+            "315x3x2"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "135x10",
+            "225x10",
+            "335x10",
+            "475x10"
+        ]
+    },
+    "103": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x8",
+            "315x6",
+            "405x4x3"
+        ]
+    },
+    "104": {
+        "OHP - Barbell / Landmine - Viking": [
+            "60x10",
+            "105x8",
+            "140x6",
+            "175x4",
+            "205x2x3",
+            "150x8"
+        ],
+        "Shoulder - Sandbag - Standing": [
+            "150x5"
+        ]
+    },
+    "105": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x10",
+            "235x8",
+            "325x6",
+            "380x3x2",
+            "380x5",
+            "235x4",
+            "145x8"
+        ],
+        "Squat - Barbell - Front": [
+            "145x8x4"
+        ],
+        "Good Morning - Barbell - Standing": [
+            "125x8x4"
+        ],
+        "Hip Thrust - Barbell / Wagon Wheel - Seated": [
+            "225x10",
+            "405x10",
+            "565x8x2",
+            "495x10"
+        ],
+        "Shoulder - Sandbag - Standing": [
+            "260x2"
+        ],
+        "Chest - Sandbag - Standing": [
+            "200x10x4"
+        ]
+    },
+    "106": {
+        "OHP - Barbell / Landmine - Viking": [
+            "25x15",
+            "70x12",
+            "115x10",
+            "150x8",
+            "185x5",
+            "200x5x3",
+            "150x8",
+            "70x10"
+        ],
+        "Z Press - Barbell - Seated": [
+            "45x10",
+            "90x8",
+            "100x5x4"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "30x10",
+            "25x10x4",
+            "15x10x2"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "45x12x3",
+            "35x12"
+        ],
+        "Tricep Extensions - Dumbbell - Single Arm": [
+            "20x8x8"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "100x15x3"
+        ]
+    },
+    "107": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x8",
+            "315x6",
+            "365x3",
+            "405x1x3"
+        ],
+        "Row - Barbell / Landmine - Bent": [
+            "85x10",
+            "130x10",
+            "175x10x3"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "140x10",
+            "160x10x2"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "70x10x2"
+        ],
+        "Bicep Curl - EZ Bar - Standing": [
+            "60x10x2"
+        ],
+        "Bicep Curl - Dumbbell - Seated": [
+            "30x8"
+        ]
+    },
+    "108": {
+        "OHP - Machine - Seated": [
+            "80x10",
+            "110x10",
+            "140x2x2",
+            "125x7",
+            "125x4"
+        ],
+        "OHP - Dumbbell - Seated": [
+            "110x8x4"
+        ],
+        "Tricep Extensions - Machine - Seated": [
+            "80x10",
+            "125x10",
+            "155x7",
+            "155x10"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x12x4"
+        ],
+        "Row - Barbell - Upright": [
+            "70x15x3"
+        ],
+        "Tricep Extensions - Dumbbell - Overhead / Single Arm": [
+            "20x10x4",
+            "25x10x2"
+        ]
+    },
+    "109": {
+        "Pull Downs - Cable - Lat": [
+            "160x10",
+            "175x10x2",
+            "180x10"
+        ],
+        "Row - Machine - Seated": [
+            "150x10",
+            "180x10",
+            "190x10"
+        ],
+        "Row - Dumbbell - Bent": [
+            "110x10x2",
+            "180x10"
+        ],
+        "Pull Downs - Cable - Lat / JPG": [
+            "105x10",
+            "125x10x2"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "70x15",
+            "70x10x2",
+            "70x5"
+        ],
+        "Bench Press - Dumbbell - Flat": [
+            "110x10x2",
+            "140x10x2"
+        ],
+        "Fly - Cable - Chest / Straight": [
+            "45x10",
+            "55x10x3"
+        ],
+        "Bench Press - Machine - Seated / Flat": [
+            "150x10",
+            "135x10",
+            "140x10"
+        ]
+    },
+    "110": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "155x10x2",
+            "265x8x2",
+            "375x4x4"
+        ],
+        "Leg Press - Machine - Seated": [
+            "45x10",
+            "155x10",
+            "265x10",
+            "375x10x2"
+        ],
+        "Squat - Barbell - Back": [
+            "45x10",
+            "155x10",
+            "265x8",
+            "330x1"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "55x12",
+            "110x12",
+            "220x12",
+            "275x12x2"
+        ]
+    },
+    "111": {
+        "OHP - Barbell / Landmine - Viking": [
+            "100x10",
+            "145x10",
+            "190x4",
+            "195x4",
+            "205x5",
+            "210x4",
+            "180x9"
+        ],
+        "Z Press - Barbell - Seated": [
+            "95x10x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "30x10x2",
+            "20x10x2"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "65x10x2",
+            "75x10x2"
+        ],
+        "Bench Press - Barbell - Incline / Close Grip": [
+            "65x10",
+            "75x5x2"
+        ]
+    },
+    "112": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "155x10",
+            "205x8",
+            "255x6",
+            "295x4",
+            "355x4",
+            "405x1"
+        ],
+        "Leg Press - Machine - Seated": [
+            "210x10",
+            "390x10",
+            "570x10",
+            "750x10",
+            "840x1"
+        ]
+    },
+    "113": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x10",
+            "275x6",
+            "365x3",
+            "445x1"
+        ],
+        "Carry - Farmers - Walking": [
+            "135x10x2",
+            "185x10",
+            "205x10x2",
+            "225x10"
+        ]
+    },
+    "114": {
+        "OHP - Barbell / Landmine - Viking": [
+            "100x10",
+            "145x7",
+            "170x7",
+            "190x5",
+            "190x6x2"
+        ],
+        "OHP - Dumbbell - Seated / Strict": [
+            "110x10",
+            "110x9x2"
+        ],
+        "Raise - Cable - Lateral": [
+            "33x10x2",
+            "22x10x4"
+        ],
+        "Raise - Cable - Front": [
+            "22x10x2"
+        ]
+    },
+    "115": {
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "135x10",
+            "185x6",
+            "225x3",
+            "225x4",
+            "225x5",
+            "185x5",
+            "135x5"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "65x10",
+            "75x8x8",
+            "75x10"
+        ],
+        "Fly - Machine - Chest": [
+            "150x10",
+            "160x10",
+            "170x10"
+        ],
+        "Fly - Machine - Rear Delt": [
+            "110x10"
+        ]
+    },
+    "116": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x4",
+            "225x4",
+            "295x2",
+            "365x1",
+            "415x1",
+            "445x1",
+            "465x1"
+        ],
+        "Carry - Farmers - Walking": [
+            "90x10x2",
+            "190x10x2",
+            "290x10x2",
+            "390x10x2"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x10x4"
+        ]
+    },
+    "117": {
+        "Leg Press - Machine - Seated": [
+            "310x10x3"
+        ],
+        "Swing - Kettlebell - Standing": [
+            "50x10x2"
+        ],
+        "Shoulder - Sandbag - Standing": [
+            "100x8",
+            "130x6",
+            "150x4",
+            "200x2",
+            "260x1"
+        ]
+    },
+    "118": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x6",
+            "315x4x2"
+        ],
+        "Shoulder - Sandbag - Standing": [
+            "200x10",
+            "150x10x2",
+            "130x10x2",
+            "100x10x2"
+        ],
+        "Wheelbarrow Runs - Wheelbarrow - Walking": [
+            "750x10",
+            "600x10"
+        ]
+    },
+    "119": {
+        "Shoulder - Sandbag - Standing": [
+            "100x1",
+            "135x1",
+            "175x1",
+            "220x1"
+        ],
+        "Carry - Farmers - Walking": [
+            "350x10"
+        ],
+        "OHP - Barbell / Landmine - Viking": [
+            "180x8"
+        ],
+        "Carry - Sandbag - Walking": [
+            "170x20",
+            "130x30",
+            "100x8"
+        ],
+        "Wheelbarrow Runs - Wheelbarrow - Walking": [
+            "400x8"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "275x1",
+            "365x1",
+            "445x1"
+        ]
+    },
+    "120": {
+        "Log Press - Log - Standing": [
+            "90x3",
+            "110x2",
+            "130x2",
+            "150x2",
+            "170x2",
+            "185x2",
+            "120x6"
+        ],
+        "Z Press - Barbell - Seated": [
+            "45x10",
+            "65x10",
+            "85x10x2",
+            "105x5"
+        ]
+    },
+    "121": {
+        "Throw - Keg - Over Bar": [
+            "22x5x3"
+        ],
+        "Log Press - Log - Standing": [
+            "105x10",
+            "155x2",
+            "185x3"
+        ],
+        "Carry - Odd Object - Walking": [
+            "135x10",
+            "200x10",
+            "260x10"
+        ],
+        "Carry - Farmers - Walking": [
+            "270x4x2",
+            "410x10"
+        ],
+        "Load - Natural Stone - Over Bar": [
+            "50x1",
+            "80x1",
+            "120x1",
+            "150x1",
+            "190x1",
+            "220x1",
+            "260x1",
+            "290x1"
+        ]
+    },
+    "122": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "185x8",
+            "225x8",
+            "275x6",
+            "315x6x3"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "115x10",
+            "155x8",
+            "175x6",
+            "205x5x3"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "185x5",
+            "165x5",
+            "135x5"
+        ]
+    },
+    "123": {
+        "Row - Barbell - Standing / Bent": [
+            "45x10",
+            "95x10",
+            "165x10",
+            "185x8x2",
+            "135x10"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "180x10x2",
+            "160x10x2"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x10",
+            "225x8",
+            "275x6",
+            "285x6x2"
+        ],
+        "Back Extension - Machine - Standing": [
+            "45x10",
+            "90x6",
+            "135x2",
+            "90x6"
+        ],
+        "Fly - Cable - Rear Delt": [
+            "20x10",
+            "30x10x2"
+        ]
+    },
+    "124": {
+        "Log Press - Log - Strict": [
+            "90x5x2",
+            "110x5x2",
+            "130x5",
+            "130x4",
+            "130x3"
+        ],
+        "Row - Cable - Wide Grip": [
+            "120x10",
+            "145x10",
+            "165x10x2"
+        ],
+        "Pull Downs - Cable - Lat / Close Grip": [
+            "165x8x3"
+        ],
+        "Raise - Barbell - Front ": [
+            "45x10",
+            "65x8x3"
+        ]
+    },
+    "125": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x10",
+            "235x8",
+            "285x6",
+            "345x6x2",
+            "345x2",
+            "235x8"
+        ],
+        "Deadlift - Trap Bar - Standing": [
+            "45x10",
+            "135x10x2",
+            "225x10x2",
+            "315x5x2"
+        ]
+    },
+    "126": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x8",
+            "315x6x3",
+            "365x1"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "25x10x3",
+            "75x10",
+            "95x10",
+            "125x5",
+            "115x5",
+            "105x5"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "110x10x3"
+        ]
+    },
+    "127": {
+        "OHP - Barbell - Seated ": [
+            "45x10",
+            "95x10x2",
+            "95x5",
+            "135x5x3"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "65x10x4"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "135x5",
+            "155x5x2",
+            "135x5"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10x4"
+        ],
+        "Raise - Dumbbell - Front": [
+            "60x10x2",
+            "50x10x2"
+        ]
+    },
+    "128": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x10",
+            "230x8",
+            "320x6",
+            "365x4",
+            "320x2"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "135x10",
+            "180x10",
+            "225x10x2"
+        ]
+    },
+    "129": {
+        "Deadlift - Tire - Raised": [
+            "45x10",
+            "145x10x3",
+            "235x10x2",
+            "325x8x2",
+            "415x1x4"
+        ],
+        "Lunges - Dumbbell - Walking": [
+            "160x20x3"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "135x10",
+            "335x10",
+            "535x8",
+            "735x3",
+            "645x3"
+        ]
+    },
+    "130": {
+        "Squat - Barbell - Front": [
+            "55x10",
+            "115x10",
+            "165x8"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x8x2",
+            "305x8x2",
+            "395x8x2",
+            "500x8x2",
+            "575x8",
+            "600x8"
+        ],
+        "Shoulder - Atlas Stone - Standing": [
+            "65x1",
+            "165x1",
+            "215x1"
+        ]
+    },
+    "131": {
+        "Log Press - Log - Strict": [
+            "90x5",
+            "110x5",
+            "125x5x3"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "95x10",
+            "145x8",
+            "210x3",
+            "135x6x2"
+        ],
+        "Row - Cable - Seated": [
+            "120x10",
+            "165x10x3"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "120x5x4"
+        ]
+    },
+    "132": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x10",
+            "215x8",
+            "305x6",
+            "325x6"
+        ],
+        "Deadlift - Tire - Raised": [
+            "165x10",
+            "255x10",
+            "345x8",
+            "435x4",
+            "455x3"
+        ],
+        "Leg Press - Machine - Seated / Single Leg": [
+            "155x10x2",
+            "245x10x4"
+        ]
+    },
+    "133": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10x2",
+            "225x8x2",
+            "315x4x2",
+            "365x4x2"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "175x2",
+            "215x2",
+            "250x2",
+            "275x1",
+            "300x1",
+            "175x8"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "25x10",
+            "75x10",
+            "115x5x4"
+        ]
+    },
+    "134": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x8",
+            "295x6",
+            "365x4",
+            "385x4",
+            "405x6"
+        ],
+        "Squat - SSB - Box": [
+            "60x10",
+            "170x10",
+            "280x6x3"
+        ],
+        "Hip Thrust - Barbell - Seated ": [
+            "135x12",
+            "335x12x3"
+        ]
+    },
+    "135": {
+        "Deadlift - Tire - Raised": [
+            "45x10",
+            "195x10",
+            "285x10",
+            "395x4",
+            "485x1",
+            "505x3",
+            "395x6"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "25x10",
+            "75x10x2",
+            "125x5x3"
+        ]
+    },
+    "136": {
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "95x10",
+            "155x8x2",
+            "200x2x4"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "45x12",
+            "115x10",
+            "185x8x3",
+            "115x10",
+            "45x12"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "100x10x4"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "165x10x4"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "20x5",
+            "30x5"
+        ]
+    },
+    "137": {
+        "Log Press - Log - Strict": [
+            "90x10",
+            "110x5",
+            "128x5",
+            "135x3x2",
+            "135x4",
+            "110x5"
+        ],
+        "Row - Cable - Seated": [
+            "165x10x4"
+        ],
+        "Carry - Farmers - Walking": [
+            "135x10x2",
+            "205x10",
+            "225x10",
+            "275x10"
+        ]
+    },
+    "138": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "220x8",
+            "265x6",
+            "310x4",
+            "355x2x4"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "175x3",
+            "230x2",
+            "275x1"
+        ]
+    },
+    "139": {
+        "Pull ups - Body - Hanging": [
+            "200x5x2",
+            "225x5x2"
+        ],
+        "Deadhang - Body - Hanging": [
+            "90x2"
+        ],
+        "Carry - Husafell Stone - Walking": [
+            "100x8x2",
+            "200x8x2",
+            "250x8",
+            "300x8",
+            "330x8"
+        ],
+        "OHP - Sandbag - Standing": [
+            "80x5",
+            "120x5",
+            "150x5"
+        ],
+        "OHP - Keg - Standing": [
+            "110x3",
+            "160x1"
+        ]
+    },
+    "140": {
+        "OHP - Keg - Standing": [
+            "110x5",
+            "130x3",
+            "150x2",
+            "170x1",
+            "175x1"
+        ],
+        "Push Ups - Body - Sally": [
+            "100x20x2"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "110x10x2",
+            "110x5x2"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "20x5x2"
+        ]
+    },
+    "141": {
+        "Tire flips - Tire - Standing": [
+            "250x10x2",
+            "500x4x3"
+        ],
+        "Pull - Sled - Standing": [
+            "250x10",
+            "300x10"
+        ],
+        "Row - Rope - Seated": [
+            "250x10",
+            "300x10"
+        ],
+        "Pull Downs - Cable - Straight Arm": [
+            "35x10",
+            "70x10",
+            "55x5"
+        ]
+    },
+    "142": {
+        "Carry - Husafell Stone - Walking": [
+            "100x10x2",
+            "200x10x1",
+            "300x10x1"
+        ],
+        "Throw - Keg - Distance": [
+            "25x5"
+        ],
+        "Tire flips - Tire - Standing": [
+            "550x8"
+        ],
+        "OHP - Keg - Standing": [
+            "75x5",
+            "100x2",
+            "150x4"
+        ],
+        "Pull - Truck - Standing": [
+            "500x10"
+        ]
+    },
+    "143": {
+        "Deadlift - Tire - Raised": [
+            "195x10",
+            "285x8",
+            "375x8",
+            "465x1",
+            "285x20"
+        ]
+    },
+    "144": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x5",
+            "230x5",
+            "295x5x3",
+            "330x3x3"
+        ],
+        "Bench Press - Barbell - Floor": [
+            "135x10x4"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10x4"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x5x4"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "135x5x4"
+        ]
+    },
+    "145": {
+        "Log Press - Log - Strict": [
+            "90x5",
+            "110x5",
+            "130x5x2",
+            "120x5x2"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x5x4"
+        ],
+        "Squat - Barbell - Back ": [
+            "45x10",
+            "135x5x2",
+            "225x5x2",
+            "315x5x2"
+        ]
+    },
+    "146": {
+        "Swing - Kettlebell - Standing": [
+            "50x10x3"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "50x10x3"
+        ],
+        "RDL - Barbell - Standing": [
+            "50x10x3"
+        ],
+        "Squat - Barbell - Back": [
+            "45x5x2",
+            "155x5x2",
+            "265x5x5"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "45x3x3",
+            "135x3x3",
+            "225x3x4",
+            "335x3x3"
+        ]
+    },
+    "147": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "165x5",
+            "240x5",
+            "285x5",
+            "315x5",
+            "340x3",
+            "340x4",
+            "362x2",
+            "362x3",
+            "265x10"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "135x5",
+            "155x5",
+            "175x5",
+            "185x2",
+            "195x2x2"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x3x3"
+        ]
+    },
+    "148": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x5",
+            "225x5",
+            "275x6x3",
+            "225x9x3"
+        ],
+        "RDL - Barbell - Standing": [
+            "175x10",
+            "155x10",
+            "135x10"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "175x10",
+            "155x10",
+            "135x10"
+        ]
+    },
+    "149": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x5",
+            "225x3",
+            "275x3",
+            "300x3",
+            "340x2x10"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "140x5x3"
+        ]
+    },
+    "150": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "280x6x2",
+            "280x7x2",
+            "280x8x2"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "155x5",
+            "265x5",
+            "285x5x3"
+        ]
+    },
+    "151": {
+        "Squat - Axle Bar - Back": [
+            "25x10",
+            "115x10",
+            "205x5",
+            "245x5",
+            "300x3",
+            "280x4",
+            "330x2",
+            "300x3",
+            "365x1",
+            "300x5",
+            "245x10"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "115x5x5"
+        ]
+    },
+    "152": {
+        "Squat - Axle Bar - Back": [
+            "35x10",
+            "125x10",
+            "215x5",
+            "270x5x4"
+        ],
+        "Squat - Barbell - Front": [
+            "175x5x4"
+        ]
+    },
+    "153": {
+        "Squat - Axle Bar - Back": [
+            "35x10",
+            "125x10",
+            "215x8",
+            "240x3",
+            "280x3",
+            "325x3",
+            "355x4x2",
+            "355x5"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "85x5",
+            "125x5",
+            "155x4x4"
+        ]
+    },
+    "154": {
+        "Shoulder - Atlas Stone - Standing": [
+            "145x2",
+            "175x2",
+            "215x2",
+            "230x1"
+        ]
+    },
+    "155": {
+        "Pull Downs - Cable - Lat": [
+            "100x10x3"
+        ],
+        "Squat - Barbell - Back": [
+            "135x10",
+            "225x8x2",
+            "290x4x2",
+            "350x1x2"
+        ],
+        "Bench Press - Bamboo Bar - Flat": [
+            "45x10",
+            "95x10x2",
+            "145x5"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "80x10",
+            "115x10",
+            "140x8",
+            "140x7",
+            "140x6"
+        ],
+        "Row - Rope - Upright": [
+            "120x1",
+            "140x1",
+            "160x1"
+        ],
+        "Fly - Cable - High to Low": [
+            "65x10",
+            "100x8x2"
+        ],
+        "Tricep Extensions - Rope - Standing": [
+            "45x10",
+            "65x10",
+            "80x10"
+        ]
+    },
+    "156": {
+        "Swing - Kettlebell - Standing": [
+            "55x10x5"
+        ],
+        "Squat - Kettlebell - Goblet": [
+            "55x10x3"
+        ],
+        "Lunges - Dumbbell - Reverse": [
+            "200x5x3"
+        ],
+        "Carry - Farmers - Walking": [
+            "140x8x3"
+        ],
+        "Squat - Barbell - Back": [
+            "135x5",
+            "240x10",
+            "265x8",
+            "300x6",
+            "320x4",
+            "265x10"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "135x10x5"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "130x10x5"
+        ]
+    },
+    "157": {
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "115x10",
+            "185x5",
+            "225x2"
+        ],
+        "Log Press - Log - Standing": [
+            "105x10",
+            "105x8",
+            "165x3x2"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "45x10",
+            "65x10x2"
+        ],
+        "Squat - Bamboo bar - Back": [
+            "95x5",
+            "115x5",
+            "175x5"
+        ]
+    },
+    "158": {
+        "Squat - Axle Bar - Back": [
+            "45x10",
+            "155x5x2",
+            "245x3x2",
+            "365x1",
+            "405x3"
+        ],
+        "Hold - Cable - Hercules": [
+            "150x15"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "135x3",
+            "155x2",
+            "165x1x2",
+            "190x1"
+        ],
+        "Shoulder - Atlas Stone - Standing": [
+            "150x5",
+            "200x1",
+            "220x1"
+        ],
+        "Push Ups - Body - Regular": [
+            "200x39"
+        ]
+    },
+    "159": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x8",
+            "315x8",
+            "365x2",
+            "405x1x3",
+            "405x2"
+        ],
+        "OHP - Barbell - Standing": [
+            "95x10x3"
+        ],
+        "Row - Cable - Seated": [
+            "165x10"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "55x10x3"
+        ],
+        "Pull Downs - Cable - Straight Arm": [
+            "55x10x3"
+        ]
+    },
+    "160": {
+        "Log Press - Log - Standing": [
+            "100x5x2",
+            "150x2x2",
+            "170x1x4"
+        ],
+        "Row - Cable - Seated": [
+            "165x10x3"
+        ],
+        "Carry - Farmers - Walking": [
+            "270x8",
+            "370x8",
+            "450x8",
+            "550x8"
+        ]
+    },
+    "161": {
+        "Deadlift - Barbell - Standing": [
+            "135x8",
+            "225x8",
+            "315x4x3"
+        ],
+        "Row - Barbell - Pendlay": [
+            "135x8x3"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "165x10x2",
+            "140x10x2"
+        ],
+        "OHP - Barbell - Seated": [
+            "45x15",
+            "95x10",
+            "115x8",
+            "125x8x3",
+            "95x10"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "70x8x3"
+        ],
+        "Leg Curl - Machine - Seated": [
+            "60x12",
+            "105x12",
+            "150x12x3"
+        ]
+    },
+    "162": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "145x10",
+            "235x5x3",
+            "305x5"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x8",
+            "135x8x3"
+        ],
+        "Raise - Dumbbell - Front / Chest Supported": [
+            "40x10x3"
+        ],
+        "Fly - Dumbbell - Rear Delt / Chest Supported": [
+            "40x10x2",
+            "30x12"
+        ]
+    },
+    "163": {
+        "Deadlift - Trap Bar - Standing": [
+            "45x10",
+            "135x10",
+            "225x8",
+            "315x8x4"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "60x12",
+            "105x12",
+            "150x12x3"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "115x10",
+            "165x8x3"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "70x10x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "135x12",
+            "225x12",
+            "315x12"
+        ]
+    },
+    "164": {
+        "RDL - Axle Bar - Standing": [
+            "115x10x2",
+            "205x8x2",
+            "295x6x3"
+        ],
+        "Load - Atlas Stone - Over Bar": [
+            "175x5",
+            "215x5",
+            "230x1"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "35x10",
+            "85x5",
+            "105x5",
+            "135x3x4"
+        ]
+    },
+    "165": {
+        "Bench Press - Barbell - Incline": [
+            "45x10",
+            "95x10",
+            "135x8",
+            "155x5",
+            "155x3x2"
+        ],
+        "Row - Cable - Seated": [
+            "165x10x2",
+            "135x10x2"
+        ],
+        "Log Press - Log - Standing": [
+            "100x3",
+            "120x3",
+            "140x3",
+            "160x3",
+            "180x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x10x2",
+            "305x10x2",
+            "395x10",
+            "485x10",
+            "575x10",
+            "675x2"
+        ],
+        "Pull ups - Body - Hanging": [
+            "195x5x5"
+        ]
+    },
+    "166": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "155x8x2",
+            "265x5x2",
+            "355x2x3"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "55x10",
+            "165x5",
+            "198x5x2",
+            "198x4x2"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "165x5x4"
+        ],
+        "Raise - Dumbbell - Front / Chest Supported": [
+            "40x10x4"
+        ],
+        "Raise - Dumbbell - Lateral / Chest Supported": [
+            "40x10x4"
+        ]
+    },
+    "167": {
+        "Row - Barbell - Standing / Bent": [
+            "45x10",
+            "95x10x2",
+            "145x10x4"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "130x12x4"
+        ],
+        "RDL - Barbell - Standing": [
+            "45x10",
+            "135x10x2",
+            "225x6",
+            "285x6x4"
+        ],
+        "OHP - Barbell - Seated": [
+            "45x10",
+            "115x10",
+            "135x5x3"
+        ],
+        "Tricep Extensions - Barbell - Overhead": [
+            "85x6x3"
+        ]
+    },
+    "168": {
+        "Bench Press - Barbell - Flat ": [
+            "45x5",
+            "135x5",
+            "165x3",
+            "205x1",
+            "225x1",
+            "235x1"
+        ]
+    },
+    "169": {
+        "Log Press - Log - Strict": [
+            "90x5x2",
+            "110x5x2",
+            "130x5x3"
+        ],
+        "Row - Cable - Single Arm": [
+            "77x10x4",
+            "88x10x2"
+        ],
+        "Carry - Farmers - Walking": [
+            "270x10x2",
+            "450x10x2"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x5x3"
+        ]
+    },
+    "170": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "275x8",
+            "315x8x3"
+        ],
+        "Bench Press - Barbell - Decline": [
+            "45x10",
+            "95x10",
+            "135x10",
+            "185x5",
+            "205x5x3"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "165x5x4"
+        ],
+        "Raise - Barbell - Front": [
+            "45x10x3"
+        ],
+        "Fly - Barbell - Rear Delt": [
+            "45x10x3"
+        ],
+        "Deadlift - Barbell - Sumo": [
+            "135x5x1",
+            "225x4x1"
+        ]
+    },
+    "171": {
+        "Row - Barbell - Standing / Bent": [
+            "45x10",
+            "135x10x2",
+            "185x6x3"
+        ],
+        "RDL - Barbell - Standing": [
+            "185x10",
+            "225x10",
+            "295x6x3"
+        ],
+        "Log Press - Log - Standing": [
+            "100x5",
+            "150x5",
+            "170x3x3"
+        ],
+        "Arnold Press - Dumbbell - Seated": [
+            "130x4",
+            "120x5x2"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "80x5x3"
+        ]
+    },
+    "172": {
+        "Deadlift - Trap Bar - Standing": [
+            "135x10",
+            "225x10",
+            "335x8x4"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "135x10",
+            "225x10x3"
+        ],
+        "Shoulder - Sandbag - Standing": [
+            "100x5",
+            "150x5",
+            "200x5"
+        ]
+    },
+    "173": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "245x10",
+            "275x10",
+            "295x10",
+            "315x10"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "145x2",
+            "175x4",
+            "175x6",
+            "175x8",
+            "175x10"
+        ],
+        "RDL - Barbell - Standing": [
+            "140x10x3"
+        ],
+        "Lunges - Dumbbell - Walking": [
+            "140x8x3"
+        ],
+        "Ab Rollouts - Wheel - Lying": [
+            "100x12x3"
+        ]
+    },
+    "174": {
+        "OHP - Barbell - Standing": [
+            "115x5",
+            "135x5x3"
+        ],
+        "Row - Cable - Seated": [
+            "100x20x3"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "165x10x3"
+        ],
+        "Leg Press - Machine - Seated": [
+            "500x10x4"
+        ]
+    },
+    "175": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x6",
+            "295x3",
+            "315x3",
+            "245x3",
+            "365x3"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "50x10",
+            "100x6",
+            "150x3",
+            "160x3",
+            "130x3",
+            "180x1"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "150x10x3"
+        ],
+        "OHP - Dumbbell - Seated": [
+            "100x10x3"
+        ],
+        "Plank - Body - Elbow": [
+            "100x30x3"
+        ],
+        "Shrug - Dumbbell - Standing": [
+            "100x15x3"
+        ]
+    },
+    "176": {
+        "Deadlift - Barbell - Snatch Grip": [
+            "45x15",
+            "135x10",
+            "225x6",
+            "235x6",
+            "245x6",
+            "255x6"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "185x4",
+            "185x6",
+            "185x8"
+        ],
+        "Swing - Kettlebell - Standing": [
+            "50x10x3"
+        ],
+        "Pull - Sled - Standing": [
+            "250x15x3"
+        ],
+        "Ab Rollouts - Wheel - Lying": [
+            "100x8x3"
+        ],
+        "Toes to Bar - Body - Hanging": [
+            "100x5x3"
+        ]
+    },
+    "177": {
+        "Deadlift - Barbell - Standing": [
+            "135x5",
+            "245x5",
+            "265x8",
+            "315x4",
+            "335x8",
+            "365x8"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "95x6",
+            "120x10",
+            "135x6",
+            "145x10",
+            "150x8"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "135x20x2"
+        ],
+        "Bicep Curl - Dumbbell - Standing": [
+            "80x10",
+            "80x7",
+            "80x8",
+            "80x5"
+        ],
+        "OHP - Dumbbell - Seated": [
+            "80x20"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x5x2"
+        ]
+    },
+    "178": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "155x5",
+            "245x6",
+            "245x8",
+            "245x10"
+        ],
+        "Squat - Dumbbell - Bulgarian": [
+            "200x10x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "395x10x2",
+            "495x10x2",
+            "575x10",
+            "625x10"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10"
+        ],
+        "Ab Rollouts - Wheel - Lying": [
+            "100x8x3"
+        ]
+    },
+    "179": {
+        "Side Bend - Dumbbell - Standing": [
+            "70x10x4"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x5",
+            "295x8",
+            "315x6",
+            "345x5",
+            "365x5"
+        ]
+    },
+    "180": {
+        "Deadlift - Barbell - Paused": [
+            "135x3",
+            "225x3",
+            "295x3",
+            "345x3x3",
+            "345x4"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x10",
+            "115x10",
+            "135x5",
+            "165x3x3"
+        ],
+        "Deadhang - Body - Hanging": [
+            "200x20x3"
+        ],
+        "Side Bend - Dumbbell - Standing": [
+            "150x10x4"
+        ],
+        "Dip - Body - Hanging": [
+            "200x10x3"
+        ],
+        "Push Ups - Body - Close Grip": [
+            "100x10x3"
+        ],
+        "Bicep Curl - Dumbbell - Standing": [
+            "75x10x3"
+        ],
+        "Plank - Body - Elbow ": [
+            "100x30x3"
+        ]
+    },
+    "181": {
+        "Deadlift - Barbell - Lowered": [
+            "45x10",
+            "135x10",
+            "235x5",
+            "255x5",
+            "275x5",
+            "300x5"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "95x5",
+            "155x5",
+            "215x5x3"
+        ],
+        "Deadlift - Trap Bar - Jumping": [
+            "135x10x3"
+        ],
+        "Crunch - Body - Lying": [
+            "125x10x3"
+        ]
+    },
+    "182": {
+        "Deadlift - Barbell - Sumo": [
+            "45x10",
+            "135x10",
+            "225x8",
+            "275x5",
+            "295x5",
+            "315x5",
+            "345x5"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "125x10",
+            "145x8",
+            "165x8",
+            "175x7",
+            "185x6",
+            "195x5"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "140x8x2",
+            "110x8"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "70x10x3"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "185x5x3"
+        ],
+        "Shrug - Dumbbell - Standing": [
+            "140x15x2"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x8x2"
+        ],
+        "Kicks - Body - Flutter": [
+            "100x20x2"
+        ]
+    },
+    "183": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x8",
+            "335x5",
+            "385x3",
+            "435x1",
+            "405x2",
+            "355x4",
+            "315x6"
+        ],
+        "Squat - Barbell - Back": [
+            "55x10",
+            "165x8",
+            "255x4",
+            "320x5",
+            "365x3",
+            "408x1",
+            "385x2",
+            "342x4",
+            "300x6"
+        ],
+        "Swing - Kettlebell - Standing": [
+            "60x20x2"
+        ],
+        "Lunges - Dumbbell - Walking": [
+            "140x10x3"
+        ],
+        "Ab Rollouts - Wheel - Lying": [
+            "100x10x2"
+        ]
+    },
+    "184": {
+        "Clean and Press - Axle Bar - Standing": [
+            "135x3",
+            "165x2",
+            "185x2",
+            "190x2x2"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x10",
+            "385x10"
+        ]
+    },
+    "185": {
+        "Squat - Barbell - Back": [
+            "135x10",
+            "225x8",
+            "275x4",
+            "335x2",
+            "365x2"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x8",
+            "325x2",
+            "345x2",
+            "365x2",
+            "385x2"
+        ],
+        "Leg Curl - Machine - Lying": [
+            "170x8x3"
+        ],
+        "Hip Adductor - Machine - Seated": [
+            "260x12x3"
+        ],
+        "Back Extension - Machine - Standing": [
+            "170x12x3"
+        ],
+        "Crunch - Body - Lying": [
+            "135x12x3"
+        ],
+        "Leg Raise - Dumbbell - Lying": [
+            "30x10x3"
+        ]
+    },
+    "186": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x8",
+            "295x6",
+            "355x5",
+            "385x5",
+            "405x3",
+            "425x3"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x10",
+            "115x8",
+            "165x5",
+            "175x3",
+            "175x2"
+        ]
+    },
+    "187": {
+        "Rack Pull - Barbell - Standing": [
+            "45x10",
+            "225x10",
+            "315x5",
+            "385x2",
+            "405x2",
+            "435x2",
+            "455x2"
+        ],
+        "OHP - Barbell - Seated / Strict": [
+            "45x15",
+            "105x5",
+            "115x5",
+            "125x3",
+            "135x3"
+        ],
+        "Raise - Dumbbell - 3 Way": [
+            "30x10x6"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "225x5x2"
+        ]
+    },
+    "188": {
+        "Deadlift - Barbell - Snatch Grip": [
+            "45x10",
+            "135x15",
+            "225x3",
+            "255x3",
+            "265x3",
+            "275x3",
+            "295x3"
+        ],
+        "Log Press - Log - Standing": [
+            "100x3",
+            "150x3",
+            "180x3",
+            "200x1",
+            "210x1"
+        ]
+    },
+    "189": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x8",
+            "225x6",
+            "315x4",
+            "405x2",
+            "445x2x4"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "95x8",
+            "135x6",
+            "175x4",
+            "195x2",
+            "215x2x4"
+        ]
+    },
+    "190": {
+        "Log Press - Log - Standing": [
+            "100x3",
+            "130x2",
+            "150x2x7"
+        ],
+        "OHP - Barbell - Standing": [
+            "95x10x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "40x10x3"
+        ],
+        "Raise - Dumbbell - Front": [
+            "40x10x3"
+        ],
+        "Fly - Dumbbell - Rear Delt": [
+            "40x10x3"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "45x10x3"
+        ]
+    },
+    "191": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "165x10",
+            "210x22",
+            "275x6",
+            "345x4x2"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x8",
+            "225x4x2"
+        ]
+    },
+    "304": {
+        "Log Press - Log - Standing": [
+            "65x10",
+            "85x10",
+            "105x5",
+            "85x5",
+            "150x2x2",
+            "170x2",
+            "190x2"
+        ],
+        "Log Clean - Log - Standing": [
+            "190x5",
+            "210x5",
+            "230x5"
+        ],
+        "OHP - Axle Bar - Standing / Strict": [
+            "75x10",
+            "115x5x3",
+            "75x10"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "110x10x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x10x2",
+            "50x10"
+        ],
+        "Raise - Dumbbell - Front": [
+            "60x10",
+            "50x10x2"
+        ]
+    },
+    "305": {
+        "Deadlift - Barbell - Standing": [
+            "155x5",
+            "265x5",
+            "330x5",
+            "395x5x3"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "100x5",
+            "145x5",
+            "215x5",
+            "275x3",
+            "300x2"
+        ],
+        "Ab Rollouts - Wheel - Lying": [
+            "100x8x3"
+        ],
+        "Leg Curl - Machine - Lying": [
+            "70x10",
+            "80x10x2"
+        ]
+    },
+    "192": {
+        "Log Press - Log - Standing": [
+            "100x2",
+            "140x2x10"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x12",
+            "95x12",
+            "145x11",
+            "125x12x2"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "45x10x3"
+        ],
+        "Raise - Dumbbell - Front": [
+            "60x8x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x8x3"
+        ],
+        "Fly - Cable - Rear Delt": [
+            "65x8x2",
+            "50x8x2"
+        ]
+    },
+    "193": {
+        "Squat - Barbell - Back": [
+            "135x8",
+            "225x8",
+            "295x4",
+            "345x8",
+            "355x6",
+            "225x8"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x10x3"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "135x10x3"
+        ]
+    },
+    "194": {
+        "Log Press - Log - Standing": [
+            "100x5",
+            "130x2x2",
+            "160x1x5",
+            "170x1x3",
+            "180x1x2"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "75x10x2",
+            "105x10x3"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x10",
+            "135x5",
+            "165x5x2"
+        ]
+    },
+    "195": {
+        "Deadlift - Trap Bar - Standing": [
+            "135x8",
+            "225x8",
+            "315x6",
+            "405x6",
+            "455x1"
+        ]
+    },
+    "225": {
+        "Log Press - Log - Standing / Strict": [
+            "100x6",
+            "120x8x2",
+            "140x1",
+            "160x1"
+        ],
+        "Log Clean - Log - Standing": [
+            "200x3x2",
+            "250x3"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "145x3",
+            "175x3",
+            "215x3x2"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "120x10x3"
+        ]
+    },
+    "241": {
+        "Squat - Barbell - Back": [
+            "165x8",
+            "245x5",
+            "308x3",
+            "350x1",
+            "385x1",
+            "430x1",
+            "440x1"
+        ],
+        "Bench Press - Barbell - Flat ": [
+            "55x10",
+            "120x5",
+            "140x5",
+            "165x5",
+            "205x2",
+            "235x1",
+            "250x1",
+            "275x1"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "155x6",
+            "245x6",
+            "285x3",
+            "345x2",
+            "395x1",
+            "455x1"
+        ]
+    },
+    "226": {
+        "Log Press - Log - Standing": [
+            "100x5",
+            "150x3x7"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x10",
+            "115x8",
+            "145x8",
+            "135x8x3"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "65x10x4"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "205x10x2",
+            "385x10x2",
+            "565x10x1",
+            "665x10x1"
+        ]
+    },
+    "284": {
+        "Log Press - Log - Standing": [
+            "100x5",
+            "150x3",
+            "180x1x7",
+            "150x2"
+        ],
+        "OHP - Barbell - Seated / Strict": [
+            "115x8x3"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "135x10x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10x3"
+        ],
+        "Raise - Dumbbell - Front": [
+            "50x10x3"
+        ]
+    },
+    "196": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x8",
+            "365x10",
+            "315x4",
+            "225x10"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "25x5",
+            "115x5",
+            "175x5",
+            "230x5"
+        ]
+    },
+    "301": {
+        "Row - Barbell - Standing / Bent": [
+            "35x10",
+            "125x10",
+            "175x10",
+            "215x5x2",
+            "215x6x2"
+        ],
+        "Pull ups - Body - Hanging": [
+            "15x6x2",
+            "15x4"
+        ],
+        "Pull Downs - Cable - Straight Arm": [
+            "84x8",
+            "74x10x2"
+        ],
+        "Bicep Curl - Dumbbell - Incline": [
+            "70x10",
+            "70x8",
+            "70x5"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "50x10",
+            "65x10x2"
+        ],
+        "Ab Rollouts - Wheel - Lying": [
+            "100x10x3"
+        ]
+    },
+    "231": {
+        "Deadlift - Trap Bar - Standing": [
+            "135x10",
+            "225x10",
+            "315x8",
+            "425x6",
+            "515x4"
+        ],
+        "Leg Curl - Machine - Lying": [
+            "150x10",
+            "170x10x2"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "190x10",
+            "260x10x2"
+        ],
+        "Lunges - Dumbbell - Walking": [
+            "50x10x2",
+            "100x10x2",
+            "125x10x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "180x10",
+            "230x10",
+            "290x10"
+        ]
+    },
+    "246": {
+        "Log Press - Log - Standing": [
+            "100x6",
+            "120x6x2"
+        ],
+        "Log Clean - Log - Standing": [
+            "235x3x2"
+        ],
+        "Carry - Frame - Walking": [
+            "500x10x1"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "145x3",
+            "175x3",
+            "215x4",
+            "250x3",
+            "275x2",
+            "300x1"
+        ]
+    },
+    "285": {
+        "Log Press - Log - Standing": [
+            "100x5",
+            "120x3",
+            "140x1",
+            "160x1x10"
+        ],
+        "Bench Press - Barbell - Incline ": [
+            "45x10",
+            "135x8",
+            "185x2",
+            "165x5x3"
+        ],
+        "Fly - Dumbbell - Chest": [
+            "50x10",
+            "80x10",
+            "90x10",
+            "110x10x2"
+        ],
+        "Raise - Cable - Lateral": [
+            "33x10x6"
+        ]
+    },
+    "197": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "176x8",
+            "242x8",
+            "330x6",
+            "364x6",
+            "397x4",
+            "397x3"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "90x10",
+            "135x10",
+            "190x10x2"
+        ],
+        "Carry - Frame - Walking": [
+            "100x10x2",
+            "280x10x2",
+            "460x10x2",
+            "510x10x1"
+        ]
+    },
+    "247": {
+        "Bench Press - Barbell - Flat ": [
+            "95x10",
+            "165x8",
+            "205x6",
+            "225x4x2"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "55x10",
+            "70x10x3"
+        ],
+        "Raise - Dumbbell - Front": [
+            "50x10x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10x3"
+        ],
+        "Fly - Dumbbell - Rear Delt": [
+            "50x10x3"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "35x10",
+            "42x10",
+            "50x10"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "95x10",
+            "115x10x2"
+        ]
+    },
+    "248": {
+        "Log Press - Log - Standing": [
+            "100x5",
+            "150x2",
+            "180x1",
+            "200x1",
+            "220x1"
+        ],
+        "Deadlift - Barbell - Lowered": [
+            "155x8",
+            "265x3",
+            "330x3x3"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "145x10",
+            "165x10x2"
+        ]
+    },
+    "198": {
+        "Log Press - Log - Standing": [
+            "100x5",
+            "150x3",
+            "180x3x3",
+            "140x5x2"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "45x15",
+            "135x10",
+            "185x8x2",
+            "205x5x2"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "45x10x3"
+        ],
+        "Fly - Cable - Low to High": [
+            "45x10x3"
+        ],
+        "Tricep Extensions - Rope - Standing": [
+            "45x10x3"
+        ]
+    },
+    "199": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x10",
+            "315x8",
+            "405x2"
+        ],
+        "Squat - Belt Machine - Front": [
+            "135x10",
+            "225x10",
+            "315x8"
+        ],
+        "OHP - Barbell - Standing": [
+            "45x10x2",
+            "95x10x2"
+        ]
+    },
+    "302": {
+        "Clean and Press - Axle Bar - Standing": [
+            "25x10",
+            "75x10",
+            "125x5",
+            "165x3",
+            "185x1",
+            "145x3"
+        ],
+        "Squat - SSB - Back": [
+            "60x10",
+            "150x10",
+            "240x6x3"
+        ],
+        "Good Morning - SSB - Standing": [
+            "60x10",
+            "110x10"
+        ]
+    },
+    "249": {
+        "Log Press - Log - Standing": [
+            "100x10",
+            "150x2x12"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x10",
+            "95x10",
+            "145x6",
+            "165x6",
+            "155x6x2"
+        ],
+        "Raise - Cable - Lateral": [
+            "33x9x6"
+        ],
+        "Fly - Cable - Chest / Straight": [
+            "33x10x6"
+        ],
+        "Tricep Extensions - Rope - Standing": [
+            "45x10x4"
+        ]
+    },
+    "200": {
+        "Deadlift - Trap Bar - Standing": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x10",
+            "405x2x3",
+            "405x4"
+        ],
+        "Squat - Barbell - Back": [
+            "135x10",
+            "225x10",
+            "295x10"
+        ],
+        "Ab Rollouts - Wheel - Lying": [
+            "100x8x3"
+        ],
+        "Side Bend - Dumbbell - Standing": [
+            "70x10x2"
+        ]
+    },
+    "201": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "275x10",
+            "295x3"
+        ],
+        "Squat - Barbell - Front": [
+            "45x8",
+            "95x10"
+        ],
+        "Plank - Body - Elbow": [
+            "100x30x2"
+        ]
+    },
+    "227": {
+        "OHP - Barbell - Seated": [
+            "45x10",
+            "95x10",
+            "135x8",
+            "135x6x2"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x10x3"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "60x10x3"
+        ],
+        "Fly - Dumbbell - Chest / Flat": [
+            "60x10x3"
+        ],
+        "OHP - Machine - Seated": [
+            "90x10x3"
+        ]
+    },
+    "228": {
+        "Leg Extension - Machine - Seated": [
+            "160x20",
+            "220x15",
+            "300x10x2"
+        ]
+    },
+    "286": {
+        "Log Press - Log - Standing": [
+            "100x3",
+            "160x2x3",
+            "160x3x3"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "95x10",
+            "145x10",
+            "155x10",
+            "165x8",
+            "115x8"
+        ],
+        "Raise - Dumbbell - Front": [
+            "60x10x3"
+        ],
+        "Fly - Dumbbell - Rear Delt": [
+            "50x10x3"
+        ],
+        "Ab Rollouts - Wheel - Lying": [
+            "100x10x3"
+        ]
+    },
+    "229": {
+        "Load - Atlas Stone - Platform": [
+            "145x5",
+            "215x3",
+            "250x2",
+            "275x2x2"
+        ],
+        "Carry - Frame - Walking": [
+            "100x10x2",
+            "280x10x1",
+            "440x10x1"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "175x10x2",
+            "145x10"
+        ],
+        "Bicep Curl - Cable / Rope - Standing": [
+            "66x10",
+            "88x10x2"
+        ],
+        "Row - Cable - Seated": [
+            "145x10x2",
+            "121x10"
+        ]
+    },
+    "233": {
+        "Leg Curl - Machine - Lying": [
+            "130x10",
+            "160x10",
+            "130x10"
+        ]
+    },
+    "287": {
+        "Log Press - Log - Standing": [
+            "100x10",
+            "150x5",
+            "200x3x3",
+            "150x4",
+            "150x3"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "130x8x3"
+        ]
+    },
+    "250": {
+        "Deadlift - Barbell - Raised": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x8",
+            "405x6",
+            "405x4"
+        ],
+        "Squat - Barbell - Back": [
+            "45x10",
+            "115x10",
+            "185x10",
+            "255x10"
+        ]
+    },
+    "234": {
+        "Leg Extension - Machine - Seated": [
+            "190x12",
+            "260x12x3"
+        ],
+        "Carry - Farmers - Walking": [
+            "250x10x4"
+        ],
+        "Leg Curl - Machine - Seated": [
+            "200x10x2",
+            "150x10x2"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x4x5"
+        ],
+        "Row - Cable - Seated": [
+            "110x10",
+            "230x10",
+            "320x10",
+            "270x10"
+        ]
+    },
+    "202": {
+        "Log Press - Log - Standing": [
+            "180x12"
+        ]
+    },
+    "203": {
+        "Log Press - Log - Standing": [
+            "100x5",
+            "150x3",
+            "200x1",
+            "220x1",
+            "150x3x2"
+        ],
+        "OHP - Barbell - Standing": [
+            "95x10",
+            "135x4",
+            "135x3",
+            "135x2",
+            "135x1"
+        ],
+        "Raise - Dumbbell - Front": [
+            "40x8x2",
+            "40x10"
+        ],
+        "Face Pulls - Cable - Standing": [
+            "66x10x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10x3"
+        ]
+    },
+    "251": {
+        "Deadlift - Barbell - Raised": [
+            "135x10",
+            "225x10",
+            "315x10",
+            "405x5x3",
+            "405x3"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "135x10",
+            "185x10x2"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "70x10x3"
+        ]
+    },
+    "204": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "155x10",
+            "265x6",
+            "320x4",
+            "350x4",
+            "365x4"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x10x3"
+        ]
+    },
+    "252": {
+        "Log Press - Log - Standing": [
+            "100x5x2",
+            "150x2x2",
+            "200x1",
+            "190x1x12",
+            "160x1"
+        ],
+        "Carry - Frame - Walking": [
+            "100x10x2",
+            "280x10x3",
+            "420x10x1",
+            "500x10x1",
+            "550x10x1"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "95x10",
+            "155x2x3"
+        ],
+        "Tricep Extensions - Cable - Overhead": [
+            "66x10x3"
+        ]
+    },
+    "253": {
+        "Deadlift - Axle Bar / Wagon Wheel - Raised": [
+            "135x10",
+            "225x8",
+            "315x8",
+            "405x2x2",
+            "405x1x2",
+            "360x6"
+        ],
+        "Chest - Sandbag - Standing": [
+            "100x8",
+            "130x6",
+            "150x4",
+            "190x2",
+            "260x1"
+        ]
+    },
+    "254": {
+        "Log Press - Log - Standing": [
+            "100x10",
+            "150x3x2",
+            "200x1",
+            "210x2",
+            "190x2x4"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x9",
+            "135x6",
+            "175x3x2",
+            "165x3x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "66x10x3"
+        ],
+        "Fly - Cable - Straight": [
+            "66x10x3"
+        ],
+        "Tricep Extensions - Cable - Standing": [
+            "66x15x3"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "155x10x3"
+        ]
+    },
+    "255": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "165x10",
+            "275x8",
+            "340x6",
+            "385x4",
+            "385x2"
+        ],
+        "Deadlift - Trap Bar - Standing": [
+            "135x10",
+            "225x10"
+        ]
+    },
+    "256": {
+        "Load - Atlas Stone - Platform": [
+            "155x5",
+            "215x3",
+            "250x2",
+            "275x1",
+            "300x1",
+            "330x1"
+        ],
+        "Carry - Frame - Walking": [
+            "100x10x2",
+            "190x10x1",
+            "280x10x1",
+            "370x10x1",
+            "460x10x1",
+            "500x10x1",
+            "560x10x1"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "65x10",
+            "75x10x3"
+        ],
+        "Raise - Dumbbell - Front": [
+            "50x10x3"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "50x10x3"
+        ]
+    },
+    "205": {
+        "Deadlift - Barbell - Standing": [
+            "155x10",
+            "265x8",
+            "375x5",
+            "395x5",
+            "410x3",
+            "425x3"
+        ]
+    },
+    "257": {
+        "Fingal Finger - Barbell / Landmine - Standing": [
+            "100x5",
+            "150x5",
+            "170x5"
+        ],
+        "Log Press - Log - Standing": [
+            "90x5",
+            "140x3",
+            "190x1",
+            "210x1",
+            "190x3"
+        ],
+        "Bench Press - Axle Bar - Incline": [
+            "35x10",
+            "105x5",
+            "155x5x5"
+        ],
+        "Raise - Dumbbell - Front": [
+            "60x10x3"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x8x3"
+        ],
+        "Russian Twists - Medicine Ball - Seated": [
+            "25x20x3"
+        ]
+    },
+    "206": {
+        "Squat - Camber Bar - Back": [
+            "80x10x1",
+            "170x8x1",
+            "260x6x1",
+            "350x4x3"
+        ],
+        "Deadlift - Lever - Paused": [
+            "155x4x1",
+            "265x3x1",
+            "350x2x1",
+            "360x2x1",
+            "375x2x1",
+            "400x2x1"
+        ]
+    },
+    "230": {
+        "Log Press - Log - Standing": [
+            "100x3x2",
+            "150x2x2",
+            "190x15x1"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "145x3",
+            "215x3",
+            "250x3"
+        ],
+        "Carry - Frame - Walking": [
+            "100x10x2",
+            "190x10x2",
+            "280x10x2",
+            "370x10x2",
+            "460x10x2"
+        ]
+    },
+    "235": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "155x10",
+            "265x6",
+            "375x4",
+            "425x1"
+        ]
+    },
+    "299": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "135x10",
+            "235x10",
+            "325x5",
+            "375x2",
+            "400x1"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "45x5",
+            "155x5",
+            "265x8",
+            "325x8",
+            "355x6",
+            "375x1"
+        ]
+    },
+    "300": {
+        "Arnold Press - Dumbbell - Seated": [
+            "70x10",
+            "110x10",
+            "130x7"
+        ],
+        "OHP - Barbell - Push": [
+            "135x2x3",
+            "185x2"
+        ],
+        "OHP - Barbell - Standing": [
+            "45x10",
+            "95x10",
+            "115x4"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "60x10x2"
+        ],
+        "French Press - Dumbbell - Upright": [
+            "50x10x2"
+        ]
+    },
+    "258": {
+        "Rack Pull - Barbell - Standing": [
+            "135x10",
+            "225x10",
+            "315x10",
+            "405x10"
+        ],
+        "Log Press - Log - Rack": [
+            "60x5",
+            "110x5",
+            "160x2"
+        ]
+    },
+    "259": {
+        "Deadlift - Barbell - Standing": [
+            "135x5",
+            "225x5",
+            "315x2x2",
+            "365x1",
+            "415x1",
+            "445x1"
+        ]
+    },
+    "236": {
+        "Log Press - Log - Standing": [
+            "100x5x2",
+            "150x2x2",
+            "200x1",
+            "220x1"
+        ],
+        "Carry - Frame - Walking": [
+            "400x10x1",
+            "490x10x1",
+            "580x10x1"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "180x2",
+            "250x2",
+            "230x1",
+            "250x1",
+            "275x1",
+            "300x1",
+            "330x1"
+        ]
+    },
+    "237": {
+        "Bench Press - Barbell - Flat": [
+            "110x10",
+            "154x10",
+            "198x10",
+            "220x2",
+            "154x5"
+        ],
+        "Arnold Press - Dumbbell - Seated": [
+            "70x10",
+            "100x10",
+            "110x6"
+        ]
+    },
+    "238": {
+        "OHP - Barbell - Standing": [
+            "77x10",
+            "110x8",
+            "110x6",
+            "110x4"
+        ],
+        "Raise - Dumbbell - Lateral / Seated": [
+            "55x10"
+        ]
+    },
+    "260": {
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x10",
+            "315x10",
+            "335x5x2"
+        ],
+        "Deadlift - Car - Standing": [
+            "300x5x2",
+            "390x1"
+        ]
+    },
+    "207": {
+        "Squat - Barbell - Back": [
+            "55x5",
+            "165x5",
+            "275x5",
+            "365x2x3",
+            "165x5"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "120x10",
+            "155x10",
+            "175x10"
+        ]
+    },
+    "288": {
+        "Pull Apart - Band - Standing": [
+            "20x20x3"
+        ],
+        "OHP - Kettlebell - Single Arm": [
+            "40x12",
+            "50x12x2"
+        ],
+        "Skull Crusher - Dumbbell - Flat": [
+            "60x12",
+            "50x12x2"
+        ],
+        "Windmills - Dumbbell - Standing": [
+            "60x8",
+            "40x8x2"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "55x5x3",
+            "75x5",
+            "95x3"
+        ],
+        "OHP - Sandbag - Standing": [
+            "120x4x3"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "135x8",
+            "185x5",
+            "135x8"
+        ]
+    },
+    "261": {
+        "Hip Thrust - Barbell - Seated": [
+            "225x12x3"
+        ],
+        "Deadlift - Trap Bar - Standing": [
+            "135x10",
+            "225x10",
+            "315x3",
+            "405x5",
+            "405x6",
+            "405x8"
+        ],
+        "Extension - Atlas Stone - Standing": [
+            "230x5",
+            "215x5x2"
+        ],
+        "Carry - Sandbag - Walking": [
+            "200x10",
+            "200x20",
+            "200x30"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x8",
+            "225x8x2"
+        ],
+        "Leg Curl - Machine - Seated / Single Leg": [
+            "45x12x2",
+            "90x15x2"
+        ]
+    },
+    "262": {
+        "Squat - Camber Bar - Back": [
+            "80x10",
+            "130x6x3"
+        ],
+        "Row - Barbell - Seal": [
+            "135x6",
+            "135x12x2",
+            "135x6"
+        ],
+        "Pull Downs - Cable - Lat": [
+            "145x6x3"
+        ]
+    },
+    "208": {
+        "Banded Clam - Band - Lying": [
+            "15x12x2",
+            "25x12x4"
+        ],
+        "Hip Thrust - Sandbag - Seated / Single Leg": [
+            "100x12x6"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "25x12",
+            "50x12x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x10x2",
+            "305x10x2",
+            "395x10x1",
+            "535x10x3"
+        ],
+        "Carry - Farmers - Walking": [
+            "260x8",
+            "370x10x3"
+        ],
+        "Shoulder - Sandbag - Standing": [
+            "150x10x4"
+        ],
+        "Push - Sled - Standing": [
+            "150x10x2",
+            "220x10x2"
+        ],
+        "Squat - SSB - Back": [
+            "60x8",
+            "150x8",
+            "240x6x2"
+        ]
+    },
+    "289": {
+        "Pull Apart - Band - Standing": [
+            "25x20x3"
+        ],
+        "OHP - Kettlebell - Single Arm": [
+            "50x12x3"
+        ],
+        "Skull Crusher - Dumbbell - Flat": [
+            "30x15",
+            "40x15x2"
+        ],
+        "Windmills - Dumbbell - Standing": [
+            "40x8x3"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "55x2x2",
+            "75x2x2",
+            "95x2",
+            "105x1"
+        ]
+    },
+    "263": {
+        "Monster Walk - Band - Standing": [
+            "30x10x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x12",
+            "315x12x2"
+        ],
+        "Deadlift - Trap Bar - Standing": [
+            "245x10x2",
+            "405x7x2"
+        ],
+        "Extension - Atlas Stone - Standing": [
+            "215x5",
+            "190x5",
+            "190x3"
+        ],
+        "Shoulder - Natural Stone - Standing": [
+            "190x2"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x10",
+            "275x8",
+            "275x5"
+        ]
+    },
+    "264": {
+        "Pull Apart - Band - Standing": [
+            "25x20x3"
+        ],
+        "OHP - Kettlebell - Single Arm": [
+            "25x20x3"
+        ],
+        "Skull Crusher - Dumbbell - Flat": [
+            "50x15x3"
+        ],
+        "Windmills - Dumbbell - Standing": [
+            "25x16x2"
+        ],
+        "OHP - Circus Dumbbell - Single Arm ": [
+            "55x5",
+            "75x3",
+            "95x3",
+            "105x2"
+        ],
+        "OHP - Natural Stone - Standing": [
+            "110x3x3"
+        ],
+        "Throw - Natural Stone - Distance": [
+            "20x5",
+            "30x5",
+            "40x5"
+        ]
+    },
+    "209": {
+        "Banded Clam - Band - Lying": [
+            "30x12x8"
+        ],
+        "Hip Thrust - Sandbag - Seated / Single Leg": [
+            "50x12x2",
+            "80x12x6"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "55x15",
+            "75x15x2"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x10x4",
+            "305x10",
+            "395x10",
+            "485x10",
+            "535x10x3"
+        ],
+        "Carry - Farmers - Walking": [
+            "410x10x2"
+        ],
+        "Carry - Sandbag - Walking": [
+            "200x10x2"
+        ],
+        "Push - Sled - Standing": [
+            "200x10x2"
+        ]
+    },
+    "265": {
+        "Pull Apart - Band - Standing": [
+            "25x20x3"
+        ],
+        "OHP - Kettlebell - Single Arm": [
+            "20x10x2",
+            "25x12x4"
+        ],
+        "Windmills - Dumbbell - Standing": [
+            "30x8x4"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "55x5",
+            "75x3x5",
+            "95x3x3"
+        ],
+        "OHP - Sandbag - Standing": [
+            "80x3",
+            "130x3x2",
+            "150x3"
+        ],
+        "OHP - Camber Bar - Push": [
+            "80x6",
+            "130x3",
+            "130x2",
+            "110x4",
+            "110x6",
+            "110x3"
+        ],
+        "Row - Cable - Wide Grip": [
+            "144x12x4"
+        ],
+        "Pull Over - Dumbbell - Lying": [
+            "55x12x3"
+        ]
+    },
+    "266": {
+        "Pull Apart - Band - Standing": [
+            "25x20x3"
+        ],
+        "OHP - Kettlebell - Single Arm": [
+            "50x10x3"
+        ],
+        "Windmills - Dumbbell - Standing": [
+            "30x8x4"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "55x5",
+            "95x3x3",
+            "105x1"
+        ],
+        "OHP - Natural Stone - Standing": [
+            "45x8",
+            "95x8",
+            "110x8",
+            "115x8",
+            "125x1"
+        ],
+        "OHP - Barbell - Push": [
+            "115x8",
+            "115x5",
+            "165x3"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "135x8x2"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "65x10x3"
+        ]
+    },
+    "211": {
+        "Banded Clam - Band - Lying": [
+            "15x12x3"
+        ],
+        "Hip Thrust - Sandbag - Seated / Single Leg": [
+            "60x12x4"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "85x15x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "205x10x2",
+            "295x10x2",
+            "385x10",
+            "425x10x4"
+        ],
+        "Squat - SSB - Back": [
+            "70x10",
+            "160x10",
+            "250x8x3"
+        ],
+        "Leg Extension - Machine - Seated / Single Leg": [
+            "50x12x2",
+            "100x12x4"
+        ]
+    },
+    "290": {
+        "Pull Apart - Band - Standing": [
+            "25x20x3"
+        ],
+        "OHP - Kettlebell - Single Arm": [
+            "35x20x3"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "65x10x3"
+        ],
+        "Windmills - Dumbbell - Standing": [
+            "30x16x3"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "55x3x2",
+            "75x3x2",
+            "95x3",
+            "105x1x6"
+        ],
+        "OHP - Natural Stone - Standing": [
+            "125x5x3"
+        ]
+    },
+    "212": {
+        "Banded Clam - Band - Lying": [
+            "20x20x2"
+        ],
+        "Hip Thrust - Sandbag - Seated / Single Leg": [
+            "100x10x2",
+            "180x10x2"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "55x10",
+            "85x10"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "205x10x2",
+            "295x10x2",
+            "385x10",
+            "425x10x5"
+        ],
+        "Carry - Farmers - Walking": [
+            "185x10x2"
+        ]
+    },
+    "291": {
+        "OHP - Kettlebell - Single Arm": [
+            "25x10x4"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "55x3",
+            "75x3",
+            "95x4x3"
+        ],
+        "OHP - Sandbag - Standing": [
+            "150x3x3",
+            "180x1"
+        ],
+        "OHP - Camber Bar - Push": [
+            "80x6",
+            "120x6x3"
+        ]
+    },
+    "232": {
+        "Monster Walk - Band - Standing": [
+            "20x10x2"
+        ],
+        "Hip Thrust - Machine - Seated": [
+            "100x10",
+            "200x10"
+        ],
+        "Deadlift - Trap Bar - Standing": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x8",
+            "425x6",
+            "425x8x2"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "145x5",
+            "215x3",
+            "250x1"
+        ],
+        "Carry - Sandbag - Walking": [
+            "175x8"
+        ]
+    },
+    "267": {
+        "OHP - Kettlebell - Single Arm": [
+            "25x20x2"
+        ],
+        "Pull Apart - Band - Standing": [
+            "25x20x3"
+        ],
+        "Skull Crusher - Ez Bar - Incline": [
+            "70x10x3"
+        ],
+        "Windmills - Dumbbell - Standing": [
+            "30x8x4"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "75x3",
+            "95x3x3"
+        ],
+        "Step Up - Sandbag - Standing": [
+            "100x3",
+            "175x1x3"
+        ]
+    },
+    "239": {
+        "Carry - Natural Stone - Walking": [
+            "260x22"
+        ],
+        "Shoulder - Natural Stone - Standing": [
+            "140x1",
+            "180x1",
+            "220x1"
+        ],
+        "Throw - Natural Stone - Distance": [
+            "50x3x5"
+        ],
+        "Load - Natural Stone - Platform": [
+            "293x1",
+            "312x1"
+        ],
+        "OHP - Natural Stone - Standing": [
+            "170x1"
+        ]
+    },
+    "268": {
+        "Monster Walk - Band - Standing": [
+            "25x20x2"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x12",
+            "315x12",
+            "135x12"
+        ],
+        "Deadlift - Trap Bar - Standing": [
+            "225x10",
+            "315x5"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "215x3",
+            "230x3"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x10",
+            "275x8x2"
+        ]
+    },
+    "292": {
+        "OHP - Kettlebell - Single Arm": [
+            "25x10x6"
+        ],
+        "Pull Apart - Band - Standing": [
+            "25x20x3"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "55x3",
+            "75x3",
+            "95x2",
+            "115x1"
+        ],
+        "Log Press - Log - Standing / Strict": [
+            "100x5",
+            "140x5x3"
+        ]
+    },
+    "213": {
+        "Squat - Dumbbell - Goblet": [
+            "35x10x2",
+            "75x10x2"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x10x2",
+            "305x10x2",
+            "395x10x1",
+            "485x10x1"
+        ],
+        "Squat - Barbell - Back": [
+            "55x10",
+            "175x10",
+            "285x3",
+            "330x3",
+            "375x1x2",
+            "135x40"
+        ]
+    },
+    "269": {
+        "Monster Walk - Band - Standing": [
+            "30x10x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "135x12",
+            "225x12x2"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "225x10",
+            "315x3x4"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "175x5",
+            "230x3x2"
+        ],
+        "Row - Cable - Seated": [
+            "145x12x3"
+        ]
+    },
+    "214": {
+        "Pull Apart - Band - Standing": [
+            "25x20x3"
+        ],
+        "OHP - Kettlebell - Single Arm": [
+            "35x10x6"
+        ],
+        "Skull Crusher - Dumbbell - Flat": [
+            "60x10x3"
+        ],
+        "Windmills - Dumbbell - Standing": [
+            "35x16x3"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "55x5",
+            "75x3",
+            "105x1x4"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "135x10x2"
+        ],
+        "OHP - Barbell - Push": [
+            "135x8",
+            "135x5",
+            "135x3"
+        ],
+        "Bench Press - Barbell - Flat / Close Grip": [
+            "135x4x3"
+        ]
+    },
+    "245": {
+        "Carry - Medley - Walking": [
+            "150x10x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "550x10"
+        ],
+        "Throw - Rings - Over Bar": [
+            "25x1",
+            "30x1",
+            "35x1",
+            "40x1",
+            "45x1"
+        ],
+        "Hold - Cable - Hercules": [
+            "280x10"
+        ]
+    },
+    "215": {
+        "Monster Walk - Band - Standing": [
+            "25x10x4"
+        ],
+        "Hip Thrust - Sandbag - Seated / Single Leg": [
+            "80x10x6"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x10",
+            "315x3",
+            "335x3",
+            "275x3",
+            "365x3"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "145x1",
+            "175x2",
+            "215x3x2"
+        ]
+    },
+    "270": {
+        "Pull Apart - Band - Standing": [
+            "25x20x3"
+        ],
+        "OHP - Kettlebell - Single Arm": [
+            "35x10x6"
+        ],
+        "Skull Crusher - Dumbbell - Flat": [
+            "60x10x3"
+        ],
+        "Windmills - Dumbbell - Standing": [
+            "40x8x4"
+        ],
+        "OHP - Circus Dumbbell - Single Arm": [
+            "55x5",
+            "75x3",
+            "95x2",
+            "105x1",
+            "125x1",
+            "135x2"
+        ],
+        "Log Press - Log - Standing": [
+            "100x5",
+            "140x3",
+            "140x5",
+            "140x3"
+        ]
+    },
+    "216": {
+        "Monster Walk - Band - Standing": [
+            "25x10x4"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "60x15x2"
+        ],
+        "Hip Thrust - Sandbag - Seated / Single Leg": [
+            "100x10x4"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "305x10x2",
+            "395x10x2",
+            "485x10x1",
+            "555x10x1",
+            "595x10x1"
+        ],
+        "Carry - Conans Wheel - Walking": [
+            "255x10x2"
+        ]
+    },
+    "271": {
+        "Deadlift - Barbell - Standing": [
+            "155x10",
+            "265x5x1",
+            "375x3x1",
+            "408x2x1"
+        ],
+        "Load - Atlas Stone - Platform": [
+            "145x1x1",
+            "175x2x1",
+            "215x3x3"
+        ],
+        "Shoulder - Atlas Stone - Standing": [
+            "215x2x1"
+        ]
+    },
+    "217": {
+        "Squat - Barbell - Back": [
+            "135x10x1",
+            "185x8x1",
+            "265x5x3"
+        ]
+    },
+    "272": {
+        "Banded Clam - Band - Lying": [
+            "30x12x4"
+        ],
+        "Leg Curl - Machine - Seated / Single Leg": [
+            "45x15x6"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "155x20",
+            "155x15",
+            "155x10",
+            "155x8x1"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x8x1",
+            "335x6x1",
+            "335x5x2"
+        ]
+    },
+    "242": {
+        "Log Press - Log - Standing": [
+            "75x15"
+        ],
+        "Shoulder - Atlas Stone - Standing": [
+            "75x1x1",
+            "150x2x1",
+            "215x2x1"
+        ],
+        "Pull - Truck - Standing": [
+            "600x10x2"
+        ]
+    },
+    "273": {
+        "Banded Clam - Band - Lying": [
+            "25x10x4"
+        ],
+        "Leg Curl - Machine - Seated / Single Leg": [
+            "45x15x6"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x6x1",
+            "315x3x1"
+        ]
+    },
+    "293": {
+        "Field Goal - Dumbbell - Standing": [
+            "30x10",
+            "40x10x3"
+        ],
+        "Raise - Dumbbell - Front to T": [
+            "30x12x4"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "45x10",
+            "135x10x3"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "115x20x2",
+            "185x20x2"
+        ]
+    },
+    "274": {
+        "Fire Hydrant - Band - Kneeling": [
+            "10x20x8"
+        ],
+        "Step Up - Sandbag - Standing": [
+            "100x20x3"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "60x15x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "205x8x2",
+            "385x8x1",
+            "485x8x3"
+        ],
+        "Squat - Barbell - Pin": [
+            "55x10x1",
+            "145x10x1",
+            "235x9x1",
+            "235x8x1",
+            "235x4x3"
+        ],
+        "Leg Extension - Machine - Seated": [
+            "45x5",
+            "90x20",
+            "135x15",
+            "180x10"
+        ]
+    },
+    "294": {
+        "Arnold Press - Dumbbell - Standing": [
+            "60x15",
+            "60x10",
+            "50x15",
+            "50x10"
+        ],
+        "Push Ups - Body - Close Grip": [
+            "100x8x4"
+        ],
+        "Log Press - Log - Standing": [
+            "75x5x1",
+            "125x3x1",
+            "145x3x1"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "115x3x1",
+            "145x3x1"
+        ],
+        "OHP - Sandbag - Standing": [
+            "80x3x1",
+            "130x3x1"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x8x1",
+            "200x5x2"
+        ],
+        "Row - Cable - Seated": [
+            "100x20x3"
+        ]
+    },
+    "275": {
+        "Banded Clam - Band - Lying": [
+            "30x24x2"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "155x20x1",
+            "155x15x1",
+            "155x10x1",
+            "155x8x1"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "45x10x1",
+            "135x10x1",
+            "225x8x1",
+            "315x3x1",
+            "365x1x6"
+        ],
+        "Carry - Husafell Stone - Walking": [
+            "100x8x1",
+            "155x4x1",
+            "210x4x1"
+        ],
+        "Pull - Sled - Standing": [
+            "90x10x1",
+            "180x10x1",
+            "400x5x1",
+            "500x5x1"
+        ],
+        "RDL - Dumbbell - Standing": [
+            "140x10x3"
+        ],
+        "Leg Curl - Machine - Seated": [
+            "90x15x3"
+        ],
+        "Good Morning - Barbell - Standing": [
+            "45x8x1",
+            "135x8x4"
+        ]
+    },
+    "276": {
+        "Field Goal - Dumbbell - Standing": [
+            "50x10x1",
+            "40x10x2",
+            "30x10x1"
+        ],
+        "Raise - Dumbbell - Front to T": [
+            "30x12x4"
+        ],
+        "Pull Apart - Band - Standing": [
+            "25x20x5"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "135x12x3"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "115x4x1",
+            "135x4x1",
+            "165x4x1",
+            "215x1x1"
+        ],
+        "Z Press - Camber Bar - Seated": [
+            "80x10x1",
+            "80x6x2x1",
+            "80x5x2x1"
+        ],
+        "Row - Barbell - Upright": [
+            "135x10x2",
+            "95x12x1"
+        ]
+    },
+    "218": {
+        "Step Up - Sandbag - Standing": [
+            "80x20x3"
+        ],
+        "Fire Hydrant - Band - Kneeling": [
+            "20x8x3"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "70x15x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x9x2",
+            "305x9x2",
+            "395x9x1",
+            "465x9x1",
+            "535x9x1"
+        ],
+        "Squat - SSB - Pin": [
+            "70x8x1",
+            "160x8x3"
+        ]
+    },
+    "295": {
+        "OHP - Dumbbell - Standing": [
+            "50x15x2",
+            "60x10x2"
+        ],
+        "Push Ups - Body - Close Grip": [
+            "100x8x4"
+        ],
+        "Pull Apart - Band - Standing": [
+            "20x10x4"
+        ],
+        "Log Press - Log - Standing": [
+            "100x4x1",
+            "150x2x1",
+            "170x1x3"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "125x4x1",
+            "155x2x1",
+            "185x1x3"
+        ],
+        "OHP - Sandbag - Standing": [
+            "100x4x1",
+            "130x2x1",
+            "150x1x3"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x10x1",
+            "200x8x1",
+            "200x4x1"
+        ],
+        "Row - Barbell - Pendlay": [
+            "155x8x4"
+        ],
+        "Row - Cable - Seated": [
+            "100x20x3"
+        ]
+    },
+    "277": {
+        "Banded Clam - Band - Lying": [
+            "30x12x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x15x1",
+            "225x20x1",
+            "225x10x1",
+            "225x8x1"
+        ],
+        "Leg Curl - Machine - Seated / Single Leg": [
+            "50x15x6"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "45x10x1",
+            "135x10x1",
+            "225x10x1",
+            "315x5x1",
+            "375x1x6"
+        ],
+        "Carry - Husafell Stone - Walking": [
+            "100x10x1",
+            "155x10x1",
+            "210x10x1",
+            "250x10x1"
+        ]
+    },
+    "296": {
+        "Field Goal - Dumbbell - Standing": [
+            "20x20x4"
+        ],
+        "Raise - Dumbbell - Front to T": [
+            "30x12x2",
+            "20x12x2"
+        ],
+        "Push Ups - Body - Regular": [
+            "100x12x3"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "115x3x2",
+            "145x3x1",
+            "175x1x4"
+        ],
+        "Z Press - Barbell - Seated": [
+            "80x8x4"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "155x6x3"
+        ]
+    },
+    "219": {
+        "Step Up - Sandbag - Standing": [
+            "100x20x4"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "75x15x4"
+        ],
+        "Squat - Barbell - Pin": [
+            "55x10x1",
+            "145x8x1",
+            "235x8x3"
+        ]
+    },
+    "278": {
+        "Field Goal - Dumbbell - Standing": [
+            "20x20x4"
+        ],
+        "Raise - Dumbbell - Front to T": [
+            "20x12x4"
+        ],
+        "Push Ups - Body - Regular": [
+            "100x12x3"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "125x4x1",
+            "155x4x1",
+            "175x3x1"
+        ],
+        "Log Press - Log - Standing": [
+            "175x4x1"
+        ],
+        "Z Press - Camber Bar - Seated": [
+            "80x10x1",
+            "80x8x2",
+            "80x6x1"
+        ]
+    },
+    "220": {
+        "Step Up - Sandbag - Standing": [
+            "80x20x4"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "95x15x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "215x10x2",
+            "305x10x2",
+            "395x10x2",
+            "485x10x1",
+            "575x10x2"
+        ],
+        "Squat - Barbell - Back": [
+            "135x10x1",
+            "225x6x1",
+            "295x2x4"
+        ]
+    },
+    "279": {
+        "Banded Clam - Band - Lying": [
+            "10x20x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x20x1",
+            "225x15x1",
+            "225x10x2"
+        ],
+        "Leg Curl - Machine - Seated / Single Leg": [
+            "50x15x6"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10x1",
+            "225x10x1",
+            "315x4x1",
+            "405x1x1",
+            "365x3x1"
+        ]
+    },
+    "280": {
+        "Field Goal - Dumbbell - Standing": [
+            "20x20x4"
+        ],
+        "Raise - Dumbbell - Front to T": [
+            "20x12x4"
+        ],
+        "Push Ups - Body - Regular": [
+            "100x12x3"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "125x4",
+            "145x3",
+            "165x2",
+            "185x1x3"
+        ],
+        "Z Press - Camber Bar - Seated": [
+            "80x10"
+        ]
+    },
+    "221": {
+        "Fire Hydrant - Band - Kneeling": [
+            "10x8x3"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "90x15x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "250x10x2",
+            "310x10x2",
+            "400x10x2",
+            "540x10x2"
+        ],
+        "Squat - Yoke - Back": [
+            "215x6",
+            "255x6",
+            "305x6"
+        ]
+    },
+    "297": {
+        "OHP - Dumbbell - Standing": [
+            "60x15x2",
+            "60x10x2"
+        ],
+        "Pull Apart - Band - Standing": [
+            "15x20x3"
+        ],
+        "Log Press - Log - Standing": [
+            "100x5",
+            "150x2",
+            "200x2"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "115x5",
+            "165x2",
+            "205x2"
+        ],
+        "OHP - Sandbag - Standing": [
+            "100x5",
+            "120x2",
+            "150x2"
+        ],
+        "OHP - Barbell / Landmine - Viking": [
+            "175x3"
+        ]
+    },
+    "281": {
+        "Banded Clam - Band - Lying": [
+            "15x24x4"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x20",
+            "225x15",
+            "225x10",
+            "225x8"
+        ],
+        "Leg Curl - Machine - Seated / Single Leg": [
+            "50x15x6"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x5",
+            "225x5",
+            "315x5",
+            "385x3",
+            "435x1x3"
+        ],
+        "Carry - Husafell Stone - Walking": [
+            "100x10x3",
+            "155x10x3",
+            "210x10x3",
+            "250x10x3"
+        ],
+        "Extension - Atlas Stone - Standing": [
+            "215x5"
+        ]
+    },
+    "282": {
+        "Field Goal - Dumbbell - Standing": [
+            "30x20x4"
+        ],
+        "Raise - Dumbbell - Front to T": [
+            "30x12x4"
+        ],
+        "Push Ups - Body - Regular": [
+            "100x12x3"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "115x4",
+            "165x3",
+            "225x1",
+            "230x1",
+            "180x1"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "135x10x3"
+        ]
+    },
+    "222": {
+        "Fire Hydrant - Band - Kneeling": [
+            "20x20x6"
+        ],
+        "Step Up - Sandbag - Standing": [
+            "100x20x3"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "100x15x3"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "305x10x2",
+            "395x10x2",
+            "505x10",
+            "600x10x2"
+        ],
+        "Squat - Barbell - Pin": [
+            "135x6",
+            "225x6x2",
+            "295x6"
+        ]
+    },
+    "283": {
+        "Banded Clam - Band - Lying": [
+            "25x12x2",
+            "15x12x6"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "225x20",
+            "275x15",
+            "275x10"
+        ],
+        "Leg Curl - Machine - Seated / Single Leg": [
+            "50x15x6"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x8",
+            "315x5",
+            "365x3",
+            "405x1",
+            "425x1",
+            "445x1"
+        ]
+    },
+    "244": {
+        "Tire flips - Tire - Standing": [
+            "350x2x1",
+            "700x2x1",
+            "700x5x1"
+        ],
+        "Load - Sandbag - Standing": [
+            "135x3x1",
+            "175x1x1",
+            "135x2x1",
+            "175x1x1",
+            "220x1x1"
+        ],
+        "OHP - Keg - Standing": [
+            "100x5x1",
+            "125x1x1",
+            "150x4x1"
+        ],
+        "Squat - Yoke - Back": [
+            "165x3x1",
+            "255x3x1",
+            "305x26x1"
+        ],
+        "Throw - Natural Stone - Unspunnen": [
+            "53x2x2",
+            "110x9x3"
+        ]
+    },
+    "223": {
+        "Banded Clam - Band - Lying": [
+            "20x12x8"
+        ],
+        "Hip Thrust - Barbell - Seated": [
+            "135x20x1",
+            "135x15x1",
+            "135x10x2"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10x1",
+            "245x8x1",
+            "335x5x1",
+            "425x1x4"
+        ]
+    },
+    "298": {
+        "OHP - Dumbbell - Standing": [
+            "70x15x2",
+            "70x10x2"
+        ],
+        "Field Goal - Dumbbell - Standing": [
+            "20x20x2"
+        ],
+        "Raise - Dumbbell - Front to T": [
+            "20x12x2"
+        ],
+        "Push Ups - Body - Regular": [
+            "100x12x2"
+        ],
+        "OHP - Kettlebell - Single Arm": [
+            "55x3x1",
+            "60x1x1",
+            "70x1x1",
+            "88x1x1",
+            "105x3x1"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "50x10x1",
+            "60x5x1"
+        ]
+    },
+    "224": {
+        "Fire Hydrant - Band - Kneeling ": [
+            "15x20x4"
+        ],
+        "Squat - Dumbbell - Goblet": [
+            "75x15x2"
+        ],
+        "Step Up - Sandbag - Standing": [
+            "100x10x4"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "265x10x2",
+            "395x10x2",
+            "485x8x1",
+            "575x8x2"
+        ]
+    },
+    "303": {
+        "Raise - Dumbbell - Front": [
+            "20x10x2"
+        ],
+        "Row - Machine - Seated": [
+            "135x10x1"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10x1",
+            "225x10x1"
+        ]
+    },
+    "240": {
+        "Drag - Chain - Walking": [
+            "400x10x1"
+        ],
+        "Carry - Cross - Walking": [
+            "250x10x1"
+        ],
+        "Yoke Run - Yoke - Walking": [
+            "185x10x2",
+            "525x10x1"
+        ],
+        "Squat - Barbell - Back": [
+            "135x5x1",
+            "205x3x1",
+            "250x1x1",
+            "305x1x1",
+            "360x1x1",
+            "415x1x1",
+            "470x1x1"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "55x5x1",
+            "85x6x1"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "155x5x1",
+            "265x3x2",
+            "325x1x1",
+            "385x1x1",
+            "420x1x1",
+            "450x1x1",
+            "495x1x1"
+        ]
+    },
+    "243": {
+        "Tire flips - Tire - Standing": [
+            "500x4x1"
+        ],
+        "Carry - Odd Object - Walking": [
+            "160x10x1",
+            "125x10x1"
+        ],
+        "Hold - Hammer - Hammer": [
+            "15x3x1",
+            "35x3x1",
+            "45x9x1"
+        ],
+        "Carry - Natural Stone - Walking": [
+            "260x54x1"
+        ],
+        "Deadlift - Lever - Standing": [
+            "150x1x1",
+            "225x1x1",
+            "300x1x1",
+            "375x1x1",
+            "450x4x1"
+        ],
+        "OHP - Natural Stone - Standing": [
+            "113x3x1",
+            "125x1x1",
+            "149x1x1"
+        ]
+    },
+    "309": {
+        "OHP - Dumbbell - Standing": [
+            "60x10x3"
+        ],
+        "Log Press - Log - Standing": [
+            "135x4x3"
+        ],
+        "Load - Atlas Stone - Over Bar": [
+            "155x6x1",
+            "175x5x1",
+            "215x4x1",
+            "230x3x1",
+            "250x2x1",
+            "275x1x1"
+        ]
+    },
+    "310": {
+        "Squat - Barbell - Back": [
+            "45x10x1",
+            "135x10x1",
+            "225x8x1",
+            "275x6x1",
+            "315x1x1"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x10x1",
+            "115x10x1",
+            "155x6x1",
+            "185x2x1",
+            "135x6x1"
+        ]
+    },
+    "311": {
+        "Row - Cable - Seated": [
+            "100x12x3"
+        ],
+        "Pull Downs - Cable - Lat / JPG": [
+            "45x16x2",
+            "75x12x2"
+        ],
+        "RDL - Barbell - Standing": [
+            "135x10x3"
+        ],
+        "Row - Barbell - Pendlay": [
+            "135x10x3"
+        ],
+        "Arnold Press - Dumbbell - Seated": [
+            "60x10x3"
+        ],
+        "Bench Press - Dumbbell - Incline": [
+            "110x10x3"
+        ],
+        "Pull ups - Body - Hanging": [
+            "200x3x3"
+        ]
+    },
+    "306": {
+        "Squat - Barbell - Back": [
+            "55x10",
+            "165x10",
+            "230x6",
+            "275x3x3"
+        ],
+        "Squat - Barbell - Front": [
+            "155x8x4"
+        ]
+    },
+    "312": {
+        "Field Goal - Dumbbell - Standing": [
+            "20x20x3"
+        ],
+        "OHP - Dumbbell - Standing": [
+            "60x10x3"
+        ],
+        "Clean and Press - Axle Bar - Standing": [
+            "25x5x1",
+            "135x5",
+            "185x3x2"
+        ],
+        "Bench Press - Barbell - Flat": [
+            "115x10",
+            "165x8",
+            "235x3",
+            "255x1",
+            "165x10"
+        ]
+    },
+    "313": {
+        "Deadlift - Barbell - Standing": [
+            "45x10",
+            "135x10",
+            "225x8",
+            "316x6x3"
+        ],
+        "Load - Atlas Stone - Over Bar": [
+            "145x5",
+            "215x4",
+            "230x3",
+            "250x1"
+        ]
+    },
+    "307": {
+        "OHP - Dumbbell - Standing": [
+            "30x10x2",
+            "40x10x1"
+        ],
+        "Raise - Dumbbell - Front": [
+            "30x10x2",
+            "40x10x1"
+        ],
+        "Raise - Dumbbell - Lateral": [
+            "30x10x2",
+            "70x10x1"
+        ],
+        "Log Press - Log - Standing": [
+            "100x5x2",
+            "150x3",
+            "200x1"
+        ],
+        "Log Clean - Log - Standing": [
+            "220x5x1"
+        ],
+        "Bench Press - Barbell - Incline": [
+            "45x10",
+            "135x10",
+            "135x8x2"
+        ]
+    },
+    "308": {
+        "Squat - Barbell - Back": [
+            "45x10",
+            "155x10",
+            "245x6",
+            "310x3",
+            "350x3x3",
+            "385x1x1"
+        ],
+        "Bench Press - Axle Bar - Incline": [
+            "25x10",
+            "115x10",
+            "165x2",
+            "145x4x3"
+        ],
+        "Throw - Sandbag - Over Bar": [
+            "20x1x5",
+            "30x1x5",
+            "40x1x5"
+        ]
+    },
+    "315": {
+        "Bench Press - Barbell - Flat": [
+            "115x5",
+            "135x5",
+            "185x3",
+            "225x1",
+            "250x1"
+        ]
+    },
+    "314": {
+        "Banded Clam - Band - Lying": [
+            "15x12x6"
+        ],
+        "Deadlift - Barbell - Standing": [
+            "135x10",
+            "225x8",
+            "315x3x2",
+            "405x2x3"
+        ],
+        "Load - Atlas Stone - Over Bar": [
+            "115x2x1",
+            "155x2x1",
+            "215x2x1",
+            "250x1x1"
+        ],
+        "Row - Cable - Seated": [
+            "100x10x2",
+            "120x10x2"
+        ],
+        "Bicep Curl - Dumbbell - Hammer": [
+            "60x10x3"
+        ],
+        "Row - Barbell - Standing / Bent": [
+            "135x10x3"
+        ]
+    }
+}
