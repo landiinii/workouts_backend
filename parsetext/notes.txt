@@ -8161,9 +8161,10 @@ Row - Barbell - Standing / Bent
 
 
 
-Valhalla AF Leg Day 
 
-Deadlift
+Valhalla AF Leg Day 12-02-24
+
+Deadlift - Barbell - Standing
 135x10
 225x8
 275x6
@@ -8171,18 +8172,18 @@ Deadlift
 365x2
 385x2
 
-Stone extensions
+Extension - Atlas Stone - Standing
 175x4x2
 175x5x2
 175x6x1
 
-Good mornings
+Good Morning - Barbell - Standing
 135x8x3
 
-KB Swings
+Swing - Kettlebell - Standing
 60x8x3
 
-Ab rollouts
+Ab Rollouts - Wheel - Lying
 100x8x3
 
 
@@ -8193,24 +8194,24 @@ Ab rollouts
 
 
 
-Valhalla press day
+Valhalla AF Push Day 12-03-24
 
-Front raise
+Raise - Dumbbell - Front
 30x10x3
 
-Lateral raise
+Raise - Dumbbell - Lateral
 30x10x3
 
-Rear delt raise
+Fly - Dumbbell - Rear Delt
 30x10x3
 
-Band pull aparts
+Pull Apart - Band - Standing
 20x12x6
 
-Push ups
+Push Ups - Body - Regular
 100x12x3
 
-Log press
+Log Press - Log - Standing
 75x2
 125x6
 145x4
@@ -8223,17 +8224,17 @@ Log press
 
 
 
-Future_way Gym Leg Day 12-05-24
+Work_Gym Redo_Office Leg Day 12-05-24
 
-Bb back squats
+Squat - Barbell - Back
 45x10
 135x10
 225x5x3
 
-Machine leg curls
+Leg Curl - Machine - Seated
 180x10x3
 
-Machine leg extensions
+Leg Extension - Machine - Seated
 240x10x3
 
 
@@ -8244,31 +8245,31 @@ Machine leg extensions
 
 
 
-Valhalla AF 
+Valhalla AF Push Day 12-07-24
 
-Incline DB Bench Press
+Bench Press - Dumbbell - Incline
 70x10x3
 
-Front Raises
+Raise - Dumbbell - Front
 30x10x3
 
-Lateral raises
+Raise - Dumbbell - Lateral
 30x10x3
 
-Band pull aparts
+Pull Apart - Band - Standing
 20x15x3
 
-Viking press
+OHP - Barbell / Landmine - Viking
 60x10
 105x10
 150x8
 195x6x3
 45x5x2
 
-Ab rollouts
+Ab Rollouts - Wheel - Lying
 100x8x3
 
-Pull ups
+Pull ups - Body - Hanging
 200x5x3
 
 
@@ -8277,15 +8278,15 @@ Pull ups
 
 
 
-Valhalla pull day 12-09-24
+Valhalla AF Pull Day 12-09-24
 
-Sandbag carry
+Carry - Sandbag - Walking
 80x20x3
 
-Sandbag step ups
+Step Up - Sandbag - Standing
 80x10x3
 
-Raised deadlift
+Deadlift - Barbell / Wagon Wheel - Standing / Raised
 135x10
 225x8
 315x8
@@ -8293,11 +8294,11 @@ Raised deadlift
 365x8
 365x4x2
 
-Lunges
+Lunges - Dumbbell - Walking
 270x15x2
 270x10x1
 
-Good mornings
+Good Morning - Barbell - Standing
 155x10x3
 
 
@@ -8308,19 +8309,19 @@ Good mornings
 
 Valhalla AF Push Day 12-10-24
 
-KB single arm OHP
+OHP - Kettlebell - Single Arm
 20x12x2
 35x10x4
 
-Pushups
+Push Ups - Body - Regular
 100x10x1
 150x10x2
 
-Axle clean and press
+Clean and Press - Axle Bar - Standing
 135x5
 185x3x3
 
-CG incline bench press
+Bench Press - Barbell - Incline / Close Grip
 135x8x3
 
 
@@ -8331,7 +8332,7 @@ CG incline bench press
 
 Valhalla AF Leg Day 12-12-24
 
-Bb back squat
+Squat - Barbell - Back
 55x10
 145x10
 195x10
@@ -8348,28 +8349,45 @@ Bb back squat
 
 
 Valhalla AF Strongman Day 12-14-24
-*written down on notebook
+
+Pull Apart - Band - Standing
+20x30x3
+
+OHP - Dumbbell - Standing
+60x10x3
+
+Hip Thrust - Sandbag - Seated / Single Leg
+100x20x3
+
+Squat - Dumbbell - Goblet
+70x10x3
+
+OHP - Barbell / Landmine - Viking
+60x10
+105x10
+150x8
+195x6
+240x2
+195x6
+150x10
 
 
 
 
 
+Valhalla AF Pull Day 12-16-24
 
-
-
-Valhalla AF pull day 12-16-24
-
-Deadlift
+Deadlift - Barbell - Standing
 135x10
 225x5
 275x5
 315x5
 365x3x2
 
-Hamstring curls
+Leg Curl - Machine - Seated
 100x12x3
 
-Ab rollouts
+Ab Rollouts - Wheel - Lying
 100x8x3
 
 
@@ -8379,16 +8397,16 @@ Ab rollouts
 
 Valhalla AF Push Day 12-17-24
 
-Standing KB press
+OHP - Kettlebell - Single Arm
 40x10x6
 
-Banded pull aparts
+Pull Apart - Band - Standing
 20x15x6
 
-Push ups
+Push Ups - Body - Regular
 100x10x3
 
-Circus DB
+OHP - Circus Dumbbell - Single Arm
 55x5
 75x5
 95x3
@@ -8402,16 +8420,16 @@ Circus DB
 
 Valhalla AF Push Day 12-21-24
 
-Standing DB OHP
+OHP - Dumbbell - Standing
 70x10x3
 
-Single arm cable tricep extensions
+Tricep Extensions - Cable - Standing / Single Arm
 22x10x6
 
-Banded pull aparts
+Pull Apart - Band - Standing
 20x20x3
 
-Viking press
+OHP - Barbell / Landmine - Viking
 60x10
 105x10
 150x8
@@ -8425,16 +8443,16 @@ Viking press
 
 
 
-Iron_legacy Boise PL Day 12-24-25
+Vacation Iron_Legacy_Barbell Leg Day 12-24-25
 
-Goblet squats
+Squat - Dumbbell - Goblet
 70x10
 85x10x2
 
-Hip thrusts
+Hip Thrust - Barbell - Seated
 200x10x3
 
-Bbb Squats
+Squat - Barbell - Back
 45x10
 165x10
 230x8
@@ -8445,24 +8463,24 @@ Bbb Squats
 
 
 
-Iron legacy push day 12-26-24
+Vacation Iron_Legacy_Barbell Push Day 12-26-24
 
-Standing db OHP
+OHP - Dumbbell - Standing
 100x10x3
 
-Lat raise
+Raise - Dumbbell - Lateral
 50x10
 60x10x3
 
-Front raise
+Raise - Dumbbell - Front
 60x10x3
 
-Log press
+Log Press - Log - Standing
 150x5
 180x3
 200x1x4
 
-Incline neutral grip close grip bench press
+Bench Press - Neutral Grip Bar - Incline / Close Grip
 45x10
 135x10x3
 
@@ -8473,25 +8491,25 @@ Incline neutral grip close grip bench press
 
 
 
-Iron legacy barbell pull day
+Vacation Iron_Legacy_Barbell Pull Day 12-27-24
 
-Banded clams
+Banded Clam - Band - Lying
 10x10x2
 20x10x4
 
-Weighted lunges
+Lunges - Dumbbell - Walking
 110x10x4
 
-Rear delt flys
+Fly - Dumbbell - Rear Delt
 50x10x3
 
-Axle deadlift
+Deadlift - Axle Bar - Standing
 135x10
 265x3x2
 355x3
 405x3x2
 
-Rows
+Row - Cable - Seated
 55x10
 100x10
 145x10x3
@@ -8503,19 +8521,19 @@ Rows
 
 Valhalla AF Pull Day 12-30-24
 
-Lunges
+Lunges - Dumbbell - Walking
 90x10x3
 
-Sandbag carry
+Carry - Sandbag - Walking
 120x20x3
 
-Axle Deadlifts
+Deadlift - Axle Bar - Standing
 135x10
 225x10
 315x8
 365x3x2
 
-Stone to Platform
+Load - Atlas Stone - Platform
 155x4
 215x4
 230x4
@@ -8525,18 +8543,18 @@ Stone to Platform
 
 
 
-Valhalla AF Push Day 01-03-24
+Valhalla AF Push Day 01-03-25
 
-Db standing OHP
+OHP - Dumbbell - Standing
 90x10x3
 
-Band pull aparts
+Pull Apart - Band - Standing
 20x24x3
 
-Pushups
+Push Ups - Body - Regular
 100x10x3
 
-Axle c/p
+Clean and Press - Axle Bar - Standing
 115x5x2
 165x3
 205x1x3
@@ -8544,19 +8562,20 @@ Axle c/p
 
 
 
-Valhalla AF Leg Day
 
-Bb back squat
+Valhalla AF Leg Day 01-04-25
+
+Squat - Barbell - Back
 55x10
 155x10
 242x8
 309x8
 309x10
 
-Hamstring curls
+Leg Curl - Machine - Seated
 100x10x3
 
-Bicep curls
+Bicep Curl - EZ Bar - Seated
 65x10x3
 
 
@@ -8566,27 +8585,27 @@ Bicep curls
 
 
 
-Valhalla AF Pull Day
+Valhalla AF Pull Day 01-06-25
 
-Single leg hip thrust
+Hip Thrust - Sandbag - Seated / Single Leg
 100x10x6
 
-Monster walks
+Monster Walk - Band - Standing
 20x10x5
 
-Wall sit
+Wall Sit - Body - Seated
 100x12x3
 
-Wagon wheel deadlift
+Deadlift - Barbell / Wagon Wheel - Standing / Raised
 135x10
 225x6
 315x3x3
 405x1
 
-Stone extensions
+Extension - Atlas Stone - Standing
 230x4x2
 
-Single leg leg press
+Leg Press - Machine - Seated / Single Leg
 155x12x8
 
 
@@ -8594,32 +8613,32 @@ Single leg leg press
 
 
 
-Valhalla push day
+Valhalla AF Push Day 01-07-25
 
-Banded pull aparts
+Pull Apart - Band - Standing
 20x15x6
 
-Praise the lords
+Praise the Lord - Dumbbell - Standing
 10x10x3
 
-Sots press
+OHP - Barbell - Sots
 45x10x3
 
-Viking press
+OHP - Barbell / Landmine - Viking
 105x10
 150x5
 175x12
 175x8x2
 
-Sand bag throw 14’
+Throw - Sandbag - Over Bar
 20x4
 30x8
 40x8
 
-Bb jerk press
+OHP - Barbell - Push
 135x3x4
 
-Db Z press
+Z Press - Dumbbell - Seated
 50x10
 60x12x2
 
@@ -8628,18 +8647,18 @@ Db Z press
 
 
 
-Valhalla AF leg day
+Valhalla AF Leg Day 01-09-25
 
-Single leg quad extension 
+Leg Extension - Machine - Seated / Single Leg
 50x15x2
 100x15x4
 
-Harness sled pulls
-200x30
-400x30
-600x30x2
+Pull - Sled - Harness
+200x6
+400x6
+600x6x2
 
-Ssb squats
+Squat - SSB - Back
 60x10
 150x8
 240x8
@@ -8647,7 +8666,7 @@ Ssb squats
 290x6
 330x4
 
-Sandbag carries
+Carry - Sandbag - Walking
 130x20x2
 
 
@@ -8656,44 +8675,44 @@ Sandbag carries
 
 
 
-Valhalla AF Push day
+Valhalla AF Push Day 01-11-25
 
-Lateral raises
+Raise - Dumbbell - Lateral
 30x8
 40x10x2
 
-Front raises
+Raise - Dumbbell - Front
 30x8
 40x10x2
 
-Rear delt raises
+Fly - Dumbbell - Rear Delt
 30x8
 40x10x2
 
-Single arm tricep extensions
+Tricep Extensions - Cable - Standing / Single Arm
 22x12x6
 
-Sandbag throws
+Throw - Sandbag - Over Bar
 20x5
 30x7
 40x8
 
-Bb Incline bench press
+Bench Press - Barbell - Incline
 135x10x3
 
-Snatch grip bb bent rows
+Row - Barbell - Snatch Grip / Bent
 135x10x4
 
-Single arm cable lat pull downs
+Pull Downs - Cable - Lat / Single Arm
 65x12x2
 88x12x2
 100x12x2
 
-Face pulls
+Face Pulls - Cable - Standing
 77x15
 100x15x2
 
-Russian twists
+Russian Twists - Plate - Seated
 45x20
 25x20
 
@@ -8701,31 +8720,31 @@ Russian twists
 
 
 
-Valhalla AF pull day 01-13
+Valhalla AF Pull Day 01-13-25
 
-Single leg hip thrust
+Hip Thrust - Sandbag - Seated / Single Leg
 80x10x6
 
-Monster walks
+Monster Walk - Band - Standing
 20x10x6
 
-Wall sits
+Wall Sit - Body - Seated
 100x12x3
 
-Wagon wheel deadlifts
+Deadlift - Barbell / Wagon Wheel - Standing / Raised
 135x10
 225x8
 315x5
 385x3x3
 435x1x2
 
-Stone extensions
+Extension - Atlas Stone - Standing
 250x4x2
 
-Single leg leg press
+Leg Press - Machine - Seated / Single Leg
 200x12x8
 
-Nordic curls
+Leg Curl - Machine - Nordic
 60x8x4
 
 
@@ -8735,18 +8754,18 @@ Nordic curls
 
 
 
-Valhalla AF Press Day 01-15-2025
+Valhalla AF Push Day 01-15-25
 
-Band pull aparts
+Pull Apart - Band - Standing
 20x20x6
 
-Sots press
+OHP - Barbell - Sots
 45x10x3
 
-Praise the lords
+Praise the Lord - Dumbbell - Standing
 10x10x3
 
-Viking press
+OHP - Barbell / Landmine - Viking
 50x10
 150x8
 195x6
@@ -8754,22 +8773,22 @@ Viking press
 195x3
 175x8
 
-Sand bag toss
+Throw - Sandbag - Over Bar
 20x4
 30x8
 35x2
 40x4
 
-BB push jerk
+OHP - Barbell - Push
 135x5
 185x4x2
 
-Skull crushers
+Skull Crusher - Ez Bar - Incline
 65x15
 85x15
 75x15
 
-Db z press
+Z Press - Dumbbell - Seated
 60x10
 90x5
 80x5
@@ -8779,21 +8798,21 @@ Db z press
 
 
 
-Valhalla leg day 01-23-2025
+Valhalla AF Leg Day 01-23-25
 
-Weighted stair steps
+Stair Climb - Dumbbell - Standing
 60x10x2
 80x10x2
 
-Single leg quad extension 
+Leg Extension - Machine - Seated / Single Leg
 50x15x2
 100x15x4
 
-Sled pull
+Pull - Sled - Harness / Anchor
 200x10x2
 600x10x2
 
-Belt squat
+Squat - Belt Machine - Front
 200x15x3
 
 
@@ -8801,44 +8820,44 @@ Belt squat
 
 
 
-Valhalla press day 01-25-2025
+Valhalla AF Push Day 01-25-25
 
-Front raises
+Raise - Dumbbell - Front
 30x10
 40x8x2
 
-Side raises
+Raise - Dumbbell - Lateral
 30x10
 40x8x2
 
-Rear delt raises
+Fly - Dumbbell - Rear Delt
 30x10
 40x8x2
 
-Single arm cable tricep extensions
+Tricep Extensions - Cable - Standing / Single Arm
 15x12x6
 
-Sand bag throws
+Throw - Sandbag - Over Bar
 30x10
 35x5
 40x5
 
-Incline bb bench press
+Bench Press - Barbell - Incline
 135x10x3
 
-Snatch grip bent rows
+Row - Barbell - Snatch Grip / Bent
 135x10x3
 
-Face pulls
+Face Pulls - Cable - Standing
 100x10x3
 
-Single arm seated cable pull downs
+Pull Downs - Cable - Seated / Single Arm
 100x12x6
 
-Cable pull downs
+Pull Downs - Cable - Lat
 90x10x3
 
-Atlas Stones to platform
+Load - Atlas Stone - Platform
 175x4
 215x3
 230x3
@@ -8851,25 +8870,25 @@ Atlas Stones to platform
 
 
 
-Valhalla AF Pull Day 01-27-24
+Valhalla AF Pull Day 01-27-25
 
-Single leg hip thrust
+Hip Thrust - Sandbag - Seated / Single Leg
 60x10x4
 100x10x4
 
-Monster stair walks
+Monster Walk - Band - Stair
 20x10x5
 
-Wall sits
+Wall Sit - Body - Seated
 100x10x3
 
-Wagon wheel deadlifts
+Deadlift - Barbell / Wagon Wheel - Standing / Raised
 135x10
 335x6
 445x2x4
 475x1
 
-Atlas stones over bar
+Load - Atlas Stone - Over Bar
 230x2
 250x2
 275x1
@@ -8881,25 +8900,25 @@ Atlas stones over bar
 
 
 
-Valhalla AF push day 01-28-25
+Valhalla AF Push Day 01-28-25
 
-Band pull aparts
+Pull Apart - Band - Standing
 20x20x6
 
-Praise the lords
+Praise the Lord - Dumbbell - Standing
 5x10x3
 
-Sotts press
+OHP - Barbell - Sots
 45x10x3
 
-Viking press
+OHP - Barbell / Landmine - Viking
 60x10
 105x5
 150x5
 175x8x2
 150x8
 
-Sandbag toss
+Throw - Sandbag - Over Bar
 20x10
 30x10
 35x5
@@ -8910,26 +8929,25 @@ Sandbag toss
 
 
 
-Valhalla AF leg day 01-30-25
+Valhalla AF Leg Day 01-30-25
 
-Single leg quad extensions
+Leg Extension - Machine - Seated / Single Leg
 75x15x6
 
-Sled pull
+Pull - Sled - Harness / Anchor
 200x8x2
 600x8
 800x8
 300x8x2
 400x8x2
 
-Ssb squats
+Squat - SSB - Back
 70x10
 160x8
 210x6
 260x4
 
-
-Belt Squats
+Squat - Belt Machine - Front
 200x15x3
 
 
@@ -8938,46 +8956,46 @@ Belt Squats
 
 
 
-Valhalla AF Push day
+Valhalla AF Push Day 02-01-25
 
-Lateral raises
+Raise - Dumbbell - Lateral
 30x8
 40x10
 40x8
 
-Front raises
+Raise - Dumbbell - Front
 30x8
 40x10
 40x8
 
-Rear delt raises
+Fly - Dumbbell - Rear Delt
 30x8
 40x10
 40x8
 
-Db OHP
+OHP - Dumbbell - Standing
 30x8
 40x10
 40x8
 
-Sandbag throws
+Throw - Sandbag - Over Bar
 30x10
 35x5
 40x10
 
-Viking press
+OHP - Barbell / Landmine - Viking
 100x6
 150x6
 315x6x3
 
-Incline bb bench press
+Bench Press - Barbell - Incline
 135x6x3
 
-Snatch grip bent bb rows
+Row - Barbell - Snatch Grip / Bent
 135x10x3
 
-Truck pull
-300x10
+Pull - Truck - Standing
+600x10
 
 
 
@@ -8985,50 +9003,50 @@ Truck pull
 
 
 
-Valhalla press day 02-03-25
+Valhalla AF Push Day 02-03-25
 
-Banded pull aparts
+Pull Apart - Band - Standing
 20x40x3
 
-Praise the lords
+Praise the Lord - Dumbbell - Standing
 10x10x3
 
-Sotts press
+OHP - Barbell - Sots
 45x10x3
 
-Viking press
+OHP - Barbell / Landmine - Viking
 100x6
 150x6
 315x6x3
 
-Sandbag throws
+Throw - Sandbag - Over Bar
 30x10
 35x5
 40x5
 
-Skull crushers 
+Skull Crusher - Ez Bar - Incline
 75x15x3
 
 
 
 
-Valhalla AF pull day 02-04-25
+Valhalla AF Pull Day 02-04-25
 
-Single leg hip thrust sandbag
+Hip Thrust - Sandbag - Seated / Single Leg
 80x10x6
 
-Monster stair walks
+Monster Walk - Band - Stair
 20x10x5
 
-Wall sit
+Wall Sit - Body - Seated
 100x15x2
 
-Deadlifts
+Deadlift - Barbell - Standing
 135x10
 225x6
 330x2x5
 
-Stone extensions
+Extension - Atlas Stone - Standing
 155x4x3
 
 
@@ -9037,23 +9055,23 @@ Stone extensions
 
 
 
-Valhalla Strongman Day 02-08-25
+Valhalla AF Strongman Day 02-08-25
 
-Lateral raises
+Raise - Dumbbell - Lateral
 40x8x3
 
-Front raises
+Raise - Dumbbell - Front
 40x8x3
 
-Rear delt raises
+Fly - Dumbbell - Rear Delt
 40x8x3
 
-Sandbag throws
+Throw - Sandbag - Over Bar
 30x10
 35x5
 40x10
 
-Vehicle pulls
+Pull - Truck - Standing
 600x10
 1000x10x2
 
@@ -9062,24 +9080,24 @@ Vehicle pulls
 
 
 
-Valhalla pull day
+Valhalla AF Pull Day 02-10-25
 
-Single leg sandbag hip thrust
+Hip Thrust - Sandbag - Seated / Single Leg
 130x10x4
 
-Monster walks
+Monster Walk - Band - Stair
 20x10x5
 
-Wall sits
+Wall Sit - Body - Seated
 100x15x2
 
-Wagon wheel deadlift
+Deadlift - Barbell / Wagon Wheel - Standing / Raised
 135x10
 225x8
 315x4
 405x2
 
-Stone over bar
+Load - Atlas Stone - Over Bar
 230x2
 250x2
 275x2
@@ -9088,18 +9106,18 @@ Stone over bar
 
 
 
-Valhalla Push Day 02-12-25
+Valhalla AF Push Day 02-12-25
 
-Banded pull aparts
+Pull Apart - Band - Standing
 15x20x3
 
-Praise the lords
+Praise the Lord - Dumbbell - Standing
 10x10x3
 
-Sotts press
+OHP - Barbell - Sots
 45x10x3
 
-Viking press
+OHP - Barbell / Landmine - Viking
 60x5
 100x5
 150x5
@@ -9107,7 +9125,7 @@ Viking press
 220x7
 220x8
 
-Sandbag throw
+Throw - Sandbag - Over Bar
 30x10
 35x5
 40x5
@@ -9116,21 +9134,21 @@ Sandbag throw
 
 
 
-Valhalla leg day 02-13-25
+Valhalla AF Leg Day 02-13-25
 
-Stair climbs
+Stair Climb - Dumbbell - Standing
 90x10x6
 
-Single leg quad extensions
+Leg Extension - Machine - Seated / Single Leg
 90x15x6
 
-Sled pulls
+Pull - Sled - Harness / Anchor
 200x10
 500x10
 900x10
 400x10
 
-Ssb squats
+Squat - SSB - Back
 70x10
 180x8
 290x5
@@ -9138,18 +9156,18 @@ Ssb squats
 
 
 
-Valhalla strongman day 02-15-25
+Valhalla AF Strongman Day 02-15-25
 
-Lateral raises
+Raise - Dumbbell - Lateral
 40x8x3
 
-Front raises
+Raise - Dumbbell - Front
 40x8x3
 
-Rear delt raises
+Fly - Dumbbell - Rear Delt
 40x8x3
 
-Sandbag throws
+Throw - Sandbag - Over Bar
 30x10
 35x5
 40x10
@@ -9159,18 +9177,18 @@ Sandbag throws
 
 
 
-Valhalla pull day 02-17
+Valhalla AF Pull Day 02-17-25
 
-Single leg sandbag hip thrust
+Hip Thrust - Sandbag - Seated / Single Leg
 100x10x6
 
-Monster walk
+Monster Walk - Band - Stair
 20x10x6
 
-Wall sit
+Wall Sit - Body - Seated
 100x15x2
 
-Wagon wheel Deadlift
+Deadlift - Barbell / Wagon Wheel - Standing / Raised
 225x5
 315x3
 405x1
@@ -9182,25 +9200,25 @@ Wagon wheel Deadlift
 
 
 
-Valhalla Push Day 02-19
+Valhalla AF Push Day 02-19-25
 
-Banded pull aparts
+Pull Apart - Band - Standing
 20x20x6
 
-Praise the lords
+Praise the Lord - Dumbbell - Standing
 10x10x3
 
-Sotts press
+OHP - Barbell - Sots
 45x10x3
 
-Viking press
+OHP - Barbell / Landmine - Viking
 60x10
 100x10
 150x8
 195x5
 230x5x2
 
-Sandbag toss
+Throw - Sandbag - Over Bar
 30x10
 35x5
 40x5
@@ -9210,15 +9228,15 @@ Sandbag toss
 
 
 
-Valhalla Pull day 02-21
+Valhalla AF Pull Day 02-21-25
 
-Weighted stair climbs
+Stair Climb - Dumbbell - Standing
 80x10x5
 
-Single leg extensions
+Leg Extension - Machine - Seated / Single Leg
 100x15x6
 
-Atlas stone to platform
+Load - Atlas Stone - Platform
 215x2
 230x2
 250x1
@@ -9234,23 +9252,23 @@ Atlas stone to platform
 
 
 
-Valhalla pull day 02-24
+Valhalla AF Pull Day 02-24-25
 
-Single leg sandbag hip thrust
+Hip Thrust - Sandbag - Seated / Single Leg
 80x10x6
 
-Monster stair walks
+Monster Walk - Band - Stair
 20x10x5
 
-Wall sits
+Wall Sit - Body - Seated
 100x15x2
 
-Wagon wheel Deadlifts
+Deadlift - Barbell / Wagon Wheel - Standing / Raised
 135x3
 225x3
 295x1x8
 
-Atlas stones over bar
+Load - Atlas Stone - Over Bar
 230x4
 
 
@@ -9260,31 +9278,31 @@ Atlas stones over bar
 
 
 
-Valhalla leg day 03-01
+Valhalla AF Leg Day 03-01-25
 
-Single leg extensions
+Leg Extension - Machine - Seated / Single Leg
 100x15x6
 
-Seated Hamstring curls
+Leg Curl - Machine - Seated
 100x10x2
 
-Monster walks
+Monster Walk - Band - Standing
 20x10x6
 
-Farmers walks
+Carry - Farmers - Walking
 270x10x2
 450x3
 
-Truck pulls
-10000x10x2
+Pull - Truck - Standing
+1000x10x2
 
-Sandbag throws
+Throw - Sandbag - Over Bar
 30x10
 35x5
 40x2
 45x3
 
-Ssb squats
+Squat - SSB - Back
 70x10
 160x8
 250x8

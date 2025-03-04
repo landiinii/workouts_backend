@@ -7,6 +7,23 @@ def build_tables(con):
             )
     """)
     
+    con.sql("CREATE SEQUENCE IF NOT EXISTS seq_muscle_group_id START 1;");
+    con.sql("""
+            CREATE TABLE IF NOT EXISTS muscle_group (
+                id SMALLINT PRIMARY KEY DEFAULT NEXTVAL('seq_muscle_group_id'),
+                name VARCHAR
+            )
+    """)
+    
+    con.sql("CREATE SEQUENCE IF NOT EXISTS seq_movement_muscle_group_id START 1;");
+    con.sql("""
+            CREATE TABLE IF NOT EXISTS movement_muscle_group (
+                id INTEGER PRIMARY KEY DEFAULT NEXTVAL('seq_movement_muscle_group_id'),
+                movement_id SMALLINT REFERENCES movement(id),
+                muscle_group_id SMALLINT REFERENCES muscle_group(id),
+            )
+    """)
+    
     con.sql("CREATE SEQUENCE IF NOT EXISTS seq_position_id START 1;");
     con.sql("""
             CREATE TABLE IF NOT EXISTS position (
@@ -53,6 +70,328 @@ def build_tables(con):
             )
     """)
 
+def get_muscle_group_names(movement):
+    movement_muscle_groups = {
+        "Ab Rollouts": [
+            "Abs",
+            "Obliques",
+            "Lower Back"
+        ],
+        "Arnold Press": [
+            "Shoulders",
+            "Biceps",
+            "Triceps"
+        ],
+        "Back Extension": [
+            "Lower Back",
+            "Glutes",
+            "Hamstrings"
+        ],
+        "Banded Clam": [
+            "Glutes",
+            "Hip Abductors"
+        ],
+        "Bench Press": [
+            "Chest",
+            "Triceps",
+            "Shoulders"
+        ],
+        "Bicep Curl": [
+            "Biceps"
+        ],
+        "Block Pull": [
+            "Lats",
+            "Back",
+            "Hamstrings",
+            "Glutes",
+            "Legs",
+            "Posterior Chain"
+        ],
+        "Calf Raise": [
+            "Calves"
+        ],
+        "Carry": [
+            "Full Body",
+            "Forearms",
+            "Shoulders",
+            "Core"
+        ],
+        "Chest": [
+            "Chest"
+        ],
+        "Clean and Press": [
+            "Full Body",
+            "Legs",
+            "Back",
+            "Shoulders",
+            "Arms"
+        ],
+        "Crunch": [
+            "Abs"
+        ],
+        "Deadhang": [
+            "Forearms",
+            "Shoulders",
+            "Back"
+        ],
+        "Deadlift": [
+            "Back",
+            "Legs",
+            "Glutes",
+            "Hamstrings",
+            "Core"
+        ],
+        "Dip": [
+            "Triceps",
+            "Chest",
+            "Shoulders"
+        ],
+        "Drag": [
+            "Full Body",
+            "Legs",
+            "Back",
+            "Arms"
+        ],
+        "Extension": [
+            "Triceps"
+        ],
+        "Face Pulls": [
+            "Shoulders",
+            "Upper Back",
+            "Rear Delts"
+        ],
+        "Field Goal": [
+            "Shoulders"
+        ],
+        "Fingal Finger": [
+            "Full Body",
+            "Legs",
+            "Back",
+            "Shoulders"
+        ],
+        "Fire Hydrant": [
+            "Glutes",
+            "Hip Abductors"
+        ],
+        "Fly": [
+            "Chest",
+            "Shoulders"
+        ],
+        "French Press": [
+            "Triceps"
+        ],
+        "GHR": [
+            "Hamstrings",
+            "Glutes",
+            "Lower Back"
+        ],
+        "Good Morning": [
+            "Lower Back",
+            "Hamstrings",
+            "Glutes"
+        ],
+        "Hip Abductor": [
+            "Glutes",
+            "Hip Abductors"
+        ],
+        "Hip Adductor": [
+            "Inner Thighs"
+        ],
+        "Hip Thrust": [
+            "Glutes",
+            "Hamstrings",
+            "Lower Back"
+        ],
+        "Hold": [
+            "Full Body",
+            "Core",
+            "Forearms"
+        ],
+        "Kicks": [
+            "Legs",
+            "Glutes"
+        ],
+        "Leg Curl": [
+            "Hamstrings"
+        ],
+        "Leg Extension": [
+            "Quadriceps"
+        ],
+        "Leg Press": [
+            "Legs",
+            "Quadriceps",
+            "Glutes"
+        ],
+        "Leg Raise": [
+            "Abs",
+            "Hip Flexors"
+        ],
+        "Leg raise": [
+            "Abs",
+            "Hip Flexors"
+        ],
+        "Load": [
+            "Full Body",
+            "Legs",
+            "Back"
+        ],
+        "Log Clean": [
+            "Full Body",
+            "Legs",
+            "Back"
+        ],
+        "Log Press": [
+            "Shoulders",
+            "Triceps"
+        ],
+        "Lunges": [
+            "Legs",
+            "Glutes"
+        ],
+        "Monster Walk": [
+            "Glutes",
+            "Hip Abductors"
+        ],
+        "OHP": [
+            "Shoulders",
+            "Triceps"
+        ],
+        "Pick": [
+            "Full Body"
+        ],
+        "Plank": [
+            "Abs"
+        ],
+        "Praise the Lord": [
+            "Shoulders"
+        ],
+        "Pull": [
+            "Back",
+            "Biceps"
+        ],
+        "Pull Apart": [
+            "Shoulders",
+            "Upper Back"
+        ],
+        "Pull Downs": [
+            "Back",
+            "Biceps"
+        ],
+        "Pull Over": [
+            "Chest",
+            "Back"
+        ],
+        "Pull ups": [
+            "Back",
+            "Biceps"
+        ],
+        "Push": [
+            "Chest",
+            "Triceps"
+        ],
+        "Push Ups": [
+            "Chest",
+            "Triceps"
+        ],
+        "RDL": [
+            "Hamstrings",
+            "Glutes"
+        ],
+        "Rack Pull": [
+            "Back",
+            "Legs"
+        ],
+        "Raise": [
+            "Shoulders"
+        ],
+        "Reverse Hyper": [
+            "Lower Back",
+            "Glutes"
+        ],
+        "Row": [
+            "Back",
+            "Biceps"
+        ],
+        "Russian Twists": [
+            "Abs",
+            "Obliques"
+        ],
+        "Shoulder": [
+            "Shoulders"
+        ],
+        "Shrug": [
+            "Traps"
+        ],
+        "Side Bend": [
+            "Obliques"
+        ],
+        "Skull Crusher": [
+            "Triceps"
+        ],
+        "Squat": [
+            "Legs",
+            "Glutes"
+        ],
+        "Stair Climb": [
+            "Legs",
+            "Glutes"
+        ],
+        "Step Up": [
+            "Legs",
+            "Glutes"
+        ],
+        "Swing": [
+            "Full Body"
+        ],
+        "Throw": [
+            "Full Body"
+        ],
+        "Tire flips": [
+            "Full Body"
+        ],
+        "Toes to Bar": [
+            "Abs"
+        ],
+        "Tricep Extensions": [
+            "Triceps"
+        ],
+        "Tricep Press": [
+            "Triceps"
+        ],
+        "Wall Sit": [
+            "Legs"
+        ],
+        "Wheelbarrow Runs": [
+            "Full Body"
+        ],
+        "Windmills": [
+            "Abs",
+            "Obliques"
+        ],
+        "Yoke Run": [
+            "Full Body"
+        ],
+        "Z Press": [
+            "Shoulders",
+            "Triceps"
+        ]
+        }
+    return movement_muscle_groups.get(movement, [])
+
+def get_muscle_group_id(con, muscle_group):
+    con.execute(
+        "SELECT id from muscle_group where name = ?;",
+        (muscle_group,),
+    )
+    muscle_group_id = con.fetchone()
+    if muscle_group_id == None:
+        con.execute(
+            "INSERT INTO muscle_group(name) VALUES(?) RETURNING id;",
+            (muscle_group,),
+        )
+        muscle_group_id = con.fetchone()
+    return muscle_group_id[0]
+
 def get_movement_id(con, movement):
     con.execute(
         "SELECT id from movement where name = ?;",
@@ -65,6 +404,14 @@ def get_movement_id(con, movement):
             (movement,),
         )
         movement_id = con.fetchone()
+        muscle_groups = get_muscle_group_names(movement)
+        print(movement, muscle_groups)
+        for muscle_group in muscle_groups:
+            muscle_group_id = get_muscle_group_id(con, muscle_group)
+            con.execute(
+                "INSERT INTO movement_muscle_group(movement_id, muscle_group_id) VALUES(?, ?);",
+                (movement_id[0], muscle_group_id),
+            )
     return movement_id[0]
 
 def get_position_id(con, position):
